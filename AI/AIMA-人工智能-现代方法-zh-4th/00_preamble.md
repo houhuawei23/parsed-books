@@ -221,7 +221,3 @@ A Modern Approach, Fourth Edition
 彼得·诺维格（Peter Norvig）曾任谷歌公司研究总监、核心网络搜索算法负责人。他曾与他人共同教授一门有 16 万名学生注册的在线人工智能课程，帮助开启了当下的大规模在线公开课的大幕。他曾任美国国家航空航天局艾姆斯研究中心计算科学部负责人，负责人工智能和机器人学的研究和开发。他获得了布朗大学应用数学学士学位和加利福尼亚大学伯克利分校计算机科学博士学位。他曾任南加利福尼亚大学教授和加利福尼亚大学伯克利分校、斯坦福大学教师。他是国际先进人工智能学会和国际计算机学会的会士，以及美国艺术与科学院和加利福尼亚科学院的院士。他的其他著作包括 Paradigms of AI Programming: Case Studies inCommon Lisp、Verbmobil: A Translation System for Face-to-Face Dialog 和 Intelligent Help Systemsfor UNIX。
 
 两位作者共同获得了 2016 年首届 AAAI/EAAI 杰出教育家奖。
-
-
-
-

@@ -68,7 +68,6 @@ $$
 \mathbb {E} _ {D _ {m} \sim \mathcal {D} ^ {m}} \left[ R \left(\mathfrak {L} _ {D _ {m}}\right)\right]\rightarrow R \left(h ^ {*}\right), \tag {6.21}
 $$
 
-
 一致性反映了在训练数据足够多的情形下，算法 $\mathfrak{L}$ 能否学习得到贝叶斯最优分类器；即，是否与最优一致？
 
 在理论上，一致性刻画了学习算法 $\mathfrak{L}$ 在无限多数据情形下学习的性能极限。

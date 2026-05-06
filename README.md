@@ -10,6 +10,7 @@ A collection of parsed machine learning and computer science books in Markdown f
 ## Purpose
 
 This repository contains structured markdown versions of technical books for easier:
+
 - Searching and referencing
 - Note-taking and annotation
 - Cross-linking between concepts
@@ -18,6 +19,7 @@ This repository contains structured markdown versions of technical books for eas
 ## Structure
 
 Each book is organized into individual markdown files by chapter, with:
+
 - Original content preserved in structured format
 - Mathematical notation maintained
 - Code examples and algorithms included
