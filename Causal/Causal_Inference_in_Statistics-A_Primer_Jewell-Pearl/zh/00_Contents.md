@@ -1,0 +1,69 @@
+## 目录（Contents）
+
+- 关于作者（About the Authors）
+- 前言（Preface）
+- 插图列表（List of Figures）
+- 配套网站（About the Companion Website）
+- 1 预备知识：统计模型与因果模型（Preliminaries: Statistical and Causal Models）
+  - 1.1 为什么要研究因果关系（Why Study Causation）
+  - 1.2 辛普森悖论（Simpson’s Paradox）
+  - 1.3 概率与统计（Probability and Statistics）
+    - 1.3.1 变量（Variables）
+    - 1.3.2 事件（Events）
+    - 1.3.3 条件概率（Conditional Probability）
+    - 1.3.4 独立性（Independence）
+    - 1.3.5 概率分布（Probability Distributions）
+    - 1.3.6 全概率公式（The Law of Total Probability）
+    - 1.3.7 使用贝叶斯法则（Using Bayes’ Rule）
+    - 1.3.8 期望值（Expected Values）
+    - 1.3.9 方差与协方差（Variance and Covariance）
+    - 1.3.10 回归（Regression）
+    - 1.3.11 多元回归（Multiple Regression）
+  - 1.4 图（Graphs）
+  - 1.5 结构因果模型（Structural Causal Models）
+    - 1.5.1 因果假设的建模（Modeling Causal Assumptions）
+    - 1.5.2 乘积分解（Product Decomposition）
+- 2 图模型及其应用（Graphical Models and Their Applications）
+  - 2.1 连接模型与数据（Connecting Models to Data）
+  - 2.2 链与叉（Chains and Forks）
+  - 2.3 对撞因子（Colliders）
+  - 2.4 d-分离（d-separation）
+  - 2.5 模型检验与因果搜索（Model Testing and Causal Search）
+- 3 干预的效果（The Effects of Interventions）
+  - 3.1 干预（Interventions）
+  - 3.2 调整公式（The Adjustment Formula）
+    - 3.2.1 调整还是不调整？（To Adjust or not to Adjust?）
+    - 3.2.2 多重干预与截断乘积规则（Multiple Interventions and the Truncated Product Rule）
+  - 3.3 后门准则（The Backdoor Criterion）
+  - 3.4 前门准则（The Front-Door Criterion）
+  - 3.5 条件干预与协变量特定效应（Conditional Interventions and Covariate-Specific Effects）
+  - 3.6 逆概率加权（Inverse Probability Weighing）
+  - 3.7 中介（Mediation）
+  - 3.8 线性系统中的因果推断（Causal Inference in Linear Systems）
+    - 3.8.1 结构系数与回归系数（Structural versus Regression Coefficients）
+    - 3.8.2 结构系数的因果解释（The Causal Interpretation of Structural Coefficients）
+    - 3.8.3 识别结构系数与因果效应（Identifying Structural Coefficients and Causal Effect）
+    - 3.8.4 线性系统中的中介（Mediation in Linear Systems）
+- 4 反事实及其应用（Counterfactuals and Their Applications）
+  - 4.1 反事实（Counterfactuals）
+  - 4.2 定义与计算反事实（Defining and Computing Counterfactuals）
+    - 4.2.1 反事实的结构解释（The Structural Interpretation of Counterfactuals）
+    - 4.2.2 反事实的基本法则（The Fundamental Law of Counterfactuals）
+    - 4.2.3 从总体数据到个体行为——一个实例（From Population Data to Individual Behavior – An Illustration）
+    - 4.2.4 计算反事实的三个步骤（The Three Steps in Computing Counterfactuals）
+  - 4.3 非确定性反事实（Nondeterministic Counterfactuals）
+    - 4.3.1 反事实的概率（Probabilities of Counterfactuals）
+    - 4.3.2 反事实的图形表示（The Graphical Representation of Counterfactuals）
+    - 4.3.3 实验环境中的反事实（Counterfactuals in Experimental Settings）
+    - 4.3.4 线性模型中的反事实（Counterfactuals in Linear Models）
+  - 4.4 反事实的实际应用（Practical Uses of Counterfactuals）
+    - 4.4.1 项目招募（Recruitment to a Program）
+    - 4.4.2 加法干预（Additive Interventions）
+    - 4.4.3 个人决策（Personal Decision Making）
+    - 4.4.4 招聘中的歧视（Discrimination in Hiring）
+    - 4.4.5 中介与路径阻断干预（Mediation and Path-disabling Interventions）
+  - 4.5 归因与中介的数学工具包（Mathematical Tool Kits for Attribution and Mediation）
+    - 4.5.1 归因与因果关系概率的工具包（A Tool Kit for Attribution and Probabilities of Causation）
+    - 4.5.2 中介的工具包（A Tool Kit for Mediation）
+- 参考文献（References）
+- 索引（Index）

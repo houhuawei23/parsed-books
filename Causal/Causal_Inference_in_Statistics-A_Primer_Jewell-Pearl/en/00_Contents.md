@@ -1,0 +1,69 @@
+## Contents
+
+- About the Authors
+- Preface
+- List of Figures
+- About the Companion Website
+- 1 Preliminaries: Statistical and Causal Models
+  - 1.1 Why Study Causation
+  - 1.2 Simpson’s Paradox
+  - 1.3 Probability and Statistics
+    - 1.3.1 Variables
+    - 1.3.2 Events
+    - 1.3.3 Conditional Probability
+    - 1.3.4 Independence
+    - 1.3.5 Probability Distributions
+    - 1.3.6 The Law of Total Probability
+    - 1.3.7 Using Bayes’ Rule
+    - 1.3.8 Expected Values
+    - 1.3.9 Variance and Covariance
+    - 1.3.10 Regression
+    - 1.3.11 Multiple Regression
+  - 1.4 Graphs
+  - 1.5 Structural Causal Models
+    - 1.5.1 Modeling Causal Assumptions
+    - 1.5.2 Product Decomposition
+- 2 Graphical Models and Their Applications
+  - 2.1 Connecting Models to Data
+  - 2.2 Chains and Forks
+  - 2.3 Colliders
+  - 2.4 d-separation
+  - 2.5 Model Testing and Causal Search
+- 3 The Effects of Interventions
+  - 3.1 Interventions
+  - 3.2 The Adjustment Formula
+    - 3.2.1 To Adjust or not to Adjust?
+    - 3.2.2 Multiple Interventions and the Truncated Product Rule
+  - 3.3 The Backdoor Criterion
+  - 3.4 The Front-Door Criterion
+  - 3.5 Conditional Interventions and Covariate-Specific Effects
+  - 3.6 Inverse Probability Weighing
+  - 3.7 Mediation
+  - 3.8 Causal Inference in Linear Systems
+    - 3.8.1 Structural versus Regression Coefficients
+    - 3.8.2 The Causal Interpretation of Structural Coefficients
+    - 3.8.3 Identifying Structural Coefficients and Causal Effect
+    - 3.8.4 Mediation in Linear Systems
+- 4 Counterfactuals and Their Applications
+  - 4.1 Counterfactuals
+  - 4.2 Defining and Computing Counterfactuals
+    - 4.2.1 The Structural Interpretation of Counterfactuals
+    - 4.2.2 The Fundamental Law of Counterfactuals
+    - 4.2.3 From Population Data to Individual Behavior – An Illustration
+    - 4.2.4 The Three Steps in Computing Counterfactuals
+  - 4.3 Nondeterministic Counterfactuals
+    - 4.3.1 Probabilities of Counterfactuals
+    - 4.3.2 The Graphical Representation of Counterfactuals
+    - 4.3.3 Counterfactuals in Experimental Settings
+    - 4.3.4 Counterfactuals in Linear Models
+  - 4.4 Practical Uses of Counterfactuals
+    - 4.4.1 Recruitment to a Program
+    - 4.4.2 Additive Interventions
+    - 4.4.3 Personal Decision Making
+    - 4.4.4 Discrimination in Hiring
+    - 4.4.5 Mediation and Path-disabling Interventions
+  - 4.5 Mathematical Tool Kits for Attribution and Mediation
+    - 4.5.1 A Tool Kit for Attribution and Probabilities of Causation
+    - 4.5.2 A Tool Kit for Mediation
+- References
+- Index
