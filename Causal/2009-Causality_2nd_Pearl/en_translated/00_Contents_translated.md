@@ -1,0 +1,252 @@
+# 目录（Contents）
+
+- 第一版前言（Preface to the First Edition）
+- 第二版前言（Preface to the Second Edition）
+
+- **1. 概率、图与因果模型导论（Introduction to Probabilities, Graphs, and Causal Models）**
+
+- 1.1 概率论导论（Introduction to Probability Theory）
+  - 1.1.1 为何需要概率？（Why Probabilities?）
+  - 1.1.2 概率论的基本概念（Basic Concepts in Probability Theory）
+  - 1.1.3 预测性支持与诊断性支持的结合（Combining Predictive and Diagnostic Supports）
+  - 1.1.4 随机变量与期望（Random Variables and Expectations）
+  - 1.1.5 条件独立性与图拟阵（Conditional Independence and Graphoids）
+- 1.2 图与概率（Graphs and Probabilities）
+  - 1.2.1 图形符号与术语（Graphical Notation and Terminology）
+  - 1.2.2 贝叶斯网络（Bayesian Networks）
+  - 1.2.3 d-分离准则（The d-Separation Criterion）
+  - 1.2.4 贝叶斯网络中的推理（Inference with Bayesian Networks）
+- 1.3 因果贝叶斯网络（Causal Bayesian Networks）
+  - 1.3.1 作为干预预言机的因果网络（Causal Networks as Oracles for Interventions）
+  - 1.3.2 因果关系及其稳定性（Causal Relationships and Their Stability）
+- 1.4 函数因果模型（Functional Causal Models）
+  - 1.4.1 结构方程（Structural Equations）
+  - 1.4.2 因果模型中的概率预测（Probabilistic Predictions in Causal Models）
+  - 1.4.3 函数模型中的干预与因果效应（Interventions and Causal Effects in Functional Models）
+  - 1.4.4 函数模型中的反事实（Counterfactuals in Functional Models）
+- 1.5 因果术语与统计术语（Causal versus Statistical Terminology）
+
+- **2. 推断因果理论（A Theory of Inferred Causation）**
+
+- 2.1 引言——基本直觉（Introduction – The Basic Intuitions）
+- 2.2 因果发现框架（The Causal Discovery Framework）
+- 2.3 模型偏好（奥卡姆剃刀）（Model Preference (Occam's Razor)）
+- 2.4 稳定分布（Stable Distributions）
+- 2.5 恢复有向无环图结构（Recovering DAG Structures）
+- 2.6 恢复潜在结构（Recovering Latent Structures）
+- 2.7 推断因果关系的局部准则（Local Criteria for Inferring Causal Relations）
+- 2.8 非时间因果关系与统计时间（Nontemporal Causation and Statistical Time）
+- 2.9 结论（Conclusions）
+  - 2.9.1 论最小性、马尔可夫性与稳定性（On Minimality, Markov, and Stability）
+
+- **3. 因果图与因果效应的识别（Causal Diagrams and the Identification of Causal Effects）**
+
+- 3.1 引言（Introduction）
+- 3.2 马尔可夫模型中的干预（Intervention in Markovian Models）
+  - 3.2.1 作为干预模型的图（Graphs as Models of Interventions）
+  - 3.2.2 作为变量的干预（Interventions as Variables）
+  - 3.2.3 计算干预效应（Computing the Effect of Interventions）
+  - 3.2.4 因果量的识别（Identification of Causal Quantities）
+- 3.3 控制混杂偏倚（Controlling Confounding Bias）
+  - 3.3.1 后门准则（The Back-Door Criterion）
+  - 3.3.2 前门准则（The Front-Door Criterion）
+  - 3.3.3 示例：吸烟与基因型理论（Example: Smoking and the Genotype Theory）
+- 3.4 干预演算（A Calculus of Intervention）
+  - 3.4.1 初步符号（Preliminary Notation）
+  - 3.4.2 推理规则（Inference Rules）
+  - 3.4.3 因果效应的符号推导：一个示例（Symbolic Derivation of Causal Effects: An Example）
+  - 3.4.4 通过替代实验进行因果推断（Causal Inference by Surrogate Experiments）
+- 3.5 可识别性的图形检验（Graphical Tests of Identifiability）
+  - 3.5.1 可识别模型（Identifying Models）
+  - 3.5.2 不可识别模型（Nonidentifying Models）
+- 3.6 讨论（Discussion）
+  - 3.6.1 限定与扩展（Qualifications and Extensions）
+  - 3.6.2 作为数学语言的图（Diagrams as a Mathematical Language）
+  - 3.6.3 从图到潜在结果的转换（Translation from Graphs to Potential Outcomes）
+  - 3.6.4 与罗宾斯G-估计的关系（Relations to Robins's G-Estimation）
+
+- **4. 行动、计划与直接效应（Actions, Plans, and Direct Effects）**
+
+- 4.1 引言（Introduction）
+  - 4.1.1 行动、行为与概率（Actions, Acts, and Probabilities）
+  - 4.1.2 决策分析中的行动（Actions in Decision Analysis）
+  - 4.1.3 行动与反事实（Actions and Counterfactuals）
+- 4.2 条件行动与随机策略（Conditional Actions and Stochastic Policies）
+- 4.3 行动的效应何时可识别？（When Is the Effect of an Action Identifiable?）
+  - 4.3.1 可识别性的图形条件（Graphical Conditions for Identification）
+  - 4.3.2 关于效率的评述（Remarks on Efficiency）
+  - 4.3.3 推导控制查询的闭式表达式（Deriving a Closed-Form Expression for Control Queries）
+  - 4.3.4 总结（Summary）
+- 4.4 动态计划的识别（The Identification of Dynamic Plans）
+  - 4.4.1 动机（Motivation）
+  - 4.4.2 计划识别：符号与假设（Plan Identification: Notation and Assumptions）
+  - 4.4.3 计划识别：序贯后门准则（Plan Identification: The Sequential Back-Door Criterion）
+  - 4.4.4 计划识别：一个程序（Plan Identification: A Procedure）
+- 4.5 直接效应与间接效应（Direct and Indirect Effects）
+  - 4.5.1 直接效应与总效应（Direct versus Total Effects）
+  - 4.5.2 直接效应：定义与识别（Direct Effects, Definition, and Identification）
+  - 4.5.3 示例：大学招生中的性别歧视（Example: Sex Discrimination in College Admission）
+  - 4.5.4 自然直接效应（Natural Direct Effects）
+  - 4.5.5 间接效应与中介公式（Indirect Effects and the Mediation Formula）
+
+- **5. 社会科学与经济学中的因果关系与结构模型（Causality and Structural Models in Social Science and Economics）**
+
+- 5.1 引言（Introduction）
+  - 5.1.1 寻求一种语言表达的因果关系（Causality in Search of a Language）
+  - 5.1.2 结构方程模型：其含义如何变得模糊（SEM: How Its Meaning Became Obscured）
+  - 5.1.3 作为数学语言的图（Graphs as a Mathematical Language）
+- 5.2 图与模型检验（Graphs and Model Testing）
+  - 5.2.1 结构模型的可检验含义（The Testable Implications of Structural Models）
+  - 5.2.2 检验可检验性（Testing the Testable）
+  - 5.2.3 模型等价性（Model Equivalence）
+- 5.3 图与可识别性（Graphs and Identifiability）
+  - 5.3.1 线性模型中的参数识别（Parameter Identification in Linear Models）
+  - 5.3.2 与非参数可识别性的比较（Comparison to Nonparametric Identification）
+  - 5.3.3 因果效应：结构方程模型的干预解释（Causal Effects: The Interventional Interpretation of Structural Equation Models）
+- 5.4 一些概念基础（Some Conceptual Underpinnings）
+  - 5.4.1 结构参数究竟意味着什么？（What Do Structural Parameters Really Mean?）
+  - 5.4.2 效应分解的解释（Interpretation of Effect Decomposition）
+  - 5.4.3 外生性、超外生性及其他修饰（Exogeneity, Superexogeneity, and Other Frills）
+- 5.5 结论（Conclusion）
+- 5.6 第二版后记（Postscript for the Second Edition）
+  - 5.6.1 计量经济学的觉醒？（An Econometric Awakening?）
+  - 5.6.2 线性模型中的识别（Identification in Linear Models）
+  - 5.6.3 因果主张的稳健性（Robustness of Causal Claims）
+
+- **6. 辛普森悖论、混杂与可压缩性（Simpson's Paradox, Confounding, and Collapsibility）**
+
+- 6.1 辛普森悖论：剖析（Simpson's Paradox: An Anatomy）
+  - 6.1.1 一个非悖论的故事（A Tale of a Non-Paradox）
+  - 6.1.2 一个统计痛苦的故事（A Tale of Statistical Agony）
+  - 6.1.3 因果关系与可交换性（Causality versus Exchangeability）
+  - 6.1.4 一个被解决的悖论（或：人是一种什么样的机器？）（A Paradox Resolved (Or: What Kind of Machine Is Man?)）
+- 6.2 为何没有针对混杂的统计检验，为何许多人认为存在，以及为何他们几乎是对的（Why There Is No Statistical Test for Confounding, Why Many Think There Is, and Why They Are Almost Right）
+  - 6.2.1 引言（Introduction）
+  - 6.2.2 因果定义与关联定义（Causal and Associational Definitions）
+- 6.3 关联准则如何失效（How the Associational Criterion Fails）
+  - 6.3.1 通过边缘性导致充分性失效（Failing Sufficiency via Marginality）
+  - 6.3.2 通过封闭世界假设导致充分性失效（Failing Sufficiency via Closed-World Assumptions）
+  - 6.3.3 通过贫瘠代理变量导致必要性失效（Failing Necessity via Barren Proxies）
+  - 6.3.4 通过偶然抵消导致必要性失效（Failing Necessity via Incidental Cancellations）
+- 6.4 稳定无偏性与偶然无偏性（Stable versus Incidental Unbiasedness）
+  - 6.4.1 动机（Motivation）
+  - 6.4.2 形式定义（Formal Definitions）
+  - 6.4.3 稳定无混杂的操作性检验（Operational Test for Stable No-Confounding）
+- 6.5 混杂、可压缩性与可交换性（Confounding, Collapsibility, and Exchangeability）
+  - 6.5.1 混杂与可压缩性（Confounding and Collapsibility）
+  - 6.5.2 混杂与混杂因子（Confounding versus Confounders）
+  - 6.5.3 可交换性与混杂的结构分析（Exchangeability versus Structural Analysis of Confounding）
+- 6.6 结论（Conclusions）
+
+- **7. 基于结构的反事实逻辑（The Logic of Structure-Based Counterfactuals）**
+
+- 7.1 结构模型语义学（Structural Model Semantics）
+  - 7.1.1 定义：因果模型、行动与反事实（Definitions: Causal Models, Actions, and Counterfactuals）
+  - 7.1.2 评估反事实：确定性分析（Evaluating Counterfactuals: Deterministic Analysis）
+  - 7.1.3 评估反事实：概率分析（Evaluating Counterfactuals: Probabilistic Analysis）
+  - 7.1.4 孪生网络方法（The Twin Network Method）
+- 7.2 结构模型的应用与解释（Applications and Interpretation of Structural Models）
+  - 7.2.1 线性计量经济模型中的政策分析：一个示例（Policy Analysis in Linear Econometric Models: An Example）
+  - 7.2.2 反事实的经验内容（The Empirical Content of Counterfactuals）
+  - 7.2.3 因果解释、表述及其解释（Causal Explanations, Utterances, and Their Interpretation）
+  - 7.2.4 从机制到行动再到因果关系（From Mechanisms to Actions to Causation）
+  - 7.2.5 西蒙的因果排序（Simon's Causal Ordering）
+- 7.3 公理化刻画（Axiomatic Characterization）
+  - 7.3.1 结构反事实的公理（The Axioms of Structural Counterfactuals）
+  - 7.3.2 来自反事实逻辑的因果效应：一个示例（Causal Effects from Counterfactual Logic: An Example）
+  - 7.3.3 因果相关性公理（Axioms of Causal Relevance）
+- 7.4 结构性反事实与基于相似性的反事实（Structural and Similarity-Based Counterfactuals）
+  - 7.4.1 与刘易斯反事实的关系（Relations to Lewis's Counterfactuals）
+  - 7.4.2 公理化比较（Axiomatic Comparison）
+  - 7.4.3 成像与条件化（Imaging versus Conditioning）
+  - 7.4.4 与奈曼-鲁宾框架的关系（Relations to the Neyman–Rubin Framework）
+  - 7.4.5 外生性与工具变量：反事实定义与图形定义（Exogeneity and Instruments: Counterfactual and Graphical Definitions）
+- 7.5 结构性因果关系与概率性因果关系（Structural versus Probabilistic Causality）
+  - 7.5.1 对时间顺序的依赖（The Reliance on Temporal Ordering）
+  - 7.5.2 循环论证的危险（The Perils of Circularity）
+  - 7.5.3 挑战封闭世界假设：以儿童为例（Challenging the Closed-World Assumption, with Children）
+  - 7.5.4 单一原因与一般原因（Singular versus General Causes）
+  - 7.5.5 总结（Summary）
+
+- **8. 不完美实验：效应与反事实的界限（Imperfect Experiments: Bounding Effects and Counterfactuals）**
+
+- 8.1 引言（Introduction）
+  - 8.1.1 不完美实验与间接实验（Imperfect and Indirect Experiments）
+  - 8.1.2 不依从性与意向治疗（Noncompliance and Intent to Treat）
+- 8.2 使用工具变量界定因果效应（Bounding Causal Effects with Instrumental Variables）
+  - 8.2.1 问题表述：约束优化（Problem Formulation: Constrained Optimization）
+  - 8.2.2 规范划分：有限响应变量的演化（Canonical Partitions: The Evolution of Finite-Response Variables）
+  - 8.2.3 线性规划表述（Linear Programming Formulation）
+  - 8.2.4 自然界限（The Natural Bounds）
+  - 8.2.5 对处理者的处理效应（Effect of Treatment on the Treated, ETT）
+  - 8.2.6 示例：消胆胺的效应（Example: The Effect of Cholestyramine）
+- 8.3 反事实与法律责任（Counterfactuals and Legal Responsibility）
+- 8.4 工具变量检验（A Test for Instruments）
+- 8.5 不依从性的贝叶斯方法（A Bayesian Approach to Noncompliance）
+  - 8.5.1 贝叶斯方法与吉布斯采样（Bayesian Methods and Gibbs Sampling）
+  - 8.5.2 样本量与先验分布的影响（The Effects of Sample Size and Prior Distribution）
+  - 8.5.3 来自不完美依从临床数据的因果效应（Causal Effects from Clinical Data with Imperfect Compliance）
+  - 8.5.4 单事件因果关系的贝叶斯估计（Bayesian Estimate of Single-Event Causation）
+- 8.6 结论（Conclusion）
+
+- **9. 因果概率：解释与识别（Probability of Causation: Interpretation and Identification）**
+
+- 9.1 引言（Introduction）
+- 9.2 必要原因与充分原因：识别条件（Necessary and Sufficient Causes: Conditions of Identification）
+  - 9.2.1 定义、符号与基本关系（Definitions, Notation, and Basic Relationships）
+  - 9.2.2 外生性下的界限与基本关系（Bounds and Basic Relationships under Exogeneity）
+  - 9.2.3 单调性与外生性下的可识别性（Identifiability under Monotonicity and Exogeneity）
+  - 9.2.4 单调性与非外生性下的可识别性（Identifiability under Monotonicity and Nonexogeneity）
+- 9.3 示例与应用（Examples and Applications）
+  - 9.3.1 示例 1：对公平硬币下注（Example 1: Betting against a Fair Coin）
+  - 9.3.2 示例 2：行刑队（Example 2: The Firing Squad）
+  - 9.3.3 示例 3：辐射对白血病的影响（Example 3: The Effect of Radiation on Leukemia）
+  - 9.3.4 示例 4：来自实验与非实验数据的法律责任（Example 4: Legal Responsibility from Experimental and Nonexperimental Data）
+  - 9.3.5 结果总结（Summary of Results）
+- 9.4 非单调模型中的识别（Identification in Nonmonotonic Models）
+- 9.5 结论（Conclusions）
+
+- **10. 实际原因（The Actual Cause）**
+
+- 10.1 引言：必要因果关系的不足（Introduction: The Insufficiency of Necessary Causation）
+  - 10.1.1 再论单一原因（Singular Causes Revisited）
+  - 10.1.2 抢先与结构信息的作用（Preemption and the Role of Structural Information）
+  - 10.1.3 过度决定与准依赖（Overdetermination and Quasi-Dependence）
+  - 10.1.4 麦凯的INUS条件（Mackie's INUS Condition）
+- 10.2 产生、依赖与维持（Production, Dependence, and Sustenance）
+- 10.3 因果束与基于维持的因果关系（Causal Beams and Sustenance-Based Causation）
+  - 10.3.1 因果束：定义与含义（Causal Beams: Definitions and Implications）
+  - 10.3.2 示例：从析取到一般公式（Examples: From Disjunction to General Formulas）
+  - 10.3.3 束、抢先与单事件因果概率（Beams, Preemption, and the Probability of Single-Event Causation）
+  - 10.3.4 路径切换因果关系（Path-Switching Causation）
+  - 10.3.5 时间抢先（Temporal Preemption）
+- 10.4 结论（Conclusions）
+
+- **11. 反思、阐述与读者讨论（Reflections, Elaborations, and Discussions with Readers）**
+
+- 11.1 因果、统计与图形词汇（Causal, Statistical, and Graphical Vocabulary）
+  - 11.1.1 因果-统计二分法是否必要？（Is the Causal-Statistical Dichotomy Necessary?）
+  - 11.1.2 无泪的d-分离（第1章，第16-18页）（d-Separation without Tears (Chapter 1, pp. 16–18)）
+- 11.2 逆转统计时间（第2章，第58-59页）（Reversing Statistical Time (Chapter 2, p. 58–59)）
+- 11.3 估计因果效应（Estimating Causal Effects）
+  - 11.3.1 后门准则背后的直觉（第3章，第79页）（The Intuition behind the Back-Door Criterion (Chapter 3, p. 79)）
+  - 11.3.2 揭开“强可忽略性”的神秘面纱（Demystifying "Strong Ignorability"）
+  - 11.3.3 后门准则的替代证明（Alternative Proof of the Back-Door Criterion）
+  - 11.3.4 协变量选择中的数据与知识（Data vs. Knowledge in Covariate Selection）
+  - 11.3.5 理解倾向得分（Understanding Propensity Scores）
+  - 11.3.6 `do`-演算背后的直觉（The Intuition behind do-Calculus）
+  - 11.3.7 G-估计的有效性（The Validity of G-Estimation）
+- 11.4 政策评估与 `do`-算子（Policy Evaluation and the do-Operator）
+  - 11.4.1 识别条件计划（第4.2节，第113页）（Identifying Conditional Plans (Section 4.2, p. 113)）
+  - 11.4.2 间接效应的含义（The Meaning of Indirect Effects）
+  - 11.4.3 `do(x)` 能否代表实际实验？（Can do(x) Represent Practical Experiments?）
+  - 11.4.4 `do(x)` 算子是否具有普适性？（Is the do(x) Operator Universal?）
+  - 11.4.5 无需操纵的因果关系！！！（Causation without Manipulation!!!）
+  - 11.4.6 与卡特赖特一同追寻原因（Hunting Causes with Cartwright）
+  - 11.4.7 非模块性的幻觉（The Illusion of Nonmodularity）
+- 11.5 线性结构模型中的因果分析（Causal Analysis in Linear Structural Models）
+  - 11.5.1 参数识别的一般准则（第5章，第149-154页）（General Criterion for Parameter Identification (Chapter 5, pp. 149–54)）
+  - 11.5.2 结构系数的因果解释（The Causal Interpretation of Structural Coefficients）
+  - 11.5.3 捍卫结构方程模型的因果解释（或：结构方程模型生存工具包）（Defending the Causal Interpretation of SEM (or, SEM Survival Kit)）
+  - 11.5.4 当今经济建模何去何从？——与赫克曼一起追寻原因（Where Is Economic Modeling Today? – Courting Causes with Heckman）
+  - 11.5.5 外部变异与手术（External Variation versus Surgery）

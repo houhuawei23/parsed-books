@@ -1,0 +1,249 @@
+# Contents
+
+- Preface to the First Edition
+- Preface to the Second Edition
+
+- **1. Introduction to Probabilities, Graphs, and Causal Models**
+
+- 1.1 Introduction to Probability Theory
+  - 1.1.1 Why Probabilities?
+  - 1.1.2 Basic Concepts in Probability Theory
+  - 1.1.3 Combining Predictive and Diagnostic Supports
+  - 1.1.4 Random Variables and Expectations
+  - 1.1.5 Conditional Independence and Graphoids
+- 1.2 Graphs and Probabilities
+  - 1.2.1 Graphical Notation and Terminology
+  - 1.2.2 Bayesian Networks
+  - 1.2.3 The d-Separation Criterion
+  - 1.2.4 Inference with Bayesian Networks
+- 1.3 Causal Bayesian Networks
+  - 1.3.1 Causal Networks as Oracles for Interventions
+  - 1.3.2 Causal Relationships and Their Stability
+- 1.4 Functional Causal Models
+  - 1.4.1 Structural Equations
+  - 1.4.2 Probabilistic Predictions in Causal Models
+  - 1.4.3 Interventions and Causal Effects in Functional Models
+  - 1.4.4 Counterfactuals in Functional Models
+- 1.5 Causal versus Statistical Terminology
+
+- **2. A Theory of Inferred Causation**
+
+- 2.1 Introduction – The Basic Intuitions
+- 2.2 The Causal Discovery Framework
+- 2.3 Model Preference (Occam’s Razor)
+- 2.4 Stable Distributions
+- 2.5 Recovering DAG Structures
+- 2.6 Recovering Latent Structures
+- 2.7 Local Criteria for Inferring Causal Relations
+- 2.8 Nontemporal Causation and Statistical Time
+- 2.9 Conclusions
+  - 2.9.1 On Minimality, Markov, and Stability
+
+- **3. Causal Diagrams and the Identification of Causal Effects**
+
+- 3.1 Introduction
+- 3.2 Intervention in Markovian Models
+  - 3.2.1 Graphs as Models of Interventions
+  - 3.2.2 Interventions as Variables
+  - 3.2.3 Computing the Effect of Interventions
+  - 3.2.4 Identification of Causal Quantities
+- 3.3 Controlling Confounding Bias
+  - 3.3.1 The Back-Door Criterion
+  - 3.3.2 The Front-Door Criterion
+  - 3.3.3 Example: Smoking and the Genotype Theory
+- 3.4 A Calculus of Intervention
+  - 3.4.1 Preliminary Notation
+  - 3.4.2 Inference Rules
+  - 3.4.3 Symbolic Derivation of Causal Effects: An Example
+  - 3.4.4 Causal Inference by Surrogate Experiments
+- 3.5 Graphical Tests of Identifiability
+  - 3.5.1 Identifying Models
+  - 3.5.2 Nonidentifying Models
+- 3.6 Discussion
+  - 3.6.1 Qualifications and Extensions
+  - 3.6.2 Diagrams as a Mathematical Language
+  - 3.6.3 Translation from Graphs to Potential Outcomes
+  - 3.6.4 Relations to Robins’s G-Estimation
+
+- **4. Actions, Plans, and Direct Effects**
+
+- 4.1 Introduction
+  - 4.1.1 Actions, Acts, and Probabilities
+  - 4.1.2 Actions in Decision Analysis
+  - 4.1.3 Actions and Counterfactuals
+- 4.2 Conditional Actions and Stochastic Policies
+- 4.3 When Is the Effect of an Action Identifiable?
+  - 4.3.1 Graphical Conditions for Identification
+  - 4.3.2 Remarks on Efficiency
+  - 4.3.3 Deriving a Closed-Form Expression for Control Queries
+  - 4.3.4 Summary
+- 4.4 The Identification of Dynamic Plans
+  - 4.4.1 Motivation
+  - 4.4.2 Plan Identification: Notation and Assumptions
+  - 4.4.3 Plan Identification: The Sequential Back-Door Criterion
+  - 4.4.4 Plan Identification: A Procedure
+- 4.5 Direct and Indirect Effects
+  - 4.5.1 Direct versus Total Effects
+  - 4.5.2 Direct Effects, Definition, and Identification
+  - 4.5.3 Example: Sex Discrimination in College Admission
+  - 4.5.4 Natural Direct Effects
+  - 4.5.5 Indirect Effects and the Mediation Formula
+
+- **5. Causality and Structural Models in Social Science and Economics**
+
+- 5.1 Introduction
+  - 5.1.1 Causality in Search of a Language
+  - 5.1.2 SEM: How Its Meaning Became Obscured
+  - 5.1.3 Graphs as a Mathematical Language
+- 5.2 Graphs and Model Testing
+  - 5.2.1 The Testable Implications of Structural Models
+  - 5.2.2 Testing the Testable
+  - 5.2.3 Model Equivalence
+- 5.3 Graphs and Identifiability
+  - 5.3.1 Parameter Identification in Linear Models
+  - 5.3.2 Comparison to Nonparametric Identification
+  - 5.3.3 Causal Effects: The Interventional Interpretation of Structural Equation Models
+- 5.4 Some Conceptual Underpinnings
+  - 5.4.1 What Do Structural Parameters Really Mean?
+  - 5.4.2 Interpretation of Effect Decomposition
+  - 5.4.3 Exogeneity, Superexogeneity, and Other Frills
+- 5.5 Conclusion
+- 5.6 Postscript for the Second Edition
+  - 5.6.1 An Econometric Awakening?
+  - 5.6.2 Identification in Linear Models
+  - 5.6.3 Robustness of Causal Claims
+
+- **6. Simpson’s Paradox, Confounding, and Collapsibility**
+
+- 6.1 Simpson’s Paradox: An Anatomy
+  - 6.1.1 A Tale of a Non-Paradox
+  - 6.1.2 A Tale of Statistical Agony
+  - 6.1.3 Causality versus Exchangeability
+  - 6.1.4 A Paradox Resolved (Or: What Kind of Machine Is Man?)
+  - 6.2 Why There Is No Statistical Test for Confounding, Why Many Think There Is, and Why They Are Almost Right
+    - 6.2.1 Introduction
+    - 6.2.2 Causal and Associational Definitions
+  - 6.3 How the Associational Criterion Fails
+    - 6.3.1 Failing Sufficiency via Marginality
+    - 6.3.2 Failing Sufficiency via Closed-World Assumptions
+    - 6.3.3 Failing Necessity via Barren Proxies
+    - 6.3.4 Failing Necessity via Incidental Cancellations
+  - 6.4 Stable versus Incidental Unbiasedness
+    - 6.4.1 Motivation
+    - 6.4.2 Formal Definitions
+    - 6.4.3 Operational Test for Stable No-Confounding
+  - 6.5 Confounding, Collapsibility, and Exchangeability
+    - 6.5.1 Confounding and Collapsibility
+    - 6.5.2 Confounding versus Confounders
+    - 6.5.3 Exchangeability versus Structural Analysis of Confounding
+  - 6.6 Conclusions
+
+- **7. The Logic of Structure-Based Counterfactuals**
+
+- 7.1 Structural Model Semantics
+  - 7.1.1 Definitions: Causal Models, Actions, and Counterfactuals
+  - 7.1.2 Evaluating Counterfactuals: Deterministic Analysis
+  - 7.1.3 Evaluating Counterfactuals: Probabilistic Analysis
+  - 7.1.4 The Twin Network Method
+- 7.2 Applications and Interpretation of Structural Models
+  - 7.2.1 Policy Analysis in Linear Econometric Models: An Example
+  - 7.2.2 The Empirical Content of Counterfactuals
+  - 7.2.3 Causal Explanations, Utterances, and Their Interpretation
+  - 7.2.4 From Mechanisms to Actions to Causation
+  - 7.2.5 Simon’s Causal Ordering
+- 7.3 Axiomatic Characterization
+  - 7.3.1 The Axioms of Structural Counterfactuals
+  - 7.3.2 Causal Effects from Counterfactual Logic: An Example
+  - 7.3.3 Axioms of Causal Relevance
+- 7.4 Structural and Similarity-Based Counterfactuals
+  - 7.4.1 Relations to Lewis’s Counterfactuals
+  - 7.4.2 Axiomatic Comparison
+  - 7.4.3 Imaging versus Conditioning
+  - 7.4.4 Relations to the Neyman–Rubin Framework
+  - 7.4.5 Exogeneity and Instruments: Counterfactual and Graphical Definitions
+- 7.5 Structural versus Probabilistic Causality
+  - 7.5.1 The Reliance on Temporal Ordering
+  - 7.5.2 The Perils of Circularity
+  - 7.5.3 Challenging the Closed-World Assumption, with Children
+  - 7.5.4 Singular versus General Causes
+  - 7.5.5 Summary
+
+- [8. Imperfect Experiments: Bounding Effects and Counterfactuals]
+  - 8.1 Introduction
+    - 8.1.1 Imperfect and Indirect Experiments
+    - 8.1.2 Noncompliance and Intent to Treat
+  - 8.2 Bounding Causal Effects with Instrumental Variables
+    - 8.2.1 Problem Formulation: Constrained Optimization
+    - 8.2.2 Canonical Partitions: The Evolution of Finite-Response Variables
+    - 8.2.3 Linear Programming Formulation
+    - 8.2.4 The Natural Bounds
+    - 8.2.5 Effect of Treatment on the Treated (ETT)
+    - 8.2.6 Example: The Effect of Cholestyramine
+  - 8.3 Counterfactuals and Legal Responsibility
+  - 8.4 A Test for Instruments
+  - 8.5 A Bayesian Approach to Noncompliance
+    - 8.5.1 Bayesian Methods and Gibbs Sampling
+    - 8.5.2 The Effects of Sample Size and Prior Distribution
+    - 8.5.3 Causal Effects from Clinical Data with Imperfect Compliance
+    - 8.5.4 Bayesian Estimate of Single-Event Causation
+  - 8.6 Conclusion
+
+- 9. Probability of Causation: Interpretation and Identification
+  - 9.1 Introduction
+  - 9.2 Necessary and Sufficient Causes: Conditions of Identification
+    - 9.2.1 Definitions, Notation, and Basic Relationships
+    - 9.2.2 Bounds and Basic Relationships under Exogeneity
+    - 9.2.3 Identifiability under Monotonicity and Exogeneity
+    - 9.2.4 Identifiability under Monotonicity and Nonexogeneity
+  - 9.3 Examples and Applications
+    - 9.3.1 Example 1: Betting against a Fair Coin
+    - 9.3.2 Example 2: The Firing Squad
+    - 9.3.3 Example 3: The Effect of Radiation on Leukemia
+    - 9.3.4 Example 4: Legal Responsibility from Experimental and Nonexperimental Data
+    - 9.3.5 Summary of Results
+  - 9.4 Identification in Nonmonotonic Models
+  - 9.5 Conclusions
+
+- 10. The Actual Cause
+  - 10.1 Introduction: The Insufficiency of Necessary Causation
+    - 10.1.1 Singular Causes Revisited
+    - 10.1.2 Preemption and the Role of Structural Information
+    - 10.1.3 Overdetermination and Quasi-Dependence
+    - 10.1.4 Mackie’s INUS Condition
+  - 10.2 Production, Dependence, and Sustenance
+  - 10.3 Causal Beams and Sustenance-Based Causation
+    - 10.3.1 Causal Beams: Definitions and Implications
+    - 10.3.2 Examples: From Disjunction to General Formulas
+    - 10.3.3 Beams, Preemption, and the Probability of Single-Event Causation
+    - 10.3.4 Path-Switching Causation
+    - 10.3.5 Temporal Preemption
+  - 10.4 Conclusions
+
+- 11. Reflections, Elaborations, and Discussions with Readers
+  - 11.1 Causal, Statistical, and Graphical Vocabulary
+    - 11.1.1 Is the Causal-Statistical Dichotomy Necessary?
+    - 11.1.2 d-Separation without Tears (Chapter 1, pp. 16–18)
+  - 11.2 Reversing Statistical Time (Chapter 2, p. 58–59)
+  - 11.3 Estimating Causal Effects
+    - 11.3.1 The Intuition behind the Back-Door Criterion (Chapter 3, p. 79)
+    - 11.3.2 Demystifying “Strong Ignorability”
+    - 11.3.3 Alternative Proof of the Back-Door Criterion
+    - 11.3.4 Data vs. Knowledge in Covariate Selection
+    - 11.3.5 Understanding Propensity Scores
+    - 11.3.6 The Intuition behind do-Calculus
+    - 11.3.7 The Validity of G-Estimation
+  - 11.4 Policy Evaluation and the do-Operator
+    - 11.4.1 Identifying Conditional Plans (Section 4.2, p. 113)
+    - 11.4.2 The Meaning of Indirect Effects
+    - 11.4.3 Can do(x) Represent Practical Experiments?
+    - 11.4.4 Is the do(x) Operator Universal?
+    - 11.4.5 Causation without Manipulation!!!
+    - 11.4.6 Hunting Causes with Cartwright
+    - 11.4.7 The Illusion of Nonmodularity
+  - 11.5 Causal Analysis in Linear Structural Models
+    - 11.5.1 General Criterion for Parameter Identification (Chapter 5, pp. 149–54)
+    - 11.5.2 The Causal Interpretation of Structural Coefficients
+    - 11.5.3 Defending the Causal Interpretation of SEM (or, SEM Survival Kit)
+    - 11.5.4 Where Is Economic Modeling Today? – Courting Causes with Heckman
+    - 11.5.5 External Variation versus Surgery
+  -
