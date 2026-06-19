@@ -1,0 +1,462 @@
+# References
+
+- Ahn, W., Kalish, C., Medin, D., and Gelman, S. (1995). The role of covariation versus mechanism information in causal attribution. Cognition 54: 299–352.
+- Ahn, W., and Bailenson, J. (1996). Causal attribution as a search for underlying mechanisms: An explanation of the conjunction fallacy and the discounting principle. Cognitive Psychology.
+- Aigner, D., and Goldberger, S. (1977). Latent Variables in Socio-economic Models. Amsterdam: North-Holland.
+- Aitkin, M. (1979). A simultaneous test procedure for contingency table models. Applied Statistics 28: 233–242.
+- Akleman, D., Bessler, D., and Burton, D. (1999). Modeling corn exports and exchange rates with directed graphs and statistical loss functions. In Computation, Causation and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Alchourrón, C., Gärdenfors, P., and Mackinson, C. (1985). On the logic of theory change: Partial meet contraction and revision functions. Journal of Symbolic Logic 50: 510–530.
+- Aliferis, C., and Cooper, G. (1994). An evaluation of an algorithm for inductive learning of Bayesian belief networks using simulated data sets. Proceedings of the Tenth Conference on Uncertainty in Artificial Intelligence, Seattle: Morgan Kaufmann, 8–14.
+- Allen, D. (1974). The relationship between variable selection and data augmentation and a method for prediction. Technometrics 17: 125–127.
+- Anderson, J., and Gerbing, D. (1982). Some methods for respecifying measurement models to obtain unidimensional construct measurement. Journal of Marketing Research 19: 453–460.
+- Anderson, T. W. (1984). An Introduction to Multivariate Statistical Analysis. New York: Wiley.
+- Andersson, S., Madigan, D., and Perlman, M. (1996). An alternative Markov property for chain graphs. Proceedings of the 12th Conference on Uncertainty in AI, Portland, Ore.: Morgan Kaufmann, 40–48.
+- Artzenius, F. (1992). The Common Cause Principle. Philosophy of Science Association: 227-237.
+- Asher, Herbert B. (1976). Causal Modeling. Beverly Hills, Calif.: Sage Publications.
+- Asmussen, S., and Edwards, D. (1983). Collapsibility and response variables in contingency tables. Biometrika 70: 567–578.
+- Bagozzi, R. (1980). Causal Models in Marketing. New York: Wiley.
+- Baldwin, B. (1986). The effects of structural model misspecification and sample size on the robustness of LISREL maximum likelihood parameter estimates. Department of Administrative and Foundational Services, Louisiana State University.
+- Balke, A., and Pearl, J. (1994). Probabilistic Evaluation of Counterfactual Queries. Proceedings of the Twelfth National Conference on Artificial Intelligence. MIT Press, volume 1, 230–237.
+- Bartlett, M. (1935). Contingency table interaction. J. Roy. Statist. Soc. Suppl. 2: 248–252.
+- Bartlett, M. (1954). A note on the multiplying factors for various chi-squared approximations. J. Roy. Statist. Soc. Ser. B 16: 196–198.
+- Basmann, R. (1965). A note on the statistical testability of ‘explicit causal chains’ against the class of ‘interdependent’ models. JASA 60: 1080–1093.
+- Beale, E., Kendall, M., and Mann, D. (1967). The discarding of variables in multivariate analysis. Biometrika 54: 357–366.
+- Bearden, W. O., Sharma, S., and Teel, J. E. (1982). Sample size effects on chi-square and other statistics used in evaluating causal models. Journal of Marketing Research 19: 425–430.
+- Becker, G. (1964). Human capital; a theoretical and empirical analysis, with special reference to education. New York: National Bureau of Economic Research; distributed by Columbia University Press.
+- Becker, S., and LeCun, Y. (1989). Improving the convergence of back-propagation learning with second order methods. Proceedings of the 1988 Connectionist Models Summer School. Morgan Kaufmann.
+- Beinlich, I., Suermondt, H., Chavez, R., and Cooper, G. (1989). The ALARM monitoring system: a case study with two probabilistic inference techniques for belief networks. Proceedings of the Second European Conference on Artificial Intelligence in Medicine. London: England.
+- Bentler, P. (1980). Multivariate analysis with latent variables: causal modeling. Annual Review of Psychology 31: 419–456.
+- Bentler, P. (1985). Theory and Implementation of EQS: A Structural Equations Program. Los Angeles, BMDP Statistical Software.
+- Bentler, P. (1995). EQS: Structural equations program manual (Version 5.0). Encino, Calif.: Multivariate Software.
+- Bentler, P., and Bonett, D. (1980). Significance tests and goodness of fit in the analysis of covariance structures. Psychological Bulletin 88: 588–606.
+- Bentler, P., and Peeler, W. (1979). Models of female orgasm. Archives of Sexual Behavior 8: 405–423.
+- Bernardo, J., and Smith, A. (1994). Bayesian Theory. New York: Wiley.
+- Bessler, D., and Akleman, D. (1998). Farm prices, retail prices and directed graphs: results for pork and beef. American Journal of Agricultural Economics 80: 1144–1149.
+- Bessler, D., and Güven, D. (1997). A note on directed graphs and time series data. submitted to Econometric Reviews.
+- Birch, M. (1963). Maximum likelihood in three-way contingency tables. J. Roy. Statist. Soc. 25: 220–223.
+- Bishop, Y, Fienberg, S., and Holland, P. (1975). Discrete Multivariate Analysis: Theory and Practice. Cambridge, Mass.: MIT Press.
+- Blalock, H. (1969). Theory Construction; from Verbal to Mathematical Formulations. Englewood Cliffs, N.J.: Prentice-Hall.
+- Blalock, H. (1971). Causal Models in the Social Sciences. Chicago: Aldine·Atherton.
+- Blalock, H. (1972). Causal Inferences in Nonexperimental Research. New York: Norton.
+- Blau, P., and Duncan, O. (1967). The American Occupational Structure. New York: Wiley.
+- Blum, R. (1984). Discovery, confirmation and incorporation of causal relationship from a time-oriented clinical data base: The RX project. Readings in Medical Artificial Intelligence, edited by W. Clancey and E. Shortliffe. Reading, Mass.: Addison-Wesley.
+- Blyth, C. (1972). On Simpson’s paradox and the sure-thing principal. JASA 67: 364–366.
+- Bollen, K. (1990). Outlier screening and a distribution-free test for vanishing tetrads. Sociological Methods and Research 19: 80–92.
+- Bollen, K. (1989). Structural Equations with Latent Variables. New York: Wiley.
+- Boomsma, A. (1982). The robustness of LISREL against small sample sizes in factor analysis models. In Systems Under Indirect Observation: Causality, Structure, Prediction (Part I), edited by K. Jöreskog and H. Wold. Amsterdam: North-Holland, 149–173.
+- Boomsma, A. (1983). On the robustness of LISREL (maximum likelihood estimation) against small sample size and nonnormality. Amsterdam, Sociometric Research Foundation.
+- Bowden, R., and Turkington, D. (1984). Instrumental Variables. Cambridge: Cambridge University Press.
+- Boyen, X., Friedman, N., and Koller, D. (1999) Discovering the structure of complex dynamic systems. Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence. Morgan Kaufman, 91–100.
+- Breslow, N., and Day, N. (1980). Statistical Methods in Cancer research, Vol. 1: The analysis of Case-Control Studies. Lyon, IARC.
+- Brownlee, K. (1965). A review of “Smoking and Health.” JASA, 722–739.
+- Bunker, J., Forrest, W., Mosteller, F., and Vandam, L. (1969). The National Halothane Study: Report of the Subcommittee on the National Halothane Study of the Committee on Anesthesia. Washington, D.C., Division of Medical Sciences, National Academy of Sciences, National Research Council.
+- Buntine, W. (1991). Theory refinement on Bayesian networks. Proceedings of the Seventh Conference on Uncertainty in AI, Los Angeles, Calif.: Morgan Kaufmann, 52–61.
+- Buntine, W. (1994). Operations for learning with graphical models. Journal for Theoretical and Experimental Artificial Intelligence 2: 159–225.
+- Buntine, W. (1996). A guide to the literature on learning graphical models. IEEE Transactions on Knowledge and Data Engineering 8: 195–210.
+- Burch, P. (1978). Smoking and lung cancer: The problem of inferring cause (with discussion). J. Roy. Statist. Soc. 141(Series A): 437–477.
+- Burch, P. (1983). The Surgeon General’s “Epidemiologic Criteria for Causality.” A critique. Journal of Chronic Diseases 36: 821–836.
+- Burch, P. (1984). The Surgeon General’s “Epidemiologic Criteria for Causality.” Reply to Lilenfeld. Journal of Chronic Diseases 37: 148–157.
+- Byron, R. (1972). Testing for misspecification in econometric systems using full information. International Economic Review 28: 138–151.
+- Callahan, J., and Sorenson, S. (1992). Using TETRAD II as an automated exploratory tool. Social Science Computer Review 10: 329–336.
+- Campbell, D., Schwartz, R., Sechrest, L., and Webb, Eugene J. (1966). Unobtrusive Measures; Nonreactive Research in the Social Sciences. Chicago: Rand McNally.
+- Campbell, D., Stanley, J., and Gage, N. (1966). Experimental and quasi-experimental designs for research. Chicago: R. McNally.
+- Caramazza, A. (1986). On drawing inferences about the structure of normal cognitive processes from patterns of impaired performance: the case for single patient studies. Brain and Cognition 5: 41–66.
+- Cartwright, N. (1983). How the Laws of Physics Lie. Oxford, New York: Clarendon Press; Oxford University Press.
+- Cartwright, N. (1989). Nature’s Capacities and their Measurement. Oxford, New York: Clarendon Press; Oxford University Press.
+- Cartwright, N. (1993). Marks and probabilities: two ways to find a causal structure. In Scientific Philosophy: Origins and Development, edited by F. Stadler. Kluwer, Dordrecht.
+- Casella, G., and George, E. (1992). Explaining the Gibbs sampler. The American Statistician 46: 167–174.
+- Cavallo, R., and Klir, G. (1979). Reconstructability analysis of multi-dimensional relations: A theoretical basis for computer-aided determination of acceptable systems models. International Journal of General Systems 5: 143–171.
+- Cederlof, R., Friberg, L., and Lundman, T. (1972). The interactions of smoking, environment and heredity and their implications for disease etiology. Acta Med Scand. 612 (Suppl.).
+- Cheeseman, P., and Stutz, J. (1995). Bayesian classification (AutoClass): Theory and results. Advances in Knowledge Discovery and Data Mining, edited by U. Fayyad, G. Piatesky-Shapiro, P. Smyth, and R. Uthurusamy, Menlo Park, Calif.: AAAI Press, 153–180.
+- Chib, S. (1995). Marginal likelihood from the Gibbs output. JASA 90: 1313–1321.
+- Chib, S., and Greenberg, E. (1995). Understanding the Metropolis-Hastings algorithm. The American Statistician 49: 327–335.
+- Chickering, D. (1996). Learning Bayesian networks is NP-complete. Learning from Data, edited by D. Lenz and H. Fisher. Springer-Verlag, 121–130.
+- Chickering, D. (1996). Learning equivalence classes of Bayesian-network structures. Proceedings of the Twelfth Conference on Uncertainty in AI, Portland, Ore.: Morgan Kaufmann, 150–157.
+- Chickering, D., and Heckerman, D. (1997). Efficient approximations for the marginal likelihood of Bayesian networks with hidden variables. Machine Learning 29: 181–212.
+- Chou, C., Bentler, P., and Satorra, A. (1991). Scaled test statistics and robust standard errors for non-normal data in covariance structure analysis: A Monte Carlo study. British Journal of Mathematical and Statistical Psychology 85: 398–409.
+- Chow, C., and Liu, C. (1968). Approximating discrete probability distributions with dependence trees. IEEE Trans. on Info. Theory IT–14: 462–467.
+- Chow, C., and Wagner, T. (1973). Consistency of an estimate of tree-dependent probability distributions. IEEE Trans.on Info. Theory IT–19: 369–371.
+- Christensen, R. (1990). Log-linear Models. New York: Springer-Verlag.
+- Coleman, J. (1964). Introduction to Mathematical Sociology. New York: Free Press of Glencoe.
+- Cooper, G. (1989). Current research in the development of expert systems based on belief networks. Applied Stochastic Models and Data Analysis 5: 39–52.
+- Cooper, G. (1995). Causal discovery from data in the presence of selection bias. Proceedings of the Fifth International Workshop on Artificial Intelligence and Statistics, Fort Lauderdale, FL.
+- Cooper, G. (1997). A simple constraint-based algorithm for efficiently mining causal observational databases for causal relationships. Data Mining and Knowledge Discovery 1: 201–224.
+- Cooper, G., and Herskovits, E. (1991). A Bayesian method for constructing Bayesian belief networks from databases. Proceedings of the Seventh Annual Conference on Uncertainty in AI, Los Angeles, Calif.: Morgan Kaufmann, 86–94.
+- Cooper, G., and Herskovits, E. (1992). A Bayesian method for the induction of probabilistic networks from data. Machine Learning 9: 309–347.
+- Cooper, G., and Yoo, C. (2000) Causal Discovery from a mixture of experimental andCooper, G., Yoo, C. (2000) discovery from a mixture of experimental and observational data, in Proceedings of the 15th Annual Conference on Uncertainty inobservational data, in Proceedings of the 15th Annul Conference on Uncertainty in Artifi - Artificial Intelligence. Morgan Kaufman, San Francisco, CA p.11cial Intelligence. Morgan Kaufman, San Francisco, CA 116-125.
+- Cornfield, J., Haenszel, W., Hammond, E., Lilienfeld, A., Shimkin, M., and Wynder, E. (1959). Smoking and lung cancer: Recent evidence and a discussion of some questions. Journal of the National Cancer Institute 22: 173–203.
+- Costner, H. (1971). Theory, deduction and rules of correspondence. In Causal Models in the Social Sciences, edited by H. Blalock. Chicago: Aldine.
+- Costner, H., and Herting, J. (1985). Respecification in multiple indicator models. In Causal Models in the Social Sciences, edited by H. Blalock. New York: Aldine, 321–393.
+- Costner, H., and Schoenberg, R. (1973). Diagnosing indicator ills in multiple indicator models. In Structural Equation Models in the Social Sciences, edited by A. Duncan and O. Goldberger. New York: Seminar Press.
+- Cox, D. (1958). Planning of Experiments. New York: Wiley.
+- Cox, D., and Wermuth, N. (1996). Multivariate Dependencies: Models, Analysis and Interpretation.,Boca Raton, Fla.: CRC Press.
+- Cox, D., and Wermuth, N. (1999). On the generation of the chordless four-cycle, ZUMA-Arbeitsbericht 99/04. Submitted to Biometrika.
+- Crawford, S. (1994). An application of the Laplace method to finite mixture distributions. JASA 89: 259–267.
+- Crawford, S., and Fung, R. (1990). An analysis of two probabilistic model induction techniques. Proceedings of the Third Annual Workshop on Artificial Intelligence and Statistics, Fort Lauderdale, Fla.
+- Dai, H., Korb, K., Wallace C., and Wu, X. (1997). A study of causal discovery with weak links and small samples. 15th International Joint Conference on Artificial Intelligence, Nagoya, Japan, 23–29 August, 1997.
+- Darroch, J., Lauritzen, S., and Speed, T. (1980). Markov fields and log linear interaction models for contingency tables. Ann. Stat. 8: 522–539.
+- Davis, W. (1988). Probabilistic theories of causation. In Probability and Causality, edited by J. Fetzer. Dordrecht: D. Reidel.
+- Dawid, A. (1979). Conditional independence in statistical theory (with discussion). J. Roy. Statist. Soc. Ser. B 41: 1–31.
+- Dawid, A. (1997). Causal inference without counterfactuals. Technical Report, Department of Statistical Science, University College, London.
+- de Campos, L., and Huete, J. Approximating causal orderings for Bayesian networks using genetic algorithms and simulated annealing. Technical Report, #DECSAI–990212, Department of Computer Science, University of Grenada, Spain.
+- de Fazio, J., Ramsey, J., Roush, T., Gazis, P., and Glymour, C. (2000) Automated Mineral Identification from Reflectance Spectra, Carnegie Mellon University Department of Philosophy Technical Report.
+- Dempster, A. (1972). Covariance selection. Biometrics 28: 157–175.
+- Dempster, A., Laird, N., and Rubin, D. (1977). Maximum likelihood from incomplete data via the EM algorithm. J. Roy. Stat. Soc. 39(Ser. B): 1–38.
+- Desjardins, B. (1999). The Limits of Causal Discovery. Department of History and Philosophy of Science. Pittsburgh: University of Pittsburgh.
+- DiCiccio, T., Kass, R., Raftery, A., and Wasserman, L. (1995). Computing Bayes factors by combining simulation and asymptotic approximations. Pittsburgh: Department of Statistics, Carnegie Mellon University.
+- Doll, R., and Hill, A. (1952). A study of the aetiology of carcinoma of the lung. Brit. Med. Journal 2: 1271–1286.
+- Druzdzel, M., and Glymour, C. (1999). Causal inferences from databases: why universities lose students. Computation, Causation and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Duncan, O. (1975). Introduction to Structural Equation Models. New York: Academic Press.
+- Duncan, O., Featherman, D., and Duncan, B. (1972). Socioeconomic Background and Achievement. New York: Seminar Press.
+- Edwards, A. (1976). An Introduction to Linear Regression and Correlation. San Francisco: W. H. Freeman.
+- Edwards, D. (1995). Introduction to Graphical Modeling. New York: Springer-Verlag.
+- Edwards, D., and Havranek, T. (1985). A fast procedure for model search in multidimensional contingency tables. Biometrika 72: 339–351.
+- Edwards, D., and Havranek, T. (1987). A fast model selection procedure for large families of models. J. Amer. Statist. Assoc. 82: 205–211.
+- Edwards, D., and Kreiner, S. (1983). The analysis of contingency tables by graphical models. Biometrika 70: 553–565.
+- Elby, A. (1992). Should we explain the EPR causally? Philosophy of Science 59: 16–25.
+- Fienberg, S. (1977). The Analysis of Cross-classified Categorical Data. Cambridge, Mass.: MIT Press.
+- Fine, A. (1982). Hidden variables, joint probability, and the Bell inequalities. Physical Review Letters 48: 291–295.
+- Fine, M., Auble, T., Yealy, D., Hanusa, B., Weissfeld, L., Singer, D., Coley, C., Marrie, T., Kapoor, W. (1997). A prediction rule to identify low-risk patients with communityacquired pneumonia. New England Journal of Medicine 336: 243–250.
+- Fine, T. (1973). Theories of Probability; an Examination of Foundations. New York: Academic Press.
+- Fisher, F. (1966). The Identification Problem in Economics. New York: McGraw-Hill.
+- Fisher, F. (1970). A correspondence principle for simultaneous equation models. Econometrica 38: 73–92.
+- Fisher, R. (1951). The Design of Experiments. Edinburgh: Oliver and Boyd.
+- Fisher, R. (1959). Smoking. The Cancer Controversy. Edinburgh: Oliver and Boyd.
+- Flack, V., and Chang, P. (1987). Frequency of selecting noise variables in subset regression analysis: A simulation study. American Statistician 41: 84–86.
+- Forbes, H., and Tufte, E. (1968). A note of caution in causal modeling. American Political Science Review 62: 1258–1264.
+- Fox, J. (1984). Linear Statistical Models and Related Methods, with Applications to Social Research. New York: Wiley.
+- Freedman, D. (1983a). A note on screening regression equations. American Statistician 37: 152–155.
+- Freedman, D. (1983b). Structural-equation models: A case study. Berkeley: University of California.
+- Freedman, D., Navidi, W., and Peters, S. (1986). On the impact of variable selection in fitting regression equations. On Model Uncertainty and its Statistical Implications. Lecture Notes in Economics and Mathematical Systems, edited by T. Dijkstra. Berlin: Springer-Verlag, 307.
+- Friedman, M. (1957). A Theory of Consumption Function. Princeton, N.J.: Princeton University Press.
+- Friedman, N. (1997). Learning belief networks in the presence of missing values and hidden variables. Proceedings of the 14th International Conference on Machine Learning.
+- Friedman, N., and Goldszmidt, M. (1996). Discretization of continuous attributes while learning Bayesian networks. Proceedings of the 13th International Conference on Machine Learning. L. Saitta, 157–165.
+- Friedman, N., and Goldszmidt, M. (1999a). Data analysis with Bayesian networks: a bootstrap approach. Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufman, 196–205.
+- Friedman, N., Goldszmidt, M., and Wyner, A. (1999b). On the application of the bootstrap for computing confidence measures on features of induced Bayesian networks. Artificial Intelligence and Statistics 99. San Francisco: Morgan Kaufman, 197–202.
+- Friedman, N., Nachman, I., and Pe’er, D. (1999c). Learning Bayesian networks from massive datasets: The “Sparse Candidate Algorithm.” Proceedings of the Fifteenth Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufman, 206–215.
+- Frydenberg, M. (1990). The chain graph Markov property. Scandanavian Journal of Statistics 17: 333–353.
+- Fung, R., and Crawford, S. (1990). Constructor: A system for the induction of probabilistic models. Proceedings of the Eighth National Conference on AI, Boston: AAAI.
+- Furnival, G., and Wilson, R. (1974). Regression by leaps and bounds. Technometrics 16: 4990–5111.
+- Galles, D., and Pearl, J. (1995). Testing Identifiability of Causal Effects. Proceedings of the Eleventh Annual Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufmann, 185–195.
+- Galles, D., and Pearl, J. (1998a). Axioms of causal relevance. Artificial Intelligence 97: 9–43.
+- Galles, D., and Pearl, J. (1998b). An axiomatic characterization of causal counterfactuals. Foundations of Science 3: 151–182.
+- Geiger, D. (1990). Graphoids: A Qualitative Framework for Probabilistic Inference. Los Angeles: University of California.
+- Geiger, D., Heckerman, D., and Meek, C. (1996). Asymptotic model selection for directed networks with hidden variables. Proceedings of the Twelfth Conference on Uncertainty in AI. San Francisco: Morgan Kaufmann, 283–290.
+- Geiger, D., and Heckerman, D. (1991). Advances in probabilistic reasoning. Proceedings of the Seventh Annual Conference on Uncertainty in AI. San Francisco: Morgan Kaufmann, 118–126.
+- Geiger, D., and Heckerman, D. (1994). Learning Gaussian networks. Proceedings of the Tenth Conference on Uncertainty in AI. San Francisco: Morgan Kaufmann, 235–243.
+- Geiger, D., and Heckerman, D. (1995). A characterization of the Dirichlet distribution applicable to learning Bayesian networks. Redmond, Wash.: Microsoft Research.
+- Geiger, D., and Meek, C. (1999). Quantifi er elimination for statistical problems, Proceedings of the 15th Annual Conference on Artifi cial Intelligence and Statistics, San Francisco, Morgan Kaufman, 226–235.
+- Geiger, D., and Pearl, J. (1989a). Axioms and Algorithms for Inferences Involving Conditional Independence. Los Angeles: Cognitive Systems Laboratory, University of California.
+- Geiger, D., and Pearl, J. (1989a). Logical and Algorithmic Properties of Conditional Independence and Qualitative Independence. Los Angeles, Cognitive Systems Laboratory, University of California.
+- Geiger, D., Heckerman, D., King, H., and Meek, C. (1999). On the geometry of DAG models with hidden variables. Artificial Intelligence and Statistics 99. San Francisco: Morgan Kauffman.
+- Geiger, D., Verma, T., and Pearl, J. (1990). Identifying independence in Bayesian Networks. Networks 20: 507–533.
+- Geisser, S., and Eddy, W. (1979). A predictive approach to model selection. JASA 74: 153–160.
+- Gelfand, A., and Smith, A. (1990). Sampling based approaches to calculating marginal densities. Journal of the American Statistical Association 85: 398–409.
+- Gelman, A., Carlin, J., Stern, H., and Rubin, D. (1995). Bayesian Data Analysis. London: Chapman and Hall.
+- Gelman, A., Meng, X., and Stern, H.S. (1996). Posterior predictive assessment of model fitness via realized discrepancies (with discussion). Statistica Sinica 6: 733–807.
+- Gelman, A., and Rubin, D. (1992). Inference from iterative simulation using multiple sequences. Statistical Science 7: 457–511.
+- Geman, S., and Geman, D. (1984). Stochastic relaxation, Gibbs distributions and the Bayesian restoration of images. IEEE Transactions on Pattern Analysis and Machine Intelligence 6: 721–742.
+- Geweke, J., Meese, R., and Dent, W. (1983). Comparing alternative tests of causality in temporal systems. Journal of Econometrics 21: 161–194.
+- Glymour, C. (1983). Social science and social physics. Behavioral Science 28: 126–133.
+- Glymour, C., Scheines, R., and Spirtes, P. (1989). Why Aviators Leave the Navy: Applications of Artificial Intelligence Procedures in Manpower Research, Naval Personnel Research Development Center.
+- Glymour, C., Spirtes P., and Scheines, R. (1991). From probability to causality. Philosophical Studies 64: 1–36.
+- Glymour, C., Spirtes, P., and Scheines, R. (1991). Independence relations produced by parameter values. Philosophical Topics 18: 55–70.
+- Glymour, C., Scheines, R., Spirtes, P., and Kelly, K. (1987). Discovering Causal Structure. San Diego, Calif.: Academic Press.
+- Gold, E. (1965). Limiting recursion. Journal of Symbolic Logic 30: 27–48.
+- Gold, E. (1967). Language identification in the limit. Information and Control 10: 447–474.
+- Goldszmidt, M., and Pearl, J. (1992). Rank-based systems: A simple approach to belief revision, belief update, and reasoning about evidence and actions. Proceedings of the Third International Conference on Knowledge Representation and Reasoning, edited by B. Nebel, C. Rich, W. Swartout. San Francisco: Morgan Kaufman, 661–672.
+- Goldberg, A., and Duncan, O., eds. (1973). Structural Equation Models in the Social Sciences. New York: Seminar Press.
+- Goodman, L. (1973a). The analysis of multidimensional contingency tables when some variables are posterior to others: A modified path analysis approach. Biometrika 60: 179–192.
+- Goodman, L. (1973b). Causal analysis of data from panel studies and other kinds of surveys. American Journal of Sociology 78: 1135–1191.
+- Granger, C. (1969). Investigating causal relations by econometric models and crossspectral methods. Econometrica 37: 424–438.
+- Greene, T., and Ernhart, C. (1993). Dentine lead and intelligence prior to school entry: A statistical sensitivity analysis. Journal of Clinical Epidemiology 46: 323–329.
+- Greenland, S. (1989). Modelling variable selection in epidemiologic analysis. American Journal of Public Health 79: 340–349.
+- Griffiths, W., Hill, R., and Pope, P. (1987). Small sample properties of probit model estimators. JASA 82: 929–937.
+- Güven D., and Bessler, D. (1997). A note on directed graphs and time series data. Submitted to Econometric Reviews.
+- Güven, D., and Tolun, M. (1991). Analyzing the inter and intra vocabulary performances in isolated speech recognition. Journal of American Voice Input/Output Society 10: 19–37.
+- Haberman, S. (1979). Analysis of Qualitative Data. San Diego, Calif.: Academic Press.
+- Harary, F., Norman R., and Cartwright, D. (1965). Structural Models: An Introduction to the Theory of Directed Graphs. New York: Wiley.
+- Harary, F., and Palmer, E. (1973). Graphical Enumeration. New York: Academic Press.
+- Haughton, D. (1988). On the choice of a model to fit data from an exponential family. Annals of Statistics 16: 342–355.
+- Hausman, D. (1984). Causal priority. Nous 18: 261–279.
+- Hausman, D. (1998). Causal Asymmetries. Cambridge: Cambridge University Press.
+- Hausman, D., and Woodward, J. (in press). The causal Markov condition. British Journal for Philosophy of Science.
+- Havranek, T. (1984). A procedure for model search in multi-dimensional contingency tables. Biometrics 40: 95–100.
+- Heckerman, D. (1995). A Bayesian approach for learning causal networks. Proceedings of the Eleventh Conference on Uncertainty in AI. San Francisco: Morgan Kaufmann, 274–284.
+- Heckerman, D. (1998). A tutorial on learning with Bayesian networks. In Learning in Graphical Models, edited by M. Jordan. Cambridge, Mass.: MIT Press.
+- Heckerman, D., and Shacter, R. (1995). Decision-theoretic foundations for causal reasoning. Journal of Artificial Intelligence Research 3: 405–430.
+- Heckerman, D., and Geiger, D. (1996). Likelihoods and Priors for Bayesian Networks. Redmond, Wash.: Microsoft Research.
+- Heckerman, D., Geiger, D, and Chickering, D. (1994). Learning Bayesian networks: The combination of knowledge and statistical data, Proceedings of the Tenth Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufmann, 293–302.
+- Heckerman, D., Geiger, D., and Chickering, D. (1995). Learning Bayesian networks: The combination of knowledge and statistical data. Machine Learning 20: 197–243.
+- Heckerman, D., Meek, C., and Cooper, G. (1999) A Bayesian approach to causal discovery. Computation, Causation and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Heise, D. (1975). Causal Analysis. New York: Wiley.
+- Herskovits, E. (1991). Computer-based probabilistic network construction. Medical Information Sciences. Stanford, Calif.: Stanford University.
+- Herskovits, E. (1992). Computer Based Probabilistic-Network Construction. Computer Science and Medicine, Stanford University.
+- Herskovits, E., and Cooper, G. (1990). Kutato: An entropy-driven system for construction of probabilistic expert systems from databases, Proceedings of the Sixth Conference on Uncertainty in AI. Mountain View, Calif.: Association for Uncertainty in AI.
+- Herting, J., and Costner, J. (1985). Respecification in multiple indicator models. Causal Models in the Social Sciences, edited by H. Blalock. New York: Aldine.
+- Hocking, R., and Leslie, R. (1967). Selection of the best subset in regression analysis. Technometrics 9: 531–540.
+- Hojsgaard, S., and Thiessan, B. (1995). Block recursive models induced from observations and statistical techniques, Computational Statistics and Data Analysis. 19: 155-175. Computational Statistics and Data Analysis. 19: 155-175.
+- Holland, P., and Rosenbaum, P. (1986). Conditional association and unidimensionality in monotone latent variable models. Annals of Statistics 14: 1523–1543.
+- Hoogland, J., and Boomsma, A. (1998). Robustness studies in covariance structure modeling: An overview and a meta-analysis. Sociological Methods and Research 26: 329–368.
+- Hosmer, D., and Lemeshow, S. (1989). Applied Logistic Regression. New York: Wiley.
+- Hu, L., Bentler, P., and Kano, Y. (1992). Can test statistics in covariance structure analysis be trusted? Psychological Bulletin 112: 351–362.
+- Humphreys, P., and Freedman, D. (1996). The grand leap. British Journal for the Philosophy of Science 47: 113–118.
+- Iwasaki, Y., and Simon, H. (1994). Causality and model abstraction. Artificial Intelligence, 67, 143–194.
+- James, L., Mulaik, S., and Brett, J. (1982). Causal Analysis: Assumptions, Models and Data. Beverly Hills, Calif.: Sage Publications.
+- Jeffreys, H. (1957). Scientific Inference. New York: Cambridge University Press.
+- Jensen, F., Lauritzen, S., and Oleson, K. (1990). Bayesian updating in recursive graphical models by local computations. Computational Statistics Quarterly 4: 269–282.
+- Jordan, M. (1998). Learning in Graphical Models. NATO Science Series D, Behavioral Social Sciences, vol. 89. Kluwer. Also published in 1999 by MIT Press, Cambridge, Mass.
+- Jöreskog, K. (1973). A general method for estimating a linear structural equation. Structural Equation Models in the Social Sciences. A. Goldberger and O. Duncan. New York: Seminar Press.
+- Jöreskog, K. (1978). Structural analysis of covariance and correlation matrices. Psychometrika 43: 443–447.
+- Jöreskog, K. (1981). Analysis of covariance structures. Scandinavian Journal of Statistics 8: 65–92.
+- Jöreskog, K., and Sörbom, D. (1984). LISREL VI User’s Guide. Mooresville, Ind.: Scientific Software.
+- Jöreskog, K., and Sörbom, D. (1990). Model search with TETRAD II and LISREL. Sociological Methods and Research 19: 93–106.
+- Jöreskog, K. G., and Sörbom, D. (1993). LISREL 8: User’s reference guide. Chicago: Scientific Software International.
+- Kadane, J., and Sedransk, N. (1996). Bayesian Ethics in a Clinical Trial Design, edited by J. Kadane. New York: Wiley.
+- Kadane, J., and Seidenfeld, T. (1990). Randomization in a Bayesian Perspective. Journal of Statistical Planning and Inference 25: 329–345.
+- Kano, Y., and Harada, A. (in press). Stepwise variable selection in factor analysis. Psychometrika.
+- Kass, R., and Raftery, A. (1995). Bayes factors. JASA 90: 773–795.
+- Kass, R., and Wasserman, L. (1995). A reference Bayesian test for nested hypotheses and its relationship to the Schwarz criterion. JASA 90: 928–934.
+- Kass, R., Tierney, L., and Kadane, J. (1988). Asymptotics in Bayesian computation. Bayesian Statistics 3, edited by J. Bernardo, M. DeGroot, D. Lindley, and A. Smith. Oxford: Oxford University Press.
+- Katsumo, H., and Mendelson, A. (1991). On the difference between updating a knowledge base and revising it. Principles of Knowledge Representation and Reasoning: Proceedings of the Second International Conference, Boston, Mass.
+- Kelley, T. (1928). Crossroads in the Mind of Man. Stanford: Stanford University Press.
+- Kelly, K. (1996). The Logic of Reliable Inquiry. New York: Oxford University Press.
+- Kendall, M. (1948). The Advanced Theory of Statistics. London: Charles Griffin and Co.
+- Kenny, D. (1979). Correlation and Causality. New York: Wiley.
+- Kiiveri, H. (1982). A Unified Approach to Causal Models, University of Western Australia.
+- Kiiveri, H., Speed, T., and Carlin, J. (1984). Recursive causal models. Journal of the Australian Mathematical Society 36: 30–52.
+- Kiiveri, H., and Speed, T. (1982). Structural analysis of multivariate data: A review. Sociological Methodology, edited by S. Leinhardt. San Francisco: Jossey-Bass.
+- Klein, L. (1961). An Econometric Model of the United Kingdom. Oxford: Oxford University, Institute of Statistics.
+- Kleinbaum, D, Kupper, L., and Morgenstern, H. (1982). Epidemiologic Research. Belmont, Calif.: Lifetime Learning Publications.
+- Klepper, S., and Leamer, E. (1984). Consistent sets of estimates for regressions with errors in all variables. Econometrica 52: 163–183.
+- Klepper, S. (1988). Regressor diagnostics for the classical errors-in-variables model. Journal of Econometrics 37: 225–250.
+- Klir, G., and Parviz, B. (1986). General reconstruction characteristics of probabilistic and possibilistic systems. International Journal of Man-Machine Studies 25: 367–397.
+- Kohn, M. (1969). Class and Conformity. Homewood, Ill.: Dorsey Press.
+- Korb, K., and Wallace, C. (1997). In search of the philosopher’s stone: remarks on Humphreys and Freedman’s critique of causal discovery. British Journal for the Philosophy of Science 48: 543–553.
+- Koster, J. (1995). Gibbs-factorization and the Markov property. Unpublished manuscript.
+- Koster, J. (1996). Markov properties of nonrecursive causal models. Annals of Statistics 24: 2148–2178.
+- Koster, J. (forthcoming). On the validity of the Markov interpretation of path diagrams of Gaussian structural equations systems with correlated errors. Scandinavian Journal of Statistics.
+- Kullback, S. (1959, 1968). Information Theory and Statistics. New York: Wiley.
+- Kullback, S. (1967). A lower bound for discrimination information in terms of variation. IEEE Trans. Information Theory 13: 126–127.
+- Kullback, S. (1968). Probability densities with given marginal. Annals of Mathematical Statistics 39: 79–86.
+- Lauritzen, S., Speed, T., and Vijayan, K. (1978). Decomposable Graphs and Hypergraphs. University of Copenhagen, Institute of Mathematical Studies. Preprint 9.
+- Lauritzen, S. (1996). Graphical Models. Oxford: Oxford University Press.
+- Lauritzen, S. (2000). Causal Inference from Graphical Models, in Complex Stochastic Systems, edted by O. Barnsdorf-Nielsen, O. Cox, and C. Klippelberg. London: Chapman and Hall.
+- Lauritzen, S., and Wermuth, N. (1989). Graphical models for association between variables, some of which are qualitative and some quantitative. Annals of Statistics 17: 31–57.
+- Lauritzen, S., Dawid, A., Larsen, B., and Leimer, H. (1990). Independence properties of directed Markov fields. Networks 20: 491–505.
+- Lawley, D., and Maxwell, A. (1971). Factor Analysis as a Statistical Method. London: Butterworth.
+- Lazarsfeld, P., and Henry, N. (1968). Latent Structure Analysis. Boston: Houghton Mifflin.
+- Leamer, E. (1978). Specification Searches: Ad Hoc Inference with Non-experimental Data. New York: Wiley.
+- Lee, S. (1985). Analysis of covariance and correlation structures. Computational Statistics and Data Analysis 2: 279–295.
+- Lee, S. (1987). Model Equivalence in Covariance Structure Modeling. Department of Psychology, Ohio State University.
+- Lemmer, J. 1996. The Causal Markov Condition, Fact or Artifact. SIGART Bulletin 7: 3–16.
+- Lewis, D. (1973a). Causation. Journal of Philosophy 70: 556–572.
+- Lewis, D. (1973b). Counterfactuals. Cambridge, Mass.: Harvard University Press.
+- Lilienfeld, A. (1983). The Surgeon General’s “Epidemiologic Criteria for Causality.” A Criticism of Burch’s Critique 36: 837–845.
+- Linthurst, R. A. (1979). Aeration, nitrogen, pH and salinity as factors affecting Spartina Alterniflora growth and dieback. North Carolina State University.
+- Lohmoller, J. (1989). Latent Variable Path Modeling with Partial Least Squares. Heidelberg, Physica-Verlag.
+- Long, J. (1983a). Confirmatory Factory Analysis. Beverly Hills, Calif.: Sage Publications.
+- Long, J. (1983b). Covariance Structure Models. Beverly Hills, Calif.: Sage Publications.
+- Luijben, T., Boomsma, A., and Molenaar, I. (1986). Modification of factor analysis models in covariance structure analysis. A Monte Carlo Study. On Model Uncertainty and its Statistical Implications. Berlin: Springer-Verlag. 307.
+- MacCallum, R. (1986). Specification searches in covariance structure modeling. Psychological Bulletin 100: 107–120.
+- Mackie, J. (1974). The Cement of the Universe. New York: Oxford University Press.
+- Madigan, D. (1999). Bayesian graphical models, intention to treat, and the Rubin causal model. Artifical Intelligence and Statistics 99. San Francisco: Morgan Kaufman, 123–132.
+- Madigan, D., Garvin, J., and Raftery, A. (1995). Eliciting prior information to enhance the predictive performance of Bayesian graphical models. Communications in Statistics: Theory and Methods 24: 2271–2292.
+- Madigan, D., Raftery, A., Volinsky, C., and Hoeting, J. (1996). Bayesian model averaging. AAAI Workshop on Integrating Multiple Learned Models, Portland, Ore.
+- Madigan, D., and York, J. (1995). Bayesian graphical models for discrete data. International Statistical Review 63: 215–232.
+- Mallows, C. (1973). Some comments on Cp. Technometrics 15: 661–676.
+- Mani, S., and Cooper, G. (forthcoming) A study in causal discovery from populationbased infant birth and death records. Proceedings of the Annual Fall Symposium of the American Medical Informatics Association. Hanley and Belfus, Philadelphia.
+- Manksi, C. (1995). Identification Problems in the Social Sciences. Harvard University Press, Cambridge, Mass.
+- Mardia, K., Kent, J., and Bibby, J. (1979). Multivariate Analysis. New York: Academic Press.
+- Maruyama, G., and McGarvey, B. (1980). Evaluating causal models: An application of maximum likelihood analysis of structural equations. Psychological Bulletin 87: 502–512.
+- MathSoft (1993). Mathcad 4.0. User’s guide. Windows version. Cambridge, Mass.
+- Matu\_, F. (1995). Conditional independence properties among four random variables II. Combinatorics, Probability, and Computing 4, 407–417.
+- Matu\_, F., and Studen\_, M. (1995). Conditional independence properties among four random variables I. Combinatorics, Probability, and Computing 4: 269–278.
+- Maudlin, T. (1994). Quantum Non-Locality and Relativity. Blackwell, Cambridge, UK.
+- McKenna, M., and Shipley, W. 1999. Interacting determinants of interspecific relative growth: empirical patterns and a theoretical explanation. Ecoscience (in press).
+- McLachlan, G., and Krishnan, T. (1997). The EM Algorithm and Extensions. New York: Wiley.
+- McPherson, J., Welch, S., and Clark, C. (1977). The stability and reliability of political efficacy: Using path analysis to test alternative models. American Political Science Review 71: 509–521.
+- Meek, C. (1995). Strong completeness and faithfulness in Bayesian networks. Proceedings of the Eleventh Conference on Uncertainty in AI. San Francisco: Morgan Kaufmann, 411–418.
+- Meek, C., and Glymour, C. (1994). Conditioning and intervening. British Journal for Philosophy of Science 45: 1001–1021.
+- Meng, X., and Rubin, D. (1991). Using EM to obtain asymptotic variance-covariance matrices: The SEM algorithm. JASA 86: 899–909.
+- Miller, J., Slomczynski, K., and Schoenberg, R. (1981). Assessing comparability of measurement in cross-national research: Authoritarian-conservatism in different sociocultural settings. Social Psychology Quarterly 44: 178–191.
+- Miller, R., Jr. (1981). Simultaneous Statistical Inference. New York: McGraw-Hill.
+- Miller, W., and Stokes, D. (1963). Constituency influence in Congress. American Political Science Review 1963: 45–456.
+- Mitchell, T. (1977). Version spaces: A candidate elimination approach to rule learning. Proceedings of the Fifth International Joint Conference on AI, Pittsburgh.
+- Mitchell, T., and Beauchamp, J. (1988). Bayesian variable selection in linear regression. JASA 83: 1023–1032.
+- Monti, S., and Cooper, G. (1998). A multivariate discretization method for learning bayesian networks from mixed data. Proceedings of the Fourteenth Annual Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufmann, 404–413.
+- Mosteller, F., and Tukey, J. (1977). Data Analysis and Regression, A Second Coure in Regression. Reading, Mass.: Addison-Wesley.
+- MRFIT Research Group (1982). Multiple risk factor intervention trial; risk factor changes and mortality results. JAMA 248: 1465–1477.
+- Muthen, B. (1984). A general structural equation model with dichotomous, ordered categorical and continuous latent variable indicators. Psychometrika 49: 115–132.
+- Neal, R. (1993). Probabilistic inference using Markov chain Monte Carlo methods. Toronto: Department of Computer Science, University of Toronto.
+- Neal, R. (2000). On deducing conditional independence from d-separation in causal graphs with feedback: The Uniqueness Condition is not sufficient. Journal of Artificial intelligence Research, 12:87-91.
+- Neapolitan, R. (1990). Probabilistic Reasoning in Expert Systems. New York: Wiley.
+- Needleman, H., Geiger, S., and Frank, R. (1985). Lead and IQ Scores: A Reanalysis. Science 227: 701–704.
+- Neyman, J. (1935). Statistical problems with agricultural experimentation. J. Roy. Stat. Soc. Suppl. 2: 107–180.
+- Osherson, D., Stob, T., and Weinstein, S. (1986). Systems That Learn. Cambridge, Mass.: MIT Press.
+- Pearl, J. (1988). Probabilistic Reasoning in Intelligent Systems. San Mateo, Calif.: Morgan Kaufmann.
+- Pearl, J. (1994). A probablistic calculus of actions. Proceedings of the Tenth Conference on Uncertainty in Artificial Intelligence. Seattle: Morgan Kaufmann, 454–462.
+- Pearl, J. (1995). Causal diagrams for empirical research. Biometrika 82: 669–709.
+- Pearl, J. (1999a). Graphs, structural models and causality. Computation, Causation and Discovery. C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Pearl, J. (1999b). Reasoning with cause and effect. UCLA Cognitive Science Laboratory Technical Report, R–265.
+- Pearl, J. (forthcoming). Probabilities of causation: Three counterfactual interpretations and their identification. Synthese.
+- Pearl, J., and Dechter, R. (1989). Learning structure from data: A survey. proceedings COLT ’89, Santa Cruz, Calif., 230–423.
+- Pearl, J., and Dechter, R. (1996). Identifying independencies in causal graphs with feedback. Proceedings of the Twelfth Annual Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufman, 420–426.
+- Pearl, J., and Robins, J. (1995). Probabilistic evaluation of sequential plans from causal models with hidden variables. Proceedings of the Eleventh Annual Conference on Uncertainty in Artificial Intelligence. San Francisco: Morgan Kaufmann, 444–453.
+- Pearl, J., and Tarsi, M. (1986). Structuring causal trees. Journal of Complexity 2: 60–77.
+- Pearl, J., and Verma, T. (1987). The Logic of Representing Dependencies by Directed Graphs. Los Angeles: UCLA Cognitive Systems Laboratory.
+- Pearl, J., and Verma, T. (1990). A Formal Theory of Inductive Causation. Los Angeles: UCLA Cognitive Systems Laboratory, Computer Science Department.
+- Pearl, J., and Verma, T. (1991). A theory of inferred causation. Proceedings of the Second International Conference of Representation and Reasoning, San Francisco: Morgan Kaufmann.
+- Pearl, J., Geiger, D., and Verma, T. (1990). The logic of influence diagrams. Influence Diagrams, Belief Nets and Decision Analysis, edited by R. Oliver and J. Smith. New York: Wiley.
+- Pratt, J., and Schlaifer, R. (1988). On the interpretation and observation of laws. Journal of Econometrics 39: 23–52.
+- Putnam, H. (1965). Trial and error predicates and a solution to a problem of Mostowski. Journal of Symbolic Logic 30: 49–57.
+- Pyankov, V., Kondratchuk, A., and Shipley, W. (1999). Leaf structure and specific leaf mass: the alpine desert plants of the Eastern Pamirs (Tadjikistan). The New Phytologist (in press).
+- Raftery, A. (1993). Bayesian model selection in structural equation models. Testing Structural Equation Models, edited by K. A. Bollen and J. S. Long. Newbury Park, Calif.: Sage, 163–180.
+- Raftery, A. (1994). Bayesian model selection in social research. Working paper no. 94- 12, University of Washington, Center for Studies in Demography and Ecology.
+- Raftery, A. (1995). Bayesian model selection in social research. In Sociological Methodology, edited by P. Marsden. Cambridge, Mass.: Blackwell.
+- Raftery, A. (1996). Hypothesis testing and model selection. Markov Chain Monte Carlo in Practice, edited by W. R. Gilks, S. Richardson, and D. Spiegelhalter. London: Chapman and Hall, 163–187.
+- Ramoni, M (1996) Learning Bayesian networks from incomplete databases. Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence. Morgan Kaufman, 401–408.
+- Rawlings, J. (1988). Applied Regression Analysis. Belmont, Calif.: Wadsworth.
+- Reichenbach, H. (1956). The Direction of Time. Berkeley: University of California Press.
+- Reiss, I., Banwart, A., and Forman, H. (1975). Premarital contraceptive usage: A study and some theoretical explorations. Journal of Marriage and the Family 37: 619–630.
+- Richardson, T. (1996a). Models of Feedback: Interpretation and Discovery. Department of Philosophy. Pittsburgh: Carnegie Mellon University.
+- Richardson, T. (1996b) A discovery algorithm for directed cyclic graphs. Proceedings of the 12th Conference of Uncertainty in AI, Portland, Ore.: Morgan Kaufmann, 454–461.
+- Richardson, T. (1996c). A polynomial-time algorithm for deciding Markov equivalence of directed cyclic graphical models. Proceedings of the 12th Conference of Uncertainty in AI, Portland, Ore.: Morgan Kaufmann, 462–469.
+- Richardson, T. (1998). Chain graphs and symmetric associations. Learning in Graphical Models. M. Jordan. Cambridge, Mass.: MIT Press.
+- Richardson, T. (1999b). A local Markov property for acyclic directed mixed graphs. Proceedings of 52nd Session of the International Statistical Institute, Aug. 10–18, Helsinki, Finland.
+- Richardson, T., Bailer, H., and Banerjee, M. (1999). Specification searches using MAG models. Proceedings of 52nd Session of the International Statistical Institute, Aug. 10–18, Helsinki, Finland.
+- Richardson, T., and Spirtes, P. (1999). Parameterizing and Scoring Mixed Ancestral Graphs. Carnegie Mellon Department of Philosophy Technical Report Phil 102.
+- Rindfuss, R., Bumpass, L., and St. John, C. (1980). Education and fertility: Implications for the roles women occupy. American Sociological Review 45: 431–447.
+- Rissanen, J. (1987). Stochastic complexity (with discussion). J. Roy. Stat. Soc. 49(Ser. B): 223–239 and 253–265.
+- Robins, J. (1986). A new approach to causal inference in mortality studies with sustained exposure period—applications to control of healthy workers survivor effect. Mathematical Modelling 7: 1393–1512.
+- Robins, J. (1987). Addendum to “A new approach to causal inference in mortality studies with sustained exposure period – applications to control of healthy workers survivor effect.” Computers and Mathematics with Applications 14: 923–945
+- Robins, J. (1993). Analytic methods for estimating HIV-treatment and cofactor effects. Methodological Issues in AIDS Mental Health Research, edited by D. Ostrow and R. Kessler. New York: Plenum, 213–290.
+- Robins, J. (1994). Correcting for noncompliance in randomized trials using structural nested mean models. Communications in Statistics 23: 2379–2412.
+- Robins, J. (1995). Discussion of “Causal Diagrams for Empirical Research” by J. Pearl. Biometrika 82: 695–698.
+- Robins, J. (1997). Causal inference from complex longitudinal data. Latent Variable Modeling and Applications to Causality, M. Berkane. Lecture Notes in Statistics 120. New York: Springer Verlag.
+- Robins, J. (1998). Marginal Structural models. Proceedings of the American Statistical Association, Chicago, 1–10.
+- Robins, J. (1999). Testing and estimation of direct effects by reparameterizing directed acyclic graphs with structural nested models. Computation, Causation and Discovery. C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Robins, J., and Greenland, S. (1989). The probability of causation under a stochastic model for individual risk. Biometrics 45: 1125–1138.
+- Robins, J., Scheines, R., Spirtes, P., and Wasserman, L. (1999). The Limits of Causal Knowledge. Carnegie Mellon University Philosophy Department Technical Report Phil 97.
+- Robins, J., and Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. In Computation, Cuasation, and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Rodgers, R., and Maranto, C. (1989). Causal models of publishing productivity in psychology. Journal of Applied Psychology 74: 636–649.
+- Rose, G. Hamilton, P. Colwell, L., and Shipley, J. (1982). A randomised controlled trial of anti-smoking advice: 10-year results. Journal of Epidemiology and Community Health 36: 102–108.
+- Rosenbaum, P. (1984). From association to causation in observational studies. JASA 79: 41–48.
+- Rosenbaum, P. (1995). Observational Studies. New York: Springer-Verlag.
+- Rubin, D. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. Journal of Educational Psychology 66: 688–701.
+- Rubin, D. (1977). Assignment to treatment group on the basis of a covariate. Journal of Educational Statistics 2: 1–26.
+- Rubin, D. (1978). Bayesian inference for causal effects: The role of randomizations. Annals of Statistics 6: 34–58.
+- Rubin, D. (1986). Comment: Which ifs have causal answers. Journal of the American Statistical Association 81: 396.
+- Russell, S., Binder, J., Koller, D., and Kanazawa, K. (1995). Local learning in probabilistic networks with hidden variables. Proceedings of the International Joint Conference on AI. San Francisco: Morgan Kaufmann.
+- Salmon, W. (1980). Probabilistic causality. Pacific Philosophical Quarterly 61: 50–74.
+- Salmon, W. (1984). Scientific Explanation and the Causal Structure of the World. Princeton, N.J.: Princeton University Press.
+- Saris, W., and Stronkhorst, H. (1984). Causal Modeling in Nonexperimental Research. Amsterdam, Sociometric Research Foundation.
+- Scheines, R. (1988). Automating creativity. Aspects of Artificial Intelligence. J. Fetzer. Boston: Kluwer.
+- Scheines, R., Spirtes, P., Glymour, G., and Sorensen, S. (1990). Causes of Success and Satisfaction Among Naval Recruiters. San Diego, Calif.: Navy Personnel Research Development Center.
+- Scheines, R., Spirtes, P., and Glymour, C. (1990). A qualitative approach to causal modeling. Qualitative Simulation Modeling and Analysis. P. Luker and P. Fishwick. New York: Springer-Verlag, 72–97.
+- Scheines, R. (1993). Unidimensional linear latent variable models. Technical Report CMU-PHIL–39. Carnegie Mellon University, Pittsburgh.
+- Scheines, R., Spirtes, P., Glymour, C., and Meek, C. (1994). Tetrad II: User’s Manual. HIllsdale, N.J.: Lawrence Erlbaum.
+- Scheines, R. (1997). Estimating latent causal influence: TETRAD II model selection and Bayesian parameter estimation. Proceedings of the 6th International Workshop on Artificial Intelligence and Statistics. Fort Lauderdale, Fla., 445–456.
+- Scheines, R., Boomsma, A., and Hoijtink, H. (1997). The mulitmodality of the likelihood function in structural equation models. Pittsburgh.: Department of Philosophy, Carnegie Mellon University.
+- Scheines, R., Spirtes, P., Glymour, C., Meek, C., and Richardson, T. (1998). The TETRAD Project: constraint based aids to causal model specification. Multivariate Behavioral Research 33: 65–118.
+- Scheines, R., Boomsma, A., and Hoijtink, H. (1999). Bayesian Estimation and Testing of Structural Equation Models. Psychometrika 64: 37–52.
+- Scheines, R., and Spirtes, P. (1992). Finding latent variable models in large data bases. International Journal of Intelligent Systems 7: 609–622.
+- Schwarz, G. (1978). Estimating the dimension of a model. Annals of Statistics 6: 461–464.
+- Sclove, S. (undated). On Criteria for Choosing a Regression Equation for Prediction. Pittsburgh: Department of Statistics, Carnegie Mellon University.
+- Settimi, R., and Smith, J. Geometry, moments, and Bayesian networks with hidden variables. Artificial Intelligence and Statistics 99. San Francisco: Morgan Kaufman, 293–298.
+- Sewell, W., and Shah, V. (1968). Social class, parental encouragement, and educational aspirations. American Journal of Sociology 73: 559–572.
+- Shafer, S. (1996). The Art of Causal Conjecture. Cambridge, Mass.: MIT Press.
+- Shigemasu, K. (1999). Computing Bayes factors for structural equation models. Proceedings of the 1999 Meetings of the European Psychometric Society, Luneburg, Germany.
+- Shipley, W. (1995). Structured interspecific determinants of specific leaf area in 34 species of herbaceous angeosperms. Functional Ecology 9: 312–319.
+- Shipley, W. (1997). Exploratory path analysis with applications in ecology and evolution. American Naturalist 149: 1113–1138.
+- Shipley, W. (1999). Exploring hypothesis space: examples from organismal biology. Computation, Causation and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Shipley, W. (1999). Testing causal explanations in organismal biology: causation, correlation and structural equation modelling. Oikos (in press).
+- Simon, H. (1953). Causal ordering and identifiability. Studies in Econometric Methods. Hood and Koopmans. New York: Wiley, 49–74.
+- Simon, H. (1954). Spurious correlation: a causal interpretation. JASA 49: 467–479.
+- Simon, H. (1977). Models of Discovery. Dordrecht: D. Reidel.
+- Simpson, C. (1951). The interpretation of interaction in contingency tables. J. Roy. Statist. Soc. 13(Ser. B): 238–241.
+- Sims, C. (1972). Money, income, and causality. American Economic Review 62: 540–552.
+- Singh, M., and Valtorta, M. (1993). An algorithm for the construction of Bayesian network structure from data. Proceedings of the Ninth Conference on Uncertainty in AI. San Francisco: Morgan Kaufmann, 259–265.
+- Skyrms, B. (1980). Causal Necessity: A Pragmatic Investigation of the Necessity of Laws. New Haven: Yale University Press.
+- Smith, A., and Roberts, G. (1993). Bayesian computation via the Gibbs sampler and related Markov chain Monte Carlo methods. Journal of the Royal Statistical Society 55(Ser. B): 3–23.
+- Sober, E. (1987). The principle of the common cause. Probability and Causality. J. Fetzer. Dordrecht: D. Reidel.
+- Sorbom, D. (1975). Detection of correlated errors in longitudinal data. British Journal of Mathematical and Statistical Psychology 28: 138–151.
+- Sosa, E., and Tooley, M., eds. (1993). Causation. New York: Oxford University Press.
+- Spearman, C. (1904). General intelligence objectively determined and measured. American Journal of Psychology 15: 201–293.
+- Spence, M. (1973). Job market signalling. Quarterly Journal of Economics 87: 355–379.
+- Spiegelhalter, D. (1986). Probabilistic reasoning in predictive expert systems. Uncertainty in Artificial Intelligence, edited by K. Lemmer and J. Kanal. Amsterdam: North-Holland.
+- Spiegelhalter, D., and Knell-Jones, R. (1984). Statistical and knowledge-based approaches to clinical decision-support systems. J. Royal Statist. Soc. 147(Ser. A): 35–77.
+- Spiegelhalter, D., and Lauritzen, S. (1990). Sequential updating of conditional probabilities on directed graphical structures. Networks 20: 579–605.
+- Spiegelhalter, D., and Lauritzen, S. (1995). Sequential updating of conditional probabilities on directed graphical structures. Networks 20: 579–605.
+- Spirtes, P. (1989). Fast Geometrical Calculations of Overidentifying Constraints. Pittsburgh: Laboratory for Computational Linguistics, Carnegie Mellon University.
+- Spirtes, P. (1989). A Necessary and Sufficient Condition for Conditional Independencies to Imply a Vanishing Tetrad Difference. Pittsburgh: Laboratory for Computational Linguistics, Carnegie Mellon University.
+- Spirtes, P. (1994a). Building causal graphs from statistical data in the presence of latent variables. Logic, Methodology, and Philsophy of Science IX, edited by D. Prawitz, B. Skyrms, and D. Westerståhl. Amsterdam: north Holland, 813–832.
+- Spirtes, P. (1994b). Conditional Independence in Directed Cyclic Graphical Models for Feedback. Pittsburgh: Dept. of Philosophy, Carnegie Mellon University.
+- Spirtes, P. (1995). Directed cyclic graphical representation of feedback models. Proceedings of the Eleventh Conference on Uncertainty in Artificial Intelligence, San Francisco: Morgan Kaufmann, 491–498.
+- Spirtes, P. (1996). Discovering Causal Relations Among Latent Variables in Directed Acyclic Graphical Models. Pittsburgh: Department of Philosophy, Carnegie Mellon University.
+- Spirtes, P., and Cooper, G. (1998). An experiment in causal discovery. Artificial Intelligence and Statistics ’99, edited by D. Heckerman and J. Whittaker. San Francisco: Morgan Kaufman, 162–168.
+- Spirtes, P., and Glymour, C. (1988). Latent variables, causal models and overidentifying constraints. Journal of Econometrics 39: 175–198.
+- Spirtes, P., and Glymour, C. (1990). Causal Structure Among Measured Variables Preserved with Unmeasured Variables. Pittsburgh: Laboratory for Computational Linguistics, Carnegie Mellon University.
+- Spirtes, P., and Meek, C. (1995). Learning Bayesian networks with discrete variables from data. Proceedings of the First International Conference on Knowledge, Discovery and Data Mining. San Francisco: Morgan Kaufmann.
+- Spirtes, P., and Richardson, T. (1996). A polynomial time algorithm for determining DAG equivalence in the presence of latent variables and selection bias. Proceedings of the 6th International Workshop on Artificial Intelligence and Statistics, Fort Lauderdale, Fla., 489–500.
+- Spirtes, P., and Verma, T. (1992). Equivalence of causal models with latent variables. Pittsburgh: Carnegie Mellon University.
+- Spirtes, P., Glymour, C., and Scheines, R. (1990a). Causality from probability. Evolving Knowledge in Natural Science and Artificial Intelligence, edited by J. Tiles et al. London: Pitman, 181–199.
+- Spirtes, P., Glymour, C., and Scheines, R. (1990b). Causality from probability. Proceedings of the Conference on Advanced Computing for the Social Sciences, Williamsburg, Va.
+- Spirtes P., Glymour C., and Scheines, R. (1991a). An algorithm for fast recovery of sparse causal graphs. Social Science Computer Review 9: 62–72.
+- Spirtes P., Glymour C., and Scheines, R. (1991b). From probability to causality. Philosophical Studies 64: 1–36.
+- Spirtes, P., Glymour, C., and Scheines, R.(1997). Reply to Humphreys’ and Freedman’s review of Causation, Prediction, and Search. British Journal for the Philosophy of Science, 48, 555–568.
+- Spirtes, P., Glymour, C., Scheines, R., and Sorensen, S. (1990). TETRAD Studies of Data for Naval Air Traffic Controller Trainees. San Diego, Calif.: Navy Personnel Research Development Center.
+- Spirtes, P., Meek, C., and Richardson, T. (1995). Causal inference in the presence of latent variables and selection bias. Proceedings of the Eleventh Conference on Uncertainty in AI, San Francisco: Morgan Kaufmann, 499–506.
+- Spirtes, P., Meek, C., and Richardson, T. (1999). An algorithm for causal inference in the presence of latent variables and selection bias. Computation, Causation and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Spirtes, P., Richardson, T., and Meek, C. (1996). Heuristic greedy search algorithms for latent variable models. Proceedings of the 6th International Workshop on Artificial Intelligence and Statistics, Fort Lauderdale, Fla., 481–488.
+- Spirtes, P, Richardson, T., and Meek, C. (1997). The Dimensionality of Mixed Ancestral Graphs. Technical Report CMU-PHIL–83, Department of Philosophy, Carnegie Mellon University, November, 1997.
+- Spirtes, P., Richardson, T., Meek, C., Scheines, R., and Glymour, C. (1996). Using Dseparation to calculate zero partial correlations in linear models with correlated errors. Tehcnical Report Phil–72, Deparatment of Philosophy, Carnegie Mellon University.
+- Spirtes, P., Richardson, T., Meek, C., Scheines, R., and Glymour, C. (1998). Using path diagrams as a structural equation modeling tool. Sociological Methods and Research, 27, 148–181.
+- Spirtes, P., Scheines, R., and Glymour, C. (1990). Simulation studies of the reliability of computer aided specification using the TETRAD II, EQS, and LISREL Programs. Sociological Methods and Research 19: 3–66.
+- Spohn, W. (1983). Deterministic and probabilistic reasons and causes. Methodology, Epistemology, and Philosophy of Science: Essays in Honour of Wolfgang Stegmuller on the Occasion of his 60th Birthday, edited by H. Putnam, C. Hempel, and W. Essler. Dordrecht: D. Reidel, 371–396.
+- Spohn, W. (1990). Direct and indirect causes. Topoi 9: 125–145.
+- Spohn, W. (1991). On Reichenbach’s principle of the common cause. Proceedings of the First Pittsburgh-Konstanz Colloquium.
+- Spohn, W. (1992). Causal laws are objectifications of inductive schemes. Theory of Probability. J. Dubucs. Dordrecht: Kluwer.
+- Stein, C. (1960). Multiple regression. Contributions to Probability and Statistics. Essays in Honor of Harold Hotelling. I. Olkin. Stanford, Stanford University Press.
+- Stetzl, I. (1986). Changing causal relationships without changing the fit: Some rules for generating equivalent LISREL models. Multivariate Behavior Research 21: 309–331.
+- Strotz, R., and Wold, H. (1960). Recursive versus nonrecursive systems: an attempt at synthesis. Econometrica 28: 417–427.
+- Studen\_, M. (1992). Conditional independence relations have no finite complete characterization. Information Theory, Statistical Decision Functions and Random Processes: Proceedings of the 11th Prague Conference, ed. by S. Kubík and J. Vi\_ek., Dordrecht: Kluwer, 377–396.
+- Studen\_, M., and Bouckaert, R. (1998). On chain graph models for descriptions of conditional independence structures. Annals of Statistics 26: 1434–1495.
+- Suppes, P. (1970). A Probabilistic Theory of Causality. Amsterdam, North-Holland.
+- Suppes, P., and Zanotti, M. (1981). When are probabilistic explanations possible. Synthese 48: 191–199.
+- Surgeon General of the United States (1964). Smoking and Health. Washington, D.C., U.S. Government Printing Office.
+- Surgeon General of the United States (1979). Smoking and Health. Washington, D.C., U.S. Government Printing Office.
+- Swamy, P. (1971). Statistical Inference in Random Coefficient Regression Models. Berlin, Springer-Verlag.
+- Tanner, M.A. (1993). Tools for Statistical Inference: Methods for the Exploration of Posterior Distributions and Likelihood Functions. New York: Springer.
+- Thiesson, B. (1995). Score and information for recursive exponential models with incomplete data. Aalborg, Denmark, Institute of Electronic Systems, Aalborg University.
+- Thomson, G. (1916). A hierarchy without a general factor. British Journal of Psychology 8: 271–281.
+- Thomson, G. (1935). On complete families of correlation coefficients and their tendency to zero tetrad-differences: Including a statement of the sampling theory of abilities. British Journal of Psychology 26: 63–92.
+- Thurstone, L. (1935). The Vectors of Mind. Chicago: University of Chicago Press.
+- Tierney, L. (1994). Markov chains for exploring posterior distributions (with discussion). Annals of Statistics 22: 1701–1762.
+
+- Timberlake, M., and Williams, K. (1984). Dependence, political exclusion, and government repression: Some cross-national evidence. American Sociological Review 49: 141–146.
+- Tolun, M., and Guven, D. (1991). Analyzing the inter and intra vocabulary performances in isolated speech recognition. Journal of American Voice Input/Output Society 10: 19–37.
+- Verma, T. (1987). Causal networks: semantics and expressiveness. Los Angeles, Cognitive Systems Laboratory, University of California.
+- Verma, T., and Pearl, J. (1990). Equivalence and synthesis of causal models. Proceedings of the Sixth Conference on Uncertainty in AI, Mountain View, Calif.: Association for Uncertainty in AI.
+- Verma, T., and Pearl, J. (1990). On equivalence of causal models. Los Angeles, Cognitive Systems Laboratory, University of California.
+- Verma, T., and Pearl, J. (1991). Equivalence and synthesis of causal models. Los Angeles, Cognitive Systems Laboratory, University of California.
+- Verma, T., and Pearl J. (1990). Causal networks: semantics and expressiveness. Uncertainty in Artificial Intelligence 4. T. Levitt R. Shacter, L. Kanal, J. Lemer. North-Holland, Elsevier Science.
+- Waldemark, J., and Norqvist, P. In-flight calibration of satellite ion composiiton data using artificial intelligence methods. Computation, Causation and Discovery, edited by C. Glymour and G. Cooper. Cambridge, Mass.: MIT Press.
+- Wallace, C., and Freeman, P. (1987). Estimation and inference by compact coding. J. Roy. Statist. Soc. 49(Ser. B): 240–265.
+- Wedelin D. (1996). Efficient estimation and model selection in large graphical models. Statistics and Computing 6.?? [AU: p6: 319–323.
+- Weisberg, S. (1985). Applied Linear Regression. New York: Wiley.
+- Wermuth, N. (1976). Model search among multiplicative models. Biometrika 32: 253–363.
+- Wermuth, N. (1980). Linear recursive equations, covariance selection and path analysis. JASA 75: 963–972.
+- Wermuth, N., and Lauritzen, S. (1983). Graphical and recursive models for contingency tables. Biometrika 72: 537–552.
+- Wermuth, N., and Lauritzen, S. (1990). On substantive research hypotheses, conditional independence graphs and graphical chain models. J. Roy. Statist. Soc. 52(Ser. B): 21–50.
+- Wermuth, N., Cox, D., and Pearl, J. (1994, revised 1998) Explanations for multivariate structures derived from univariate recursive regressions. Center of Survey Research and Methodology, ZUMA, Mannheim, FRG.
+- Wermuth, N., Cox, D., Richardson, T., and Glonek, G. (1999). On transforming and generating cyclic graph models. ZUMA Tech report, July 1999.
+- Wheaton, B., Muthen, B., Alwin, D., and Summers, G. (1977). Assessing Reliability and Stability in Panel Models. Sociological Methodology. D. Heise. San Francisco, Jossey-Bass.
+- Whitney, H. (1957). Elementary structures of real algebraic varieties. Annals of Mathematics 66: 545–556.
+- Whittaker, J. (1990). Graphical Models in Applied Multivariate Statistics. New York: Wiley.
+- Winkler, R. (1967). The assessment of prior distribution in Bayesian analysis. American Statistical Association Journal 62: 776–800.
+- Wise, D. (1975). Academic achievement and job performance. American Economic Review 65: 350–366.
+- Wishart, J. (1928). Sampling errors in the theory of two factors. British Journal of Psychology, 19: 180–187.
+- Wright, S. (1934). The method of path coefficients. Annals of Mathematical Statistics 5: 161–215.
+- Younger, M. (1978). Handbook for Linear Regression. North Scituate, Mass.: Duxbury Press.
+- Yule, G. (1903). Notes on the theory of association of attributes in statistics. Biometrika 2: 121–134.

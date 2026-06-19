@@ -510,5 +510,7 @@
 - Yule, 1903: G.U. Yule. Notes on the theory of association of attributes in statistics. _Biometrika_, 2:121–134, 1903.
 - Zelterman, 2001: D. Zelterman. Book reviews: Causality: Models, Reasoning, and Inference. _Technometrics_, 32(2):239, 2001.
 - Zidek, 1984: J. Zidek. Maximal Simpson disaggregations of $2 \times 2$ tables.
+
 ```
-````
+
+```

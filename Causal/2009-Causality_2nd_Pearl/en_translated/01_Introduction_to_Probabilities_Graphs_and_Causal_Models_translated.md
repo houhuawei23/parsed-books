@@ -170,7 +170,6 @@ $$
 
 贝叶斯规则（方程 1.13）的本质可以方便地使用 **优势比（odds）** 和 **似然比（likelihood ratio）** 参数来刻画。将（1.13）除以 $P(\neg H \mid e)$ 的互补形式，我们得到
 
-
 $$
 \frac{P(H \mid e)}{P(\neg H \mid e)} = \frac{P(e \mid H)}{P(e \mid \neg H)} \cdot \frac{P(H)}{P(\neg H)}. \tag{1.15}
 $$

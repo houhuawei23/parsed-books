@@ -1,0 +1,21 @@
+# metadata.yaml
+title: "Causation Prediction and Search"
+subtitle: "(Second Edition)"
+author:
+  - Peter Spirtes
+  - Clark Glymour
+  - Richard Scheines
+date: 2021-01-29
+keywords: [Causation, Prediction, Search]
+lang: "zh"
+doi: "https://doi.org/10.7551/mitpress/1754.001.0001"
+abstract: |
+  作者探讨了使我们能够将观察转化为因果知识，并利用不完整的因果知识进行规划和预测来影响和控制环境的假设和方法
+
+  哪些假设和方法使我们能够将观察转化为因果知识？即使是不完整的因果知识，如何也能在规划和预测中影响和控制我们的环境？在这本书中，Peter Spirtes、Clark Glymour 和 Richard Scheines 利用贝叶斯网络的形式主义探讨了这些问题，其结果已被应用于社会科学、行为科学和物理科学的多个研究领域。
+
+  作者表明，尽管实验和观察性研究设计可能不总是允许相同的推断，但它们遵循统一的原则。他们公理化了因果结构与概率独立性的联系，探索多种因果不可区分性，提出了操作理论，并开发了渐近可靠的因果模型等价类搜索程序，包括带潜在变量和无潜在变量的范畴数据模型和结构方程模型。
+
+  作者指出，因果关系与概率之间的关系还有助于澄清统计学中的多样议题，如实验与观察的比较力、辛普森悖论、回归模型的误差、回顾性与前瞻性采样以及变量选择。
+
+  第二版包含新导言，并对自1993年第一版出版以来出现的进展和应用进行了详尽综述。
