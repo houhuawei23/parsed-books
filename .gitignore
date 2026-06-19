@@ -1,5 +1,12 @@
 **/.**
 
+**/**.pdf
+**/**.epub
+**/**.zip
+**/images
+
+**/en_images
+**/zh_images
 # macOS
 .DS_Store
 .AppleDouble

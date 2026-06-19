@@ -10,15 +10,34 @@
 
 ## Quick Navigation
 
-1. [Causality: Models, Reasoning, and Inference](#1-causality-models-reasoning-and-inference)
-2. [Causal Inference in Statistics: A Primer](#2-causal-inference-in-statistics-a-primer)
-3. [The Book of Why: The New Science of Cause and Effect](#3-the-book-of-why-the-new-science-of-cause-and-effect)
-4. [Causal Inference: What If](#4-causal-inference-what-if)
-5. [Causation, Prediction, and Search: Second Edition](#5-causation-prediction-and-search-second-edition)
+1. [Causation, Prediction, and Search: Second Edition](#1-causation-prediction-and-search-second-edition)
+2. [Causality: Models, Reasoning, and Inference](#2-causality-models-reasoning-and-inference)
+3. [Causal Inference in Statistics: A Primer](#3-causal-inference-in-statistics-a-primer)
+4. [The Book of Why: The New Science of Cause and Effect](#4-the-book-of-why-the-new-science-of-cause-and-effect)
+5. [Causal Inference: What If](#5-causal-inference-what-if)
 
 ## Books
 
-### 1. Causality: Models, Reasoning, and Inference
+### 1. Causation, Prediction, and Search: Second Edition
+
+| Field | Value |
+|-------|-------|
+| **Title** | Causation, Prediction, and Search |
+| **Subtitle** | Second Edition |
+| **Author(s)** | Peter Spirtes, Clark Glymour, Richard Scheines |
+| **Date** | 2001 |
+| **Directory** | [2001-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour](2001-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour) |
+| **Keywords** | causal inference, Bayesian networks, causal discovery, structural equation models, latent variables, d-separation, causal indistinguishability, manipulation and intervention, regression and causation, experimental and observational studies |
+
+**Abstract**:
+
+Causation, Prediction, and Search addresses how observations can be turned into causal knowledge, and how incomplete causal knowledge can be used in planning, prediction, and control. The authors use the formalism of directed graphical models (Bayesian networks) to axiomatize the connection between causal structure and probabilistic independence. The book develops the mathematical and conceptual framework for representing causal systems, characterizing when alternative causal theories are statistically indistinguishable, and designing computationally feasible search algorithms that can recover causal structure from observational and experimental data. It covers discovery algorithms for causally sufficient and insufficient structures, prediction of manipulations and interventions, the relationship between regression and causation, and the design of empirical studies. The second edition adds a new introduction, a revised treatment of d-separation, and an extensive survey chapter reviewing advances and applications since the first edition (1993).
+
+**Explore**: [deep-dive](2001-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/deep-dive) · [en](2001-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/en) · [en_translated](2001-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/en_translated) · [images](2001-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/images)
+
+---
+
+### 2. Causality: Models, Reasoning, and Inference
 
 | Field | Value |
 |-------|-------|
@@ -37,7 +56,7 @@ This book provides a comprehensive exposition of modern causal analysis, showing
 
 ---
 
-### 2. Causal Inference in Statistics: A Primer
+### 3. Causal Inference in Statistics: A Primer
 
 | Field | Value |
 |-------|-------|
@@ -56,7 +75,7 @@ A concise introductory primer on causal inference aimed at statistics students a
 
 ---
 
-### 3. The Book of Why: The New Science of Cause and Effect
+### 4. The Book of Why: The New Science of Cause and Effect
 
 | Field | Value |
 |-------|-------|
@@ -75,7 +94,7 @@ The Book of Why is a popular-science introduction to the "Causal Revolution" led
 
 ---
 
-### 4. Causal Inference: What If
+### 5. Causal Inference: What If
 
 | Field | Value |
 |-------|-------|
@@ -94,40 +113,21 @@ Causal Inference: What If is a textbook aimed at health and social scientists fo
 
 ---
 
-### 5. Causation, Prediction, and Search: Second Edition
-
-| Field | Value |
-|-------|-------|
-| **Title** | Causation, Prediction, and Search |
-| **Subtitle** | Second Edition |
-| **Author(s)** | Peter Spirtes, Clark Glymour, Richard Scheines |
-| **Date** | 2001 |
-| **Directory** | [2021-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour](2021-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour) |
-| **Keywords** | causal inference, Bayesian networks, causal discovery, structural equation models, latent variables, d-separation, causal indistinguishability, manipulation and intervention, regression and causation, experimental and observational studies |
-
-**Abstract**:
-
-Causation, Prediction, and Search addresses how observations can be turned into causal knowledge, and how incomplete causal knowledge can be used in planning, prediction, and control. The authors use the formalism of directed graphical models (Bayesian networks) to axiomatize the connection between causal structure and probabilistic independence. The book develops the mathematical and conceptual framework for representing causal systems, characterizing when alternative causal theories are statistically indistinguishable, and designing computationally feasible search algorithms that can recover causal structure from observational and experimental data. It covers discovery algorithms for causally sufficient and insufficient structures, prediction of manipulations and interventions, the relationship between regression and causation, and the design of empirical studies. The second edition adds a new introduction, a revised treatment of d-separation, and an extensive survey chapter reviewing advances and applications since the first edition (1993).
-
-**Explore**: [deep-dive](2021-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/deep-dive) · [en](2021-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/en) · [en_translated](2021-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/en_translated) · [images](2021-Causation_Prediction_and_Search-2nd-Peter_Spirtes-Clark_Glymour/images)
-
----
-
 ## Keyword Index
 
 - **artificial intelligence**: The Book of Why
 - **backdoor criterion**: Causal Inference in Statistics
-- **Bayesian networks**: Causality, Causation, Prediction, and Search
+- **Bayesian networks**: Causation, Prediction, and Search, Causality
 - **causal diagrams**: Causality, The Book of Why
-- **causal discovery**: Causality, Causation, Prediction, and Search
+- **causal discovery**: Causation, Prediction, and Search, Causality
 - **causal indistinguishability**: Causation, Prediction, and Search
-- **causal inference**: Causality, Causal Inference in Statistics, The Book of Why, Causal Inference, Causation, Prediction, and Search
+- **causal inference**: Causation, Prediction, and Search, Causality, Causal Inference in Statistics, The Book of Why, Causal Inference
 - **causal mediation**: Causal Inference
 - **causal revolution**: The Book of Why
 - **cause and effect**: The Book of Why
 - **confounding**: Causality, Causal Inference in Statistics, The Book of Why, Causal Inference
 - **counterfactuals**: Causality, Causal Inference in Statistics, The Book of Why, Causal Inference
-- **d-separation**: Causal Inference in Statistics, Causation, Prediction, and Search
+- **d-separation**: Causation, Prediction, and Search, Causal Inference in Statistics
 - **do-calculus**: Causality, The Book of Why
 - **experimental and observational studies**: Causation, Prediction, and Search
 - **front-door criterion**: Causal Inference in Statistics
@@ -148,5 +148,5 @@ Causation, Prediction, and Search addresses how observations can be turned into 
 - **regression and causation**: Causation, Prediction, and Search
 - **Simpson's paradox**: Causality
 - **structural causal models**: Causal Inference in Statistics
-- **structural equation models**: Causality, Causation, Prediction, and Search
+- **structural equation models**: Causation, Prediction, and Search, Causality
 - **target trial emulation**: Causal Inference

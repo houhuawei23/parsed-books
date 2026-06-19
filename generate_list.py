@@ -92,7 +92,11 @@ def anchor(text: str) -> str:
 
 
 def build_index(book_dirs):
-    """Build index entries from a list of (book_dir, meta_file) tuples."""
+    """Build index entries from a list of (book_dir, meta_file) tuples.
+
+    Entries are sorted by publication year (ascending), then by title.
+    Books with missing or unparseable dates are placed at the end.
+    """
     entries = []
     keyword_index = defaultdict(list)
 
@@ -120,6 +124,15 @@ def build_index(book_dirs):
             "lang": lang,
         })
 
+    def sort_key(entry):
+        year_str = entry["date"]
+        try:
+            year = int(year_str)
+        except (ValueError, TypeError):
+            year = 9999
+        return (year, entry["title"].lower())
+
+    entries.sort(key=sort_key)
     return entries, keyword_index
 
 
