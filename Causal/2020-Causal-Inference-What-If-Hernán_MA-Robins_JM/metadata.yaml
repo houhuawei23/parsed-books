@@ -1,0 +1,32 @@
+title: "Causal Inference"
+subtitle: "What If"
+author:
+  - Miguel A. Hernán
+  - James M. Robins
+date: 2020-01-01
+keywords:
+  - causal inference
+  - counterfactuals
+  - randomized experiments
+  - observational studies
+  - confounding
+  - inverse probability weighting
+  - g-formula
+  - marginal structural models
+  - target trial emulation
+  - causal mediation
+abstract: |
+  Causal Inference: What If is a textbook aimed at health and social
+  scientists for making explicit, assumption-driven causal inferences from
+  data. It emphasizes articulating the causal question and separating the
+  roles of data and assumptions. The book is organized in three parts of
+  increasing difficulty: (I) causal inference without models, covering causal
+  effects, randomized and observational studies, effect modification,
+  interaction, causal diagrams, confounding, selection bias, measurement
+  bias, and random variability; (II) causal inference with models, including
+  IP weighting, marginal structural models, standardization and the g-formula,
+  G-estimation, propensity scores, instrumental variables, survival analysis,
+  and machine-learning-based variable selection; and (III) causal inference
+  for time-varying treatments, covering treatment strategies,
+  treatment-confounder feedback, g-methods for longitudinal data, target
+  trial emulation, and causal mediation.

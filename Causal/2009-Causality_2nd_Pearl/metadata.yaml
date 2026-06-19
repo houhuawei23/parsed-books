@@ -1,0 +1,28 @@
+title: "Causality"
+subtitle: "Models, Reasoning, and Inference"
+author:
+  - Judea Pearl
+date: 2009-01-01
+keywords:
+  - causal inference
+  - causal diagrams
+  - Bayesian networks
+  - do-calculus
+  - counterfactuals
+  - structural equation models
+  - confounding
+  - Simpson's paradox
+  - causal discovery
+  - intervention and identification
+  - probability of causation
+abstract: |
+  This book provides a comprehensive exposition of modern causal analysis,
+  showing how causality has developed from an intuitive concept into a
+  mathematical theory with applications in statistics, artificial intelligence,
+  economics, philosophy, cognitive science, and the health and social sciences.
+  Judea Pearl presents a unified theory of causality that integrates
+  probabilistic, manipulative, counterfactual, and structural approaches.
+  The book covers probability and graph fundamentals, causal discovery from
+  data, causal diagrams, the do-calculus, confounding, structural equation
+  models, counterfactual logic, imperfect experiments, and the analysis of
+  actual and single-event causation.

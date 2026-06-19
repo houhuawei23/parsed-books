@@ -1,0 +1,12 @@
+# metadata.yaml
+title: "My Document"
+subtitle: "An Example"
+author:
+  - Alice Smith
+  - Bob Jones
+date: 2024-06-01
+keywords: [pandoc, metadata, example]
+abstract: |
+  This is a multi-line abstract
+  It supports Markdown formatting
+lang: "zh-CN"

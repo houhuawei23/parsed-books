@@ -1,0 +1,31 @@
+title: "Causal Inference in Statistics"
+subtitle: "A Primer"
+author:
+  - Judea Pearl
+  - Madelyn Glymour
+  - Nicholas P. Jewell
+date: 2016-01-01
+keywords:
+  - causal inference
+  - structural causal models
+  - graphical models
+  - d-separation
+  - interventions
+  - backdoor criterion
+  - front-door criterion
+  - inverse probability weighting
+  - mediation
+  - counterfactuals
+  - confounding
+abstract: |
+  A concise introductory primer on causal inference aimed at statistics
+  students and educators. It begins with preliminaries in probability,
+  statistics, and graphs, then introduces structural causal models.
+  The book explains how causal assumptions are encoded in directed graphs
+  and tested against data via chains, forks, colliders, and d-separation;
+  covers the effects of interventions, including the adjustment formula,
+  backdoor and front-door criteria, inverse probability weighting,
+  mediation, and causal inference in linear systems; and advances to
+  counterfactuals, their structural interpretation, probabilities,
+  graphical representation, and practical applications such as attribution,
+  hiring discrimination, and personal decision making.

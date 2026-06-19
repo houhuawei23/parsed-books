@@ -1,0 +1,30 @@
+title: "The Book of Why"
+subtitle: "The New Science of Cause and Effect"
+author:
+  - Judea Pearl
+  - Dana Mackenzie
+date: 2018-01-01
+keywords:
+  - causal inference
+  - cause and effect
+  - causal revolution
+  - causal diagrams
+  - do-calculus
+  - counterfactuals
+  - confounding
+  - mediation analysis
+  - intervention
+  - artificial intelligence
+abstract: |
+  The Book of Why is a popular-science introduction to the "Causal Revolution"
+  led by computer scientist Judea Pearl and science writer Dana Mackenzie.
+  It explains how causality has been transformed from a philosophical mystery
+  into a rigorous mathematical science, tracing the history of causal
+  inference from early statistical taboos against discussing causation
+  through path analysis, Bayesian reasoning, and causal diagrams to modern
+  tools such as the do-calculus, confounding adjustment, and counterfactual
+  reasoning. Organized around the "Ladder of Causation" (observation,
+  intervention, and counterfactuals), the chapters cover confounding and
+  deconfounding, the smoking-and-cancer debate, statistical paradoxes,
+  mediation analysis, and the implications of causal reasoning for big data
+  and artificial intelligence.

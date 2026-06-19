@@ -1,0 +1,34 @@
+title: "Causation, Prediction, and Search"
+subtitle: "Second Edition"
+author:
+  - Peter Spirtes
+  - Clark Glymour
+  - Richard Scheines
+date: 2001-01-01
+keywords:
+  - causal inference
+  - Bayesian networks
+  - causal discovery
+  - structural equation models
+  - latent variables
+  - d-separation
+  - causal indistinguishability
+  - manipulation and intervention
+  - regression and causation
+  - experimental and observational studies
+abstract: |
+  Causation, Prediction, and Search addresses how observations can be turned
+  into causal knowledge, and how incomplete causal knowledge can be used in
+  planning, prediction, and control. The authors use the formalism of directed
+  graphical models (Bayesian networks) to axiomatize the connection between
+  causal structure and probabilistic independence. The book develops the
+  mathematical and conceptual framework for representing causal systems,
+  characterizing when alternative causal theories are statistically
+  indistinguishable, and designing computationally feasible search
+  algorithms that can recover causal structure from observational and
+  experimental data. It covers discovery algorithms for causally sufficient
+  and insufficient structures, prediction of manipulations and interventions,
+  the relationship between regression and causation, and the design of
+  empirical studies. The second edition adds a new introduction, a revised
+  treatment of d-separation, and an extensive survey chapter reviewing advances
+  and applications since the first edition (1993).
