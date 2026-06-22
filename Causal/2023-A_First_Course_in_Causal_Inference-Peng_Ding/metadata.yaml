@@ -1,0 +1,24 @@
+title: "A First Course in Causal Inference"
+author:
+  - Peng Ding
+date: 2023-05-31
+keywords:
+  - causal inference
+  - statistics
+  - potential outcomes
+  - randomized experiments
+  - Fisher randomization test
+  - Neymanian inference
+  - propensity score
+  - observational studies
+  - instrumental variables
+  - mediation analysis
+abstract: |
+  Lecture notes developed from the "Causal Inference" course at the University
+  of California, Berkeley. The book starts with correlation, association, and
+  the Yule-Simpson paradox, then develops the potential-outcomes framework and
+  applies it to randomized experiments, observational studies, and instrumental
+  variables. It covers Fisherian and Neymanian inference, stratification,
+  matching, regression adjustment, sensitivity analysis, principal
+  stratification, mediation, and time-varying treatments, with appendices on
+  probability, regression, and simple random sampling.

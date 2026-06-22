@@ -1,0 +1,21 @@
+title: "Advances in Algorithmic Recourse"
+subtitle: "Ensuring Causal Consistency, Fairness, and Robustness"
+author:
+  - Amir-Hossein Karimi
+date: 2023-11-18
+keywords:
+  - algorithmic recourse
+  - counterfactual explanations
+  - causal inference
+  - fairness
+  - robustness
+  - structural causal models
+  - consequential recommendations
+  - machine learning
+abstract: |
+  A doctoral dissertation investigating how to provide individuals with
+  actionable recommendations to reverse unfavorable algorithmic decisions. It
+  reviews model-agnostic counterfactual explanations and develops methods for
+  causal algorithmic recourse that respect the underlying data-generating
+  process, considers fairness constraints across subgroups, and ensures
+  robustness against uncertainty in the recourse process.

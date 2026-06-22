@@ -1,0 +1,219 @@
+Here is the converted markdown list with page numbers removed:
+
+- **Part I: Introduction**
+
+  - **[Chapter 1 — Overview of the Book](./en/01_Chapter_1_Overview_of_the_Book.md)**
+    - *Zhixuan Chu and Sheng Li*
+
+  - **[Chapter 2 — Causal Inference Preliminary](./en/02_Chapter_2_Causal_Inference_Preliminary.md)**
+    - *Liuyi Yao, Zhixuan Chu, Yaliang Li, Jing Gao, Aidong Zhang, and Sheng Li*
+    - 2.1 Introduction
+    - 2.2 Basics of Causal Inference
+      - 2.2.1 Definitions
+      - 2.2.2 An Illustrative Example
+      - 2.2.3 Assumptions
+      - 2.2.4 Confounders and General Solutions
+    - 2.3 Summary
+
+- **Part II: Machine Learning and Causal Effect Estimation**
+
+  - **[Chapter 3 — Causal Effect Estimation: Basic Methodologies](./en/03_Chapter_3_Causal_Effect_Estimation__Basic_Methodologies.md)**
+    - *Liuyi Yao, Zhixuan Chu, Yaliang Li, Jing Gao, Aidong Zhang, and Sheng Li*
+    - 3.1 Introduction
+    - 3.2 Causal Inference Methods Relying on Three Assumptions
+      - 3.2.1 Re-weighting Methods
+      - 3.2.2 Stratification Methods
+      - 3.2.3 Matching Methods
+      - 3.2.4 Tree-Based Methods
+      - 3.2.5 Representation Learning Methods
+      - 3.2.6 Multi-task Learning Methods
+      - 3.2.7 Meta-Learning Methods
+    - 3.3 Methods Relaxing Three Assumptions
+      - 3.3.1 Relaxing Stable Unit Treatment Value Assumption (SUTVA)
+      - 3.3.2 Relaxing Unconfoundedness Assumption
+      - 3.3.3 Relaxing Positivity Assumption
+    - 3.4 Summary
+
+  - **[Chapter 4 — Causal Inference on Graphs](./en/04_Chapter_4_Causal_Inference_on_Graphs.md)**
+    - *Jing Ma, Ruocheng Guo, and Jundong Li*
+    - 4.1 Overview of Causal Inference on Graphs
+    - 4.2 Causal Effect Estimation on Static Graphs
+      - 4.2.1 Problem Definition
+      - 4.2.2 Proposed Method
+      - 4.2.3 Experimental Evaluation
+    - 4.3 Causal Effect Estimation on Dynamic Graphs
+      - 4.3.1 Problem Definition
+      - 4.3.2 Proposed Method
+      - 4.3.3 Experimental Evaluation
+    - 4.4 Causal Effect Estimation on Hypergraphs
+      - 4.4.1 Problem Definition
+      - 4.4.2 Proposed Method
+      - 4.4.3 Experimental Evaluation
+    - 4.5 Other Related Work
+    - 4.6 Summary and Future Directions
+
+  - **[Chapter 5 — Causal Effect Estimation: Recent Progress, Challenges, and Opportunities](./en/05_Chapter_5_Causal_Effect_Estimation__Recent_Progress,_Challenges,_and_Opportunities.md)**
+    - *Zhixuan Chu and Sheng Li*
+    - 5.1 Introduction
+    - 5.2 Treatment
+      - 5.2.1 Binary Treatments
+      - 5.2.2 Multiple Treatments
+      - 5.2.3 Continuous Treatments
+      - 5.2.4 Sequential Treatments
+      - 5.2.5 Structured Treatments
+    - 5.3 Covariate
+      - 5.3.1 Feature Selection
+      - 5.3.2 Feature Representation Disentanglement
+      - 5.3.3 Hidden Confounders
+      - 5.3.4 Text Covariates
+    - 5.4 Outcome
+    - 5.5 Future Directions
+    - 5.6 Summary
+
+- **Part III: Causal Inference and Trustworthy Machine Learning**
+
+  - **[Chapter 6 — Fair Machine Learning Through the Lens of Causality](./en/06_Chapter_6_Fair_Machine_Learning_Through_the_Lens_of_Causality.md)**
+    - *Yongkai Wu, Lu Zhang, and Xintao Wu*
+    - 6.1 Introduction
+    - 6.2 Overview of Fairness and Causal Inference
+      - 6.2.1 Statistical Fairness Notions and Metrics
+      - 6.2.2 Structural Causal Model and Causal Inference
+      - 6.2.3 Identification of Causal Quantities
+      - 6.2.4 Causal Effects
+    - 6.3 Path-Specific Fairness
+      - 6.3.1 Modeling Direct/Indirect Discrimination as Path-Specific Effects
+      - 6.3.2 Removing Direct/Indirect Discrimination from Data
+      - 6.3.3 Dealing with Unidentifiable Indirect Discrimination
+      - 6.3.4 Evaluation
+    - 6.4 Counterfactual Fairness
+      - 6.4.1 Quantifying and Bounding Counterfactual Fairness
+      - 6.4.2 Building Counterfactually Fair Classifier
+      - 6.4.3 Evaluation
+    - 6.5 Path-Specific Counterfactual Fairness
+      - 6.5.1 Defining Path-Specific Counterfactual Fairness
+      - 6.5.2 Measuring and Bounding Path-Specific Counterfactual Fairness
+      - 6.5.3 Evaluation
+    - 6.6 Related Work
+      - 6.6.1 Modeling Fairness with Different Causal Frameworks
+      - 6.6.2 Causal Fairness in Various Machine Learning Tasks
+    - 6.7 Future Directions
+      - 6.7.1 Relaxing Assumptions in Causal Fairness
+      - 6.7.2 Causal Fairness in Sequential Decision-Making
+      - 6.7.3 Causal Fairness in Non-IID Networked Data
+    - 6.8 Summary
+
+  - **[Chapter 7 — Causal Explainable AI](./en/07_Chapter_7_Causal_Explainable_AI.md)**
+    - *Shuyuan Xu, Yingqiang Ge, and Yongfeng Zhang*
+    - 7.1 Explainable AI
+    - 7.2 Causal Explanations
+      - 7.2.1 Correlation vs. Causality
+      - 7.2.2 Causal Explainable Methods
+    - 7.3 Causal Explainable Recommender Systems
+      - 7.3.1 Causal Discovery
+      - 7.3.2 Counterfactual
+    - 7.4 Causal Explainable Natural Language Processing
+    - 7.5 Causal Explainable Computer Vision
+    - 7.6 Causal Explainable Graph Neural Networks
+    - 7.7 Causal Explainable Fairness
+    - 7.8 Summary
+
+  - **[Chapter 8 — Causal Domain Generalization](./en/08_Chapter_8_Causal_Domain_Generalization.md)**
+    - *Paras Sheth and Huan Liu*
+    - 8.1 Introduction
+    - 8.2 Domain Generalization Definition and Challenges
+      - 8.2.1 Definition
+      - 8.2.2 Challenges and Causal Solution
+    - 8.3 Causal Data Augmentations for Domain Generalization
+      - 8.3.1 Counterfactual Feature-Based Data Augmentation
+      - 8.3.2 Gradient-Based Data Augmentation
+    - 8.4 Causal Representations for Domain Generalization
+      - 8.4.1 Disentanglement Assuming No Causal Interactions Among the Latent Factors
+      - 8.4.2 Disentanglement Assuming Causal Interactions Among the Latent Factors
+    - 8.5 Causal Mechanisms for Domain Generalization
+      - 8.5.1 IRM and Its Extensions
+      - 8.5.2 Utilizing Auxiliary Functions to Model Conditional Distributions
+      - 8.5.3 Graphical Criterion-Based Methods
+      - 8.5.4 Kernel-Based Optimization Methods
+    - 8.6 Causal Domain Generalization in Graphs
+    - 8.7 Causal Domain Generalization in Natural Language Processing
+    - 8.8 Summary
+
+- **Part IV: Applications of Causal Inference and Machine Learning**
+
+  - **[Chapter 9 — Causal Inference and Natural Language Processing](./en/09_Chapter_9_Causal_Inference_and_Natural_Language_Processing.md)**
+    - *Wenqing Chen and Zhixuan Chu*
+    - 9.1 Causal Inference with Textual Data
+    - 9.2 Spurious Correlations in NLP
+    - 9.3 Causality-Driven Models for NLP
+      - 9.3.1 Preliminaries
+      - 9.3.2 Intervention-Level Debiasing
+      - 9.3.3 Counterfactual-Level Debiasing
+    - 9.4 Causal Interpretations of NLP Models
+    - 9.5 Summary
+
+  - **[Chapter 10 — Causal Inference and Recommendations](./en/10_Chapter_10_Causal_Inference_and_Recommendations.md)**
+    - *Yaochen Zhu, Jing Ma, and Jundong Li*
+    - 10.1 Introduction
+    - 10.2 Recommender System Basics
+      - 10.2.1 Collaborative Filtering
+      - 10.2.2 Content-Based Recommender Systems
+      - 10.2.3 Hybrid Recommendation
+    - 10.3 Causal Recommender Systems: Preliminaries
+      - 10.3.1 Rubin's Potential Outcome Framework
+      - 10.3.2 Pearl's Structural Causal Model
+    - 10.4 Causal Recommender Systems: The State of the Art
+      - 10.4.1 Causal Debiasing for Recommendations
+      - 10.4.2 Causal Explanation in Recommendations
+      - 10.4.3 Causal Generalization of Recommendations
+    - 10.5 Evaluation Strategies for Causal RSs
+      - 10.5.1 Evaluation Strategies for Traditional RSs
+      - 10.5.2 Challenges for the Evaluation of Causal RSs
+      - 10.5.3 Evaluation Based on Simulated Datasets
+      - 10.5.4 Evaluation Based on Real-world Datasets
+    - 10.6 Future Directions
+    - 10.7 Summary
+
+  - **[Chapter 11 — Causality Encourages the Identifiability of Instance-Dependent Label Noise](./en/11_Chapter_11_Causality_Encourages_the_Identifiability_of_Instance-Dependent_Label_Noise.md)**
+    - *Yu Yao, Tongliang Liu, Mingming Gong, Bo Han, Gang Niu, and Kun Zhang*
+    - 11.1 Introduction
+    - 11.2 Noisy Labels and Causality
+      - 11.2.1 The Transition Relationship
+      - 11.2.2 Structural Causal Models
+    - 11.3 Causality Captured Instance-Dependent Label-Noise Learning
+      - 11.3.1 Practical implementation
+    - 11.4 Experiments
+      - 11.4.1 Experimental Setup
+      - 11.4.2 Classification Accuracy Evaluation
+    - 11.5 Summary
+
+  - **[Chapter 12 — Causal Interventional Time Series Forecasting on Multi-horizon and Multi-series Data](./en/12_Chapter_12_Causal_Interventional_Time_Series_Forecasting_on_Multi-horizon_and_Multi-series_Data.md)**
+    - *Zhixuan Chu, Ruopeng Li, and Sheng Li*
+    - 12.1 Introduction
+    - 12.2 Preliminary
+      - 12.2.1 Time Series Forecasting
+      - 12.2.2 Attention Mechanism
+      - 12.2.3 Causal Graphical Models
+    - 12.3 Our Proposed Framework
+      - 12.3.1 Problem Formulation
+      - 12.3.2 Intuitive Understanding of Causal Triple Attention
+      - 12.3.3 Causality Analysis
+      - 12.3.4 Representation Model
+      - 12.3.5 Prediction Model
+    - 12.4 Benchmark Experiments
+      - 12.4.1 Datasets
+      - 12.4.2 Baseline Methods
+      - 12.4.3 Quantile Outputs
+      - 12.4.4 Performance
+    - 12.5 Real Data Experiments
+    - 12.6 Summary
+
+  - **[Chapter 13 — Continual Causal Effect Estimation](./en/13_Chapter_13_Continual_Causal_Effect_Estimation.md)**
+    - *Zhixuan Chu, Stephen L. Rathbun, and Sheng Li*
+    - 13.1 Introduction
+    - 13.2 Related Work
+    - 13.3 Problem Definition
+    - 13.4 Research Challenges
+    - 13.5 Potential Solution
+      - 13.5.1 Model Architecture
+      - 13.5.2 Overview of CERL
+    - 13.6 Summary

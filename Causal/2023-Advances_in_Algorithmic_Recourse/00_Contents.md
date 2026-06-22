@@ -1,0 +1,66 @@
+- [Introduction](./en/01_Introduction.md)
+  - Introduction
+  - Background
+  - Formulation
+  - Solution
+  - Thesis Outline
+- [Model-Agnostic Counterfactual Explanations](./en/02_Model-Agnostic_Counterfactual_Explanations.md)
+  - Introduction
+  - First-order Predicate Logic
+  - Counterfactual Spaces for Predictive Models
+  - Finding the Nearest Counterfactual
+  - Experiments
+  - Conclusions
+- [Scaling Guarantees for Counterfactual Explanations](./en/03_Scaling_Guarantees_for_Counterfactual_Explanations.md)
+  - Introduction
+  - Background
+  - CFE Generation
+  - Distance Functions and Qualitative Features
+  - Experiments
+  - Conclusion and Future Work
+- [Causal Algorithmic Recourse](./en/04_Causal_Algorithmic_Recourse.md)
+  - Introduction
+  - Preliminaries
+  - Causal Recourse Formulation
+- [Fair Causal Algorithmic Recourse](./en/05_Fair_Causal_Algorithmic_Recourse.md)
+  - Introduction
+  - Preliminaries & Background
+  - Fair Causal Recourse
+  - Experiments
+  - On Societal Interventions
+  - Discussion
+- [Robust Causal Algorithmic Recourse](./en/06_Robust_Causal_Algorithmic_Recourse.md)
+  - Introduction
+  - Background and related work
+  - Counterfactual uncertainty sets
+  - The adversarially robust recourse problem
+  - Generating adversarially robust recourse
+  - Actionability regularization
+  - Experimental results
+  - Conclusion
+- [Summary and Prospects](./en/07_Summary_and_Prospects.md)
+  - Prospects
+  - Conclusions
+- [Appendix Mace](./en/08_Appendix_Mace.md)
+  - Background on programming language and program verification
+  - Experiment Details
+  - Additional Results
+- [Appendix Scaling Mace](./en/09_Appendix_Scaling_Mace.md)
+  - Illustrations for the Bounds Computation
+  - Additional Results
+- [Appendix Causal Recourse](./en/10_Appendix_Causal_Recourse.md)
+  - Proofs
+  - Additional Results
+  - (Non-)identifability of SCMs under Different Assumptions
+  - Further Details on cvae Training
+  - Experimental Details, Hyperparameter Choices, and Specification of SCMs
+  - Derivation of a Monte-Carlo Estimator for the Gradient of the Variance
+- [Appendix Fair Causal Recourse](./en/11_Appendix_Fair_Causal_Recourse.md)
+  - Experimental Details
+  - Additional Results
+- [Appendix Robust Causal Recourse](./en/12_Appendix_Robust_Causal_Recourse.md)
+  - Uncertainties in the recourse process
+  - Sufficient conditions for the existence of robust recourse
+  - Proofs
+  - Datasets considered
+- [Bibliography](./en/13_Bibliography.md)

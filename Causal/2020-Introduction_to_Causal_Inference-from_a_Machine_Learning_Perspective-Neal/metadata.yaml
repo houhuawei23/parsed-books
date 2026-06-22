@@ -1,0 +1,25 @@
+title: "Introduction to Causal Inference"
+subtitle: "From a Machine Learning Perspective"
+author:
+  - Brady Neal
+date: 2020-12-17
+keywords:
+  - causal inference
+  - machine learning
+  - potential outcomes
+  - causal graphs
+  - structural causal models
+  - randomized experiments
+  - instrumental variables
+  - difference-in-differences
+  - causal discovery
+abstract: |
+  An introductory course-style text on causal inference written from a machine
+  learning perspective. It covers motivation and foundational concepts such as
+  Simpson's paradox, potential outcomes, causal graphs, and structural causal
+  models; discusses identification and estimation strategies including
+  randomized experiments, backdoor and front-door adjustments, propensity
+  scores, doubly robust methods, and instrumental variables; and surveys
+  advanced topics such as unobserved confounding, sensitivity analysis,
+  difference-in-differences, causal discovery, transfer learning, and
+  counterfactual mediation.

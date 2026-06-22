@@ -1,0 +1,68 @@
+# 目录（Contents）
+
+- [**引言（Introduction）**](./en_trans/01_Introduction_trans.md)
+  - 引言
+  - 背景
+  - 问题形式化
+  - 解决方案
+  - 论文大纲
+- [**模型无关的反事实解释（Model-Agnostic Counterfactual Explanations）**](./en_trans/02_Model-Agnostic_Counterfactual_Explanations_trans.md)
+  - 引言
+  - 一阶谓词逻辑（First-order Predicate Logic）
+  - 预测模型的反事实空间（Counterfactual Spaces for Predictive Models）
+  - 寻找最近反事实（Finding the Nearest Counterfactual）
+  - 实验
+  - 结论
+- [**反事实解释的可扩展性保证（Scaling Guarantees for Counterfactual Explanations）**](./en_trans/03_Scaling_Guarantees_for_Counterfactual_Explanations_trans.md)
+  - 引言
+  - 背景
+  - 反事实解释生成（CFE Generation）
+  - 距离函数与定性特征（Distance Functions and Qualitative Features）
+  - 实验
+  - 结论与未来工作
+- [**因果算法补救（Causal Algorithmic Recourse）**](./en_trans/04_Causal_Algorithmic_Recourse_trans.md)
+  - 引言
+  - 预备知识（Preliminaries）
+  - 因果补救形式化（Causal Recourse Formulation）
+- [**公平因果算法补救（Fair Causal Algorithmic Recourse）**](./en_trans/05_Fair_Causal_Algorithmic_Recourse_trans.md)
+  - 引言
+  - 预备知识与背景（Preliminaries & Background）
+  - 公平因果补救（Fair Causal Recourse）
+  - 实验
+  - 关于社会干预（On Societal Interventions）
+  - 讨论
+- [**鲁棒因果算法补救（Robust Causal Algorithmic Recourse）**](./en_trans/06_Robust_Causal_Algorithmic_Recourse_trans.md)
+  - 引言
+  - 背景与相关工作
+  - 反事实不确定性集（Counterfactual uncertainty sets）
+  - 对抗鲁棒补救问题（The adversarially robust recourse problem）
+  - 生成对抗鲁棒补救（Generating adversarially robust recourse）
+  - 可行动性正则化（Actionability regularization）
+  - 实验结果
+  - 结论
+- [**总结与展望（Summary and Prospects）**](./en_trans/07_Summary_and_Prospects_trans.md)
+  - 展望
+  - 结论
+- [**附录 Mace（Appendix Mace）**](./en_trans/08_Appendix_Mace_trans.md)
+  - 编程语言与程序验证背景
+  - 实验细节
+  - 附加结果
+- [**附录 扩展 Mace（Appendix Scaling Mace）**](./en_trans/09_Appendix_Scaling_Mace_trans.md)
+  - 边界计算示意图
+  - 附加结果
+- [**附录 因果补救（Appendix Causal Recourse）**](./en_trans/10_Appendix_Causal_Recourse_trans.md)
+  - 证明
+  - 附加结果
+  - 不同假设下结构因果模型（SCMs）的（非）可识别性
+  - 关于条件变分自编码器（cvae）训练的进一步细节
+  - 实验细节、超参数选择与结构因果模型（SCMs）说明
+  - 方差梯度的蒙特卡洛估计器推导
+- [**附录 公平因果补救（Appendix Fair Causal Recourse）**](./en_trans/11_Appendix_Fair_Causal_Recourse_trans.md)
+  - 实验细节
+  - 附加结果
+- [**附录 鲁棒因果补救（Appendix Robust Causal Recourse）**](./en_trans/12_Appendix_Robust_Causal_Recourse_trans.md)
+  - 补救过程中的不确定性
+  - 鲁棒补救存在的充分条件
+  - 证明
+  - 所考虑的数据集
+- [**参考文献（Bibliography）**](./en_trans/13_Bibliography_trans.md)

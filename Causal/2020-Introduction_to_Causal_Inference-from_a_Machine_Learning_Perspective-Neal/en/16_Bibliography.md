@@ -1,0 +1,99 @@
+# Bibliography
+
+Here are the references in citation order.
+
+[1] Tyler Vigen. Spurious correlations. https://www.tylervigen.com/spurious- correlations. 2015 (cited on page 3).  
+[2] Jerzy Splawa-Neyman. ‘On the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9.’ Trans. by D. M. Dabrowska and T. P. Speed. In: Statistical Science 5.4 (1923 [1990]), pp. 465–472 (cited on page 6).  
+[3] Donald B. Rubin. ‘Estimating causal effects of treatments in randomized and nonrandomized studies.’ In: Journal of educational Psychology 66.5 (1974), p. 688 (cited on pages $6 , 7 ) .$ .  
+[4] Jasjeet S. Sekhon. ‘The Neyman-Rubin Model of Causal Inference and Estimation via Matching Methods’. In: Oxford handbook of political methodology (2008), pp. 271– (cited on page 6).  
+[5] Paul W. Holland. ‘Statistics and Causal Inference’. In: Journal of the American Statistical Association 81.396 (1986), pp. 945–960. doi: 10.1080/01621459.1986.10478354 (cited on pages 8, 42).  
+[6] Alexander D’Amour, Peng Ding, Avi Feller, Lihua Lei, and Jasjeet Sekhon. Overlap in Observational Studies with High-Dimensional Covariates. 2017 (cited on page 13).  
+[7] Miguel A Hernán and James M Robins. Causal Inference: What If. Boca Raton: Chapman & Hall/CRC, 2020 (cited on pages 14, 27, 90).  
+[8] Miguel Angel Luque-Fernandez, Michael Schomaker, Daniel Redondo-Sanchez, Maria Jose Sanchez Perez, Anand Vaidya, and Mireille E Schnitzer. ‘Educational Note: Paradoxical collider effect in the analysis of non-communicable disease epidemiological data: a reproducible illustration and web application’. In: International Journal of Epidemiology 48.2 (Dec. 2018), pp. 640–653. doi: 10.1093/ije/ dyy275 (cited on pages 16, 45).  
+[9] Salim S. Virani et al. ‘Heart Disease and Stroke Statistics—2020 Update: A Report From the American Heart Association’. In: Circulation (Mar. 2020), pp. 640–653. doi: 10.1161/cir.0000000000000757 (cited on page 16).  
+[10] Trevor Hastie, Robert Tibshirani, and Jerome Friedman. The Elements of Statistical Learning. Springer Series in Statistics. New York, NY, USA: Springer New York Inc., 2001 (cited on pages 17, 63).  
+[11] Dominik Janzing, David Balduzzi, Moritz Grosse-Wentrup, and Bernhard Schölkopf. ‘Quantifying causal influences’. In: Ann. Statist. 41.5 (Oct. 2013), pp. 2324–2358. doi: 10.1214/13-AOS1145 (cited on page 18).  
+[12] Stephen L. Morgan and Christopher Winship. Counterfactuals and Causal Inference: Methods and Principles for Social Research. 2nd ed. Analytical Methods for Social Research. Cambridge University Press, 2014 (cited on pages 18, 78).  
+[13] Daphne Koller and Nir Friedman. Probabilistic Graphical Models: Principles and Techniques. Adaptive Computation and Machine Learning. The MIT Press, 2009 (cited on pages 21, 29, 47).  
+[14] J. Peters, D. Janzing, and B. Schölkopf. Elements of Causal Inference: Foundations and Learning Algorithms. Cambridge, MA, USA: MIT Press, 2017 (cited on pages 21, 105, 107, 109).  
+[15] Judea Pearl, Madelyn Glymour, and Nicholas P Jewell. Causal inference in statistics: A primer. John Wiley & Sons, 2016 (cited on page 25).  
+[16] Judea Pearl. Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. San Francisco, CA, USA: Morgan Kaufmann Publishers Inc., 1988 (cited on page 29).  
+[17] Judea Pearl. ‘Causal inference in statistics: An overview’. In: Statist. Surv. 3 (2009), pp. 96–146. doi: 10.1214/09-SS057 (cited on page 42).  
+[18] Judea Pearl. Causality. Cambridge University Press, 2009 (cited on pages 44, 47, 48, 59, 87, 94).  
+[19] Felix Elwert and Christopher Winship. ‘Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable.’ In: Annual review of sociology 40 (2014), pp. 31–53 (cited on page 44).  
+[20] David Galles and Judea Pearl. ‘An Axiomatic Characterization of Causal Counterfactuals’. In: Foundations of Science 3.1 (1998), pp. 151–182. doi: 10.1023/A:1009602825894 (cited on page 47).  
+[21] Joseph Y. Halpern. ‘Axiomatizing Causal Reasoning’. In: Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence. UAI’98. Madison, Wisconsin: Morgan Kaufmann Publishers Inc., 1998, pp. 202–210 (cited on page 47).  
+[22] Elizabeth L. Ogburn and Tyler J. VanderWeele. ‘Causal Diagrams for Interference’. In: Statist. Sci. 29.4 (Nov. 2014), pp. 559–578. doi: 10.1214/14-STS501 (cited on page 48).  
+[23] J. Pearl. ‘On the consistency rule in causal inference: axiom, definition, assumption, or theorem?’ In: Epidemiology 21.6 (Nov. 2010), pp. 872–875 (cited on page 48).  
+[24] Judea Pearl. ‘Causal diagrams for empirical research’. In: Biometrika 82.4 (Dec. 1995), pp. 669–688. doi: 10.1093/biomet/82.4.669 (cited on pages 55, 56).  
+[25] Ilya Shpitser and Judea Pearl. ‘Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models’. In: Proceedings of the 21st National Conference on Artificial Intelligence - Volume 2. AAAI’06. Boston, Massachusetts: AAAI Press, 2006, pp. 1219–1226 (cited on pages 57, 60).  
+[26] Yimin Huang and Marco Valtorta. ‘Pearl’s Calculus of Intervention is Complete’. In: Proceedings of the Twenty-Second Conference on Uncertainty in Artificial Intelligence. UAI’06. Cambridge, MA, USA: AUAI Press, 2006, pp. 217–224 (cited on page 57).  
+[27] Jin Tian and Judea Pearl. ‘A General Identification Condition for Causal Effects’. In: Eighteenth National Conference on Artificial Intelligence. Edmonton, Alberta, Canada: American Association for Artificial Intelligence, 2002, pp. 567–573 (cited on page 59).  
+[28] Ilya Shpitser and Judea Pearl. ‘Identification of Conditional Interventional Distributions’. In: Proceedings of the Twenty-Second Conference on Uncertainty in Artificial Intelligence. UAI’06. Cambridge, MA, USA: AUAI Press, 2006, pp. 437–444 (cited on page 60).  
+[29] F. Pedregosa et al. ‘Scikit-learn: Machine Learning in Python’. In: Journal of Machine Learning Research 12 (2011), pp. 2825–2830 (cited on pages 62, 64).  
+[30] Sören R. Künzel, Jasjeet S. Sekhon, Peter J. Bickel, and Bin Yu. ‘Metalearners for estimating heterogeneous treatment effects using machine learning’. In: Proceedings of the National Academy of Sciences 116.10 (2019), pp. 4156–4165. doi: 10.1073/pnas.1804597116 (cited on pages 64–67).  
+[31] Uri Shalit, Fredrik D. Johansson, and David Sontag. ‘Estimating individual treatment effect: generalization bounds and algorithms’. In: ed. by Doina Precup and Yee Whye Teh. Vol. 70. Proceedings of Machine Learning Research. International Convention Centre, Sydney, Australia: PMLR, June 2017, pp. 3076–3085 (cited on pages 65, 66).  
+[32] Paul R. Rosenbaum and Donald B. Rubin. ‘The central role of the propensity score in observational studies for causal effects’. In: Biometrika 70.1 (Apr. 1983), pp. 41–55. doi: 10.1093/biomet/70.1.41 (cited on page 67).  
+[33] D. G. Horvitz and D. J. Thompson. ‘A Generalization of Sampling Without Replacement from a Finite Universe’. In: Journal of the American Statistical Association 47.260 (1952), pp. 663–685. doi: 10.1080/01621459.1952.10483446 (cited on page 69).  
+[34] Jason Abrevaya, Yu-Chin Hsu, and Robert P. Lieli. ‘Estimating Conditional Average Treatment Effects’. In: Journal of Business & Economic Statistics 33.4 (2015), pp. 485–505. doi: 10.1080/07350015.2014.975555 (cited on page 70).  
+[35] Joseph D. Y. Kang and Joseph L. Schafer. ‘Demystifying Double Robustness: A Comparison of Alternative Strategies for Estimating a Population Mean from Incomplete Data’. In: Statist. Sci. 22.4 (Nov. 2007), pp. 523–539. doi: 10.1214/07-STS227 (cited on page 70).  
+[36] Paul N Zivich and Alexander Breskin. Machine learning for causal inference: on the use of cross-fit estimators. 2020 (cited on page 70).  
+[37] Vincent Dorie, Jennifer Hill, Uri Shalit, Marc Scott, and Dan Cervone. ‘Automated versus Do-It-Yourself Methods for Causal Inference: Lessons Learned from a Data Analysis Competition’. In: Statist. Sci. 34.1 (Feb. 2019), pp. 43–68. doi: 10.1214/18-STS667 (cited on page 70).  
+[38] Shaun R. Seaman and Stĳn Vansteelandt. ‘Introduction to Double Robust Methods for Incomplete Data’. In: Statist. Sci. 33.2 (May 2018), pp. 184–197. doi: 10.1214/18-STS647 (cited on page 70).  
+[39] Anastasios Tsiatis. Semiparametric theory and missing data. Springer Science & Business Media, 2007 (cited on page 70).  
+[40] James M. Robins, Andrea Rotnitzky, and Lue Ping Zhao. ‘Estimation of Regression Coefficients When Some Regressors are not Always Observed’. In: Journal of the American Statistical Association 89.427 (1994), pp. 846–866. doi: 10.1080/01621459.1994.10476818 (cited on page 70).  
+[41] Heejung Bang and James M. Robins. ‘Doubly Robust Estimation in Missing Data and Causal Inference Models’. In: Biometrics 61.4 (2005), pp. 962–973. doi: 10.1111/j.1541-0420.2005.00377.x (cited on page 70).  
+[42] Mark J Van Der Laan and Daniel Rubin. ‘Targeted maximum likelihood learning’. In: The international journal of biostatistics 2.1 (2006) (cited on page 70).  
+[43] Megan S. Schuler and Sherri Rose. ‘Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies’. In: American Journal of Epidemiology 185.1 (Jan. 2017), pp. 65–73. doi: 10.1093/ aje/kww165 (cited on page 70).  
+[44] Mark J Van der Laan and Sherri Rose. Targeted learning: causal inference for observational and experimental data. Springer Science & Business Media, 2011 (cited on page 70).  
+[45] Elizabeth A. Stuart. ‘Matching Methods for Causal Inference: A Review and a Look Forward’. In: Statist. Sci. 25.1 (Feb. 2010), pp. 1–21. doi: 10.1214/09-STS313 (cited on page 71).  
+[46] Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, and James Robins. ‘Double/debiased machine learning for treatment and structural parameters’. In: The Econometrics Journal 21.1 (2018), pp. C1–C68. doi: 10.1111/ectj.12097 (cited on page 71).  
+[47] Chris Felton. Chernozhukov et al. on Double / Debiased Machine Learning. https://scholar.princeton. edu/sites/default/files/bstewart/files/felton.chern\_.slides.20190318.pdf. 2018 (cited on page 71).  
+[48] Vasilis Syrgkanis. Orthogonal/Double Machine Learning. https://econml.azurewebsites.net/spec/ estimation/dml.html. Accessed: 16 September 2020. 2019 (cited on page 71).  
+[49] Dylan J. Foster and Vasilis Syrgkanis. Orthogonal Statistical Learning. 2019 (cited on page 71).  
+[50] Susan Athey and Guido Imbens. ‘Recursive partitioning for heterogeneous causal effects’. In: Proceedings of the National Academy of Sciences 113.27 (2016), pp. 7353–7360. doi: 10.1073/pnas.1510489113 (cited on page 71).  
+[51] Stefan Wager and Susan Athey. ‘Estimation and Inference of Heterogeneous Treatment Effects using Random Forests’. In: Journal of the American Statistical Association 113.523 (2018), pp. 1228–1242. doi: 10.1080/01621459.2017.1319839 (cited on page 71).  
+[52] Susan Athey, Julie Tibshirani, and Stefan Wager. ‘Generalized random forests’. In: Ann. Statist. 47.2 (Apr. 2019), pp. 1148–1178. doi: 10.1214/18-AOS1709 (cited on page 71).  
+[53] Charles F. Manski. Partial Identification of Probability Distributions: Springer Series in Statistics. English. Springer, 2003 (cited on pages 73, 82).  
+[54] Charles Manski. ‘Anatomy of the Selection Problem’. In: Journal of Human Resources 24.3 (1989), pp. 343–360 (cited on pages 73, 82).  
+[55] Charles F. Manski. ‘Nonparametric Bounds on Treatment Effects’. In: The American Economic Review 80.2 (1990), pp. 319–323 (cited on pages 73, 74, 79–82).  
+[56] Charles F. Manski. ‘Identification Problems in the Social Sciences’. In: Sociological Methodology 23 (1993), pp. 1–56 (cited on pages 73, 82).  
+[57] Charles F. Manski. ‘The selection problem’. In: Advances in Econometrics: Sixth World Congress. Ed. by Christopher A.Editor Sims. Vol. 1. Econometric Society Monographs. Cambridge University Press, 1994, pp. 143–170. doi: 10.1017/CCOL0521444594.004 (cited on pages 73, 82).  
+[58] Charles F. Manski. ‘Monotone Treatment Response’. In: Econometrica 65.6 (1997), pp. 1311–1334 (cited on pages 73, 76, 82).  
+[59] Charles F. Manski and John V. Pepper. ‘Monotone Instrumental Variables: With an Application to the Returns to Schooling’. In: Econometrica 68.4 (2000), pp. 997–1010 (cited on pages 73, 78, 82).  
+[60] Charles F. Manski. Public Policy in an Uncertain World. Harvard University Press, 2013 (cited on pages 73, 82).  
+[61] Carlos Cinelli, Daniel Kumor, Bryant Chen, Judea Pearl, and Elias Bareinboim. ‘Sensitivity Analysis of Linear Structural Causal Models’. In: ed. by Kamalika Chaudhuri and Ruslan Salakhutdinov. Vol. 97. Proceedings of Machine Learning Research. Long Beach, California, USA: PMLR, Sept. 2019, pp. 1252–1261 (cited on page 84).  
+[62] P. R. Rosenbaum and D. B. Rubin. ‘Assessing Sensitivity to an Unobserved Binary Covariate in an Observational Study with Binary Outcome’. In: Journal of the Royal Statistical Society. Series B (Methodological) 45.2 (1983), pp. 212–218 (cited on page 85).  
+[63] Guido W. Imbens. ‘Sensitivity to Exogeneity Assumptions in Program Evaluation’. In: American Economic Review 93.2 (May 2003), pp. 126–132. doi: 10.1257/000282803321946921 (cited on page 85).  
+[64] Carlos Cinelli and Chad Hazlett. ‘Making sense of sensitivity: extending omitted variable bias’. In: Journal of the Royal Statistical Society: Series B (Statistical Methodology) 82.1 (2020), pp. 39–67. doi: 10.1111/rssb.12348 (cited on page 85).  
+[65] Victor Veitch and Anisha Zaveri. Sense and Sensitivity Analysis: Simple Post-Hoc Analysis of Bias Due to Unobserved Confounding. 2020 (cited on page 85).  
+[66] W. Liu, S. J. Kuramoto, and E. A. Stuart. ‘An introduction to sensitivity analysis for unobserved confounding in nonexperimental prevention research’. In: Prev Sci 14.6 (Dec. 2013), pp. 570–580 (cited on page 85).  
+[67] Paul Rosenbaum. Observational Studies. Jan. 2002 (cited on page 85).  
+[68] Paul R Rosenbaum. Design of Observational Studies. Vol. 10. Springer, 2010 (cited on page 85).  
+[69] Paul R Rosenbaum. Observation and Experiment. Harvard University Press, 2017 (cited on page 85).  
+[70] AlexanderM. Franks, Alexander D’Amour, and Avi Feller. ‘Flexible Sensitivity Analysis for Observational Studies Without Observable Implications’. In: Journal of the American Statistical Association 0.0 (2019), pp. 1–33. doi: 10.1080/01621459.2019.1604369 (cited on page 85).  
+[71] Steve Yadlowsky, Hongseok Namkoong, Sanjay Basu, John Duchi, and Lu Tian. Bounds on the conditional and average treatment effect with unobserved confounding factors. 2020 (cited on page 85).  
+[72] T. J. Vanderweele and O. A. Arah. ‘Bias formulas for sensitivity analysis of unmeasured confounding for general outcomes, treatments, and confounders’. In: Epidemiology 22.1 (Jan. 2011), pp. 42–52 (cited on page 85).  
+[73] P. Ding and T. J. VanderWeele. ‘Sensitivity Analysis Without Assumptions’. In: Epidemiology 27.3 (May 2016), pp. 368–377 (cited on page 85).  
+[74] Abraham Wald. ‘The Fitting of Straight Lines if Both Variables are Subject to Error’. In: Ann. Math. Statist. 11.3 (Sept. 1940), pp. 284–300. doi: 10.1214/aoms/1177731868 (cited on page 88).  
+[75] Jason Hartford, Greg Lewis, Kevin Leyton-Brown, and Matt Taddy. ‘Deep IV: A Flexible Approach for Counterfactual Prediction’. In: ed. by Doina Precup and Yee Whye Teh. Vol. 70. Proceedings of Machine Learning Research. International Convention Centre, Sydney, Australia: PMLR, June 2017, pp. 1414–1423 (cited on page 94).  
+[76] Liyuan Xu, Yutian Chen, Siddarth Srinivasan, Nando de Freitas, Arnaud Doucet, and Arthur Gretton. Learning Deep Features in Instrumental Variable Regression. 2020 (cited on page 94).  
+[77] Niki Kilbertus, Matt J. Kusner, and Ricardo Silva. A Class of Algorithms for General Instrumental Variable Models. 2020 (cited on page 94).  
+[78] Thomas Verma and Judea Pearl. ‘Equivalence and Synthesis of Causal Models’. In: Proceedings of the Sixth Annual Conference on Uncertainty in Artificial Intelligence. UAI ’90. USA: Elsevier Science Inc., 1990, pp. 255–270 (cited on page 102).  
+[79] Morten Frydenberg. ‘The Chain Graph Markov Property’. In: Scandinavian Journal of Statistics 17.4 (1990), pp. 333–353 (cited on page 102).  
+[80] Peter Spirtes, Clark Glymour, and Richard Scheines. Causation, Prediction, and Search. MIT Press, Jan. 2001 (cited on pages 102, 104).  
+[81] Thomas Richardson. ‘Feedback Models: Interpretation and Discovery’. PhD thesis. 1996 (cited on page 104).  
+[82] Antti Hyttinen, Patrik O. Hoyer, Frederick Eberhardt, and Matti Järvisalo. ‘Discovering Cyclic Causal Models with Latent Variables: A General SAT-Based Procedure’. In: Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial Intelligence. UAI’13. Bellevue, WA: AUAI Press, 2013, pp. 301–310 (cited on page 104).  
+[83] Antti Hyttinen, Frederick Eberhardt, and Matti Järvisalo. ‘Constraint-Based Causal Discovery: Conflict Resolution with Answer Set Programming’. In: Proceedings of the Thirtieth Conference on Uncertainty in Artificial Intelligence. UAI’14. Quebec City, Quebec, Canada: AUAI Press, 2014, pp. 340–349 (cited on page 104).  
+[84] Rajen D. Shah and Jonas Peters. ‘The hardness of conditional independence testing and the generalised covariance measure’. In: Ann. Statist. 48.3 (June 2020), pp. 1514–1538. doi: 10.1214/19-AOS1857 (cited on page 104).  
+[85] Christopher Meek. ‘Strong Completeness and Faithfulness in Bayesian Networks’. In: Proceedings of the Eleventh Conference on Uncertainty in Artificial Intelligence. UAI’95. Montréal, Qué, Canada: Morgan Kaufmann Publishers Inc., 1995, pp. 411–418 (cited on page 104).  
+[86] Dan Geiger and Judea Pearl. ‘On the Logic of Causal Models’. In: Proceedings of the Fourth Annual Conference on Uncertainty in Artificial Intelligence. UAI ’88. NLD: North-Holland Publishing Co., 1988, pp. 3–14 (cited on page 104).  
+[87] G. Darmois. ‘Analyse générale des liaisons stochastiques: etude particulière de l’analyse factorielle linéaire’. In: Revue de l’Institut International de Statistique / Review of the International Statistical Institute 21.1/2 (1953), pp. 2–8 (cited on page 106).  
+[88] V. P. Skitovich. ‘Linear forms of independent random variables and the normal distribution law’. In: Izvestiia Akademii Nauk SSSR, Serĳa Matematiceskie 18 (1954), pp. 185–200 (cited on page 106).  
+[89] Shohei Shimizu, Patrik O. Hoyer, Aapo Hyvärinen, and Antti Kerminen. ‘A Linear Non-Gaussian Acyclic Model for Causal Discovery’. In: Journal of Machine Learning Research 7.72 (2006), pp. 2003–2030 (cited on page 107).  
+[90] Patrik Hoyer, Dominik Janzing, Joris M Mooĳ, Jonas Peters, and Bernhard Schölkopf. ‘Nonlinear causal discovery with additive noise models’. In: Advances in Neural Information Processing Systems. Ed. by D. Koller, D. Schuurmans, Y. Bengio, and L. Bottou. Vol. 21. Curran Associates, Inc., 2009, pp. 689–696 (cited on page 108).  
+[91] Jonas Peters, Joris M. Mooĳ, Dominik Janzing, and Bernhard Schölkopf. ‘Causal Discovery with Continuous Additive Noise Models’. In: Journal of Machine Learning Research 15.58 (2014), pp. 2009–2053 (cited on page 108).  
+[92] Kun Zhang and Aapo Hyvärinen. ‘On the Identifiability of the Post-Nonlinear Causal Model’. In: Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence. UAI ’09. Montreal, Quebec, Canada: AUAI Press, 2009, pp. 647–655 (cited on page 109).  
+[93] Frederick Eberhardt. ‘Introduction to the foundations of causal discovery’. In: International Journal of Data Science and Analytics 3.2 (2017), pp. 81–91. doi: 10.1007/s41060-016-0038-6 (cited on page 109).
+
+[94] Clark Glymour, Kun Zhang, and Peter Spirtes. ‘Review of Causal Discovery Methods Based on Graphical Models’. In: Frontiers in Genetics 10 (2019), p. 524. doi: 10.3389/fgene.2019.00524 (cited on page 109).

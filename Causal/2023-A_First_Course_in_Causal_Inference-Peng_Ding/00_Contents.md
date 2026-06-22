@@ -1,0 +1,338 @@
+- **Preface**
+- **Acronyms**
+- **I Introduction**
+  - **[1 Correlation, Association, and the Yule–Simpson Paradox](./en/01_Correlation,_Association,_and_the_Yule–Simpson_Paradox.md)**
+    - 1.1 Traditional view of statistics
+    - 1.2 Some commonly-used measures of association
+      - 1.2.1 Correlation and regression
+      - 1.2.2 Contingency tables
+    - 1.3 An example of the Yule–Simpson Paradox
+      - 1.3.1 Data
+      - 1.3.2 Explanation
+      - 1.3.3 Geometry of the Yule–Simpson Paradox
+    - 1.4 The Berkeley graduate school admission data
+    - 1.5 Homework Problems
+  - **[2 Potential Outcomes](./en/02_Potential_Outcomes.md)**
+    - 2.1 Experimentalists' view of causal inference
+    - 2.2 Formal notation of potential outcomes
+      - 2.2.1 Causal effects, subgroups, and the non-existence of Yule–Simpson Paradox
+      - 2.2.2 Subtlety of experimental unit
+    - 2.3 Treatment assignment mechanism
+    - 2.4 Homework Problems
+- **II Randomized experiments**
+  - **[3 The Completely Randomized Experiment and the Fisher Randomization Test](./en/03_The_Completely_Randomized_Experiment_and_the_Fisher_Randomization_Test.md)**
+    - 3.1 CRE
+    - 3.2 FRT
+    - 3.3 Canonical choices of the test statistic
+    - 3.4 A case study of the LaLonde experimental data
+    - 3.5 Some history of randomized experiments and FRT
+      - 3.5.1 James Lind's experiment
+      - 3.5.2 Lady tasting tea
+      - 3.5.3 Two Fisherian principles for experiments
+    - 3.6 Discussion
+      - 3.6.1 Other sharp null hypotheses and confidence intervals
+      - 3.6.2 Other test statistics
+      - 3.6.3 Final remarks
+    - 3.7 Homework Problems
+  - **[4 Neymanian Repeated Sampling Inference in Completely Randomized Experiments](./en/04_Neymanian_Repeated_Sampling_Inference_in_Completely_Randomized_Experiments.md)**
+    - 4.1 Finite population quantities
+    - 4.2 Neyman (1923)'s theorem
+    - 4.3 Proofs
+    - 4.4 Regression analysis of the CRE
+    - 4.5 Examples
+      - 4.5.1 Simulation
+      - 4.5.2 Heavy-tailed outcome and failure of Normal approximations
+      - 4.5.3 Application
+    - 4.6 Homework Problems
+  - **[5 Stratification and Post-Stratification in Randomized Experiments](./en/05_Stratification_and_Post-Stratification_in_Randomized_Experiments.md)**
+    - 5.1 Stratification
+    - 5.2 FRT
+      - 5.2.1 Theory
+      - 5.2.2 An application
+    - 5.3 Neymanian inference
+      - 5.3.1 Point and interval estimation
+      - 5.3.2 Numerical examples
+      - 5.3.3 Comparing the SRE and the CRE
+    - 5.4 Post-stratification in a CRE
+      - 5.4.1 Meinert et al. (1970)'s Example
+      - 5.4.2 Chong et al. (2016)'s Example
+    - 5.5 Practical questions
+    - 5.6 Homework Problems
+  - **[6 Rerandomization and Regression Adjustment](./en/06_Rerandomization_and_Regression_Adjustment.md)**
+    - 6.1 Rerandomization
+      - 6.1.1 Experimental design
+      - 6.1.2 Statistical inference
+    - 6.2 Regression adjustment
+      - 6.2.1 Covariate-adjusted FRT
+      - 6.2.2 Analysis of covariance and extensions
+        - 6.2.2.1 Some heuristics for Lin (2013)'s results
+        - 6.2.2.2 Understanding Lin (2013)'s estimator via predicting the potential outcomes
+        - 6.2.2.3 Understanding Lin (2013)'s estimator via adjusting for covariate imbalance
+      - 6.2.3 Some additional remarks on regression adjustment
+        - 6.2.3.1 Duality between ReM and regression adjustment
+        - 6.2.3.2 Equivalence of regression adjustment and post-stratification
+        - 6.2.3.3 Difference-in-difference as a special case of covariate adjustment
+      - 6.2.4 Extension to the SRE
+    - 6.3 Unification, combination, and comparison
+    - 6.4 Simulation
+    - 6.5 Final remarks
+    - 6.6 Homework Problems
+  - **[7 Matched-Pairs Experiment](./en/07_Matched-Pairs_Experiment.md)**
+    - 7.1 Design of the experiment and potential outcomes
+    - 7.2 FRT
+    - 7.3 Neymanian inference
+    - 7.4 Covariate adjustment
+      - 7.4.1 FRT
+      - 7.4.2 Regression adjustment
+    - 7.5 Examples
+      - 7.5.1 Darwin's data comparing cross-fertilizing and self-fertilizing on the height of corns
+      - 7.5.2 Children's television workshop experiment data
+    - 7.6 Comparing the MPE and CRE
+    - 7.7 Extension to the general matched experiment
+      - 7.7.1 FRT
+      - 7.7.2 Estimating the average of the within-strata effects
+      - 7.7.3 A more general causal estimand
+    - 7.8 Homework Problems
+  - **[8 Unification of the Fisherian and Neymanian Inferences in Randomized Experiments](./en/08_Unification_of_the_Fisherian_and_Neymanian_Inferences_in_Randomized_Experiments.md)**
+    - 8.1 Testing strong and weak null hypotheses in the CRE
+    - 8.2 Covariate-adjusted FRTs in the CRE
+    - 8.3 General recommendations
+    - 8.4 A case study
+    - 8.5 Homework Problems
+  - **[9 Bridging Finite and Super Population Causal Inference](./en/09_Bridging_Finite_and_Super_Population_Causal_Inference.md)**
+    - 9.1 CRE
+    - 9.2 SRE
+    - 9.3 Homework Problems
+- **III Observational studies**
+  - **[10 Observational Studies, Selection Bias, and Nonparametric Identification of Causal Effects](./en/10_Observational_Studies,_Selection_Bias,_and_Nonparametric_Identification_of_Causal_Effects.md)**
+    - 10.1 Motivating Examples
+    - 10.2 Causal effects and selection bias under the potential outcomes framework
+    - 10.3 Sufficient conditions for nonparametric identification
+      - 10.3.1 Identification
+      - 10.3.2 Plausibility of the assumption
+    - 10.4 Two simple estimation strategies and their limitations
+      - 10.4.1 Stratification or standardization based on discrete covariates
+      - 10.4.2 Outcome regression
+    - 10.5 Homework Problems
+  - **[11 The Central Role of the Propensity Score in Observational Studies for Causal Effects](./en/11_The_Central_Role_of_the_Propensity_Score_in_Observational_Studies_for_Causal_Effects.md)**
+    - 11.1 The propensity score as a dimension reduction tool
+      - 11.1.1 Theory
+      - 11.1.2 Propensity score stratification
+      - 11.1.3 Application
+    - 11.2 Propensity score weighting
+      - 11.2.1 Theory
+      - 11.2.2 Inverse propensity score weighting estimators
+      - 11.2.3 A problem of weighting and a fundamental problem of causal inference
+      - 11.2.4 Application
+    - 11.3 The propensity score as a balancing score
+      - 11.3.1 Theory
+      - 11.3.2 Covariate balance check
+    - 11.4 Homework Problems
+  - **[12 The Doubly Robust or the Augmented Inverse Propensity Score Weighting Estimator for the Average Causal Effect](./en/12_The_Doubly_Robust_or_the_Augmented_Inverse_Propensity_Score_Weighting_Estimator_for_the_Average_Caus.md)**
+    - 12.1 The doubly robust estimator
+      - 12.1.1 Population version
+      - 12.1.2 Sample version
+    - 12.2 More intuition and theory for the doubly robust estimator
+      - 12.2.1 Reducing the variance of the IPW estimator
+      - 12.2.2 Reducing the bias of the outcome regression estimator
+    - 12.3 Examples
+      - 12.3.1 Summary of some canonical estimators for τ
+      - 12.3.2 Simulation
+      - 12.3.3 Applications
+    - 12.4 Some further discussion
+    - 12.5 Homework problems
+  - **[13 The Average Causal Effect on the Treated Units and Other Estimands](./en/13_The_Average_Causal_Effect_on_the_Treated_Units_and_Other_Estimands.md)**
+    - 13.1 Nonparametric identification of τ<sub>T</sub>
+    - 13.2 Inverse propensity score weighting and doubly robust estimation of τ<sub>T</sub>
+    - 13.3 An example
+    - 13.4 Other estimands
+    - 13.5 Homework Problems
+  - **[14 Using the Propensity Score in Regressions for Causal Effects](./en/14_Using_the_Propensity_Score_in_Regressions_for_Causal_Effects.md)**
+    - 14.1 Regressions with the propensity score as a covariate
+    - 14.2 Regressions weighted by the inverse of the propensity score
+      - 14.2.1 Average causal effect
+      - 14.2.2 Average causal effect on the treated units
+    - 14.3 Homework problems
+  - **[15 Matching in Observational Studies](./en/15_Matching_in_Observational_Studies.md)**
+    - 15.1 A simple starting point: many more control units
+    - 15.2 A more complicated but realistic scenario
+    - 15.3 Matching estimator for the average causal effect
+      - 15.3.1 Point estimation and bias correction
+      - 15.3.2 Connection with the doubly robust estimators
+    - 15.4 Matching estimator for the average causal effect on the treated
+    - 15.5 A case study
+      - 15.5.1 Experimental data
+      - 15.5.2 Observational data
+      - 15.5.3 Covariate balance checks
+    - 15.6 Discussion
+    - 15.7 Homework Problems
+- **IV Difficulties and challenges of observational studies**
+  - **[16 Difficulties of Unconfoundedness in Observational Studies for Causal Effects](./en/16_Difficulties_of_Unconfoundedness_in_Observational_Studies_for_Causal_Effects.md)**
+    - 16.1 Some basics of the causal diagram
+    - 16.2 Assessing ignorability
+      - 16.2.1 Using negative outcomes
+      - 16.2.2 Using negative exposures
+      - 16.2.3 Summary
+    - 16.3 Problems of over adjustment
+      - 16.3.1 M-bias
+      - 16.3.2 Z-bias
+      - 16.3.3 What covariates should we adjust for in observational studies?
+    - 16.4 Homework Problems
+  - **[17 E-Value: Evidence for Causation in Observational Studies with Unmeasured Confounding](./en/17_E-Value__Evidence_for_Causation_in_Observational_Studies_with_Unmeasured_Confounding.md)**
+    - 17.1 Cornfield-type sensitivity analysis
+    - 17.2 E-value
+    - 17.3 A classic example
+    - 17.4 Extensions
+      - 17.4.1 E-value and Bradford Hill's criteria for causation
+      - 17.4.2 E-value after logistic regression
+      - 17.4.3 Non-zero true causal effect
+    - 17.5 Critiques and responses
+      - 17.5.1 E-value is just a monotone transformation of the risk ratio
+      - 17.5.2 Calibration of the E-value
+      - 17.5.3 It works the best for a binary outcome and the risk ratio
+    - 17.6 Homework Problems
+  - **[18 Sensitivity Analysis for the Average Causal Effect with Unmeasured Confounding](./en/18_Sensitivity_Analysis_for_the_Average_Causal_Effect_with_Unmeasured_Confounding.md)**
+    - 18.1 Introduction
+    - 18.2 Manski-type worse-case bounds on the average causal effect without assumptions
+    - 18.3 Sensitivity analysis for the average causal effect
+      - 18.3.1 Identification formulas
+    - 18.4 Example
+    - 18.5 Homework Problems
+  - **[19 Rosenbaum-Style p-Values for Matched Observational Studies with Unmeasured Confounding](./en/19_Rosenbaum-Style_p-Values_for_Matched_Observational_Studies_with_Unmeasured_Confounding.md)**
+    - 19.1 The model for sensitivity analysis with matched data
+    - 19.2 Worst-case p-values under Rosenbaum's sensitivity model
+    - 19.3 Revisiting the LaLonde data
+    - 19.4 Homework Problems
+  - **[20 Overlap in Observational Studies: Difficulties and Opportunities](./en/20_Overlap_in_Observational_Studies__Difficulties_and_Opportunities.md)**
+    - 20.1 Implications of overlap
+      - 20.1.1 Trimming in the presence of limited overlap
+      - 20.1.2 Outcome modeling in the presence of limited overlap
+    - 20.2 Causal inference with no overlap: regression discontinuity
+      - 20.2.1 Examples and graphical diagnostics
+      - 20.2.2 A mathematical formulation of regression discontinuity
+      - 20.2.3 Regressions near the boundary
+      - 20.2.4 An example
+      - 20.2.5 Problems of regression discontinuity
+    - 20.3 Homework Problems
+- **V Instrumental variables**
+  - **[21 An Experimental Perspective](./en/21_An_Experimental_Perspective.md)**
+    - 21.1 Encouragement Design and Noncompliance
+    - 21.2 Latent Compliance Status and Effects
+      - 21.2.1 Nonparametric identification
+      - 21.2.2 Estimation
+    - 21.3 Covariates
+      - 21.3.1 Covariate adjustment in complete randomization
+      - 21.3.2 Covariates in conditional randomization or unconfounded observational studies
+    - 21.4 Weak IV
+    - 21.5 Application
+    - 21.6 Interpreting the Complier Average Causal Effect
+    - 21.7 Homework problems
+  - **[22 Disentangle Mixture Distributions and Instrumental Variable Inequalities](./en/22_Disentangle_Mixture_Distributions_and_Instrumental_Variable_Inequalities.md)**
+    - 22.1 Disentangle Mixture Distributions and Instrumental Variable Inequalities
+    - 22.2 Testable implications
+    - 22.3 Examples
+    - 22.4 Homework problems
+  - **[23 An Econometric Perspective](./en/23_An_Econometric_Perspective.md)**
+    - 23.1 Examples of studies with IVs
+    - 23.2 Brief Review of the Ordinary Least Squares
+    - 23.3 Linear Instrumental Variable Model
+    - 23.4 The Just-Identified Case
+    - 23.5 The Over-Identified Case
+    - 23.6 A Special Case: A Single IV for a Single Endogenous Treatment
+      - 23.6.1 Two-stage least squares
+      - 23.6.2 Indirect least squares
+      - 23.6.3 Weak IV
+    - 23.7 Application
+    - 23.8 Homework
+  - **[24 Application of the Instrumental Variable Method: Fuzzy Regression Discontinuity](./en/24_Application_of_the_Instrumental_Variable_Method__Fuzzy_Regression_Discontinuity.md)**
+    - 24.1 Motivating examples
+    - 24.2 Mathematical formulation
+    - 24.3 Application
+      - 24.3.1 Re-analyzing Asher and Novosad (2020)'s data
+      - 24.3.2 Re-analyzing Li et al. (2015)'s data
+    - 24.4 Discussion
+    - 24.5 Homework Problems
+  - **[25 Application of the Instrumental Variable Method: Mendelian Randomization](./en/25_Application_of_the_Instrumental_Variable_Method__Mendelian_Randomization.md)**
+    - 25.1 Background and motivation
+    - 25.2 MR based on summary statistics
+      - 25.2.1 Fixed-effect estimator
+      - 25.2.2 Egger regression
+    - 25.3 An example
+    - 25.4 Critiques of the analysis based on Mendelian randomization
+    - 25.5 Homework Problems
+- **VI Causal Mechanisms with Post-Treatment Variables**
+  - **[26 Principal Stratification](./en/26_Principal_Stratification.md)**
+    - 26.1 Motivating Examples
+    - 26.2 The Problem of Conditioning on the Post-Treatment Variable
+    - 26.3 Conditioning on the Potential Values of the Post-Treatment Variable
+    - 26.4 Statistical Inference and Its Difficulty
+      - 26.4.1 Special case: truncation by death with binary outcome
+      - 26.4.2 An application
+      - 26.4.3 Extensions
+    - 26.5 Principal score method
+      - 26.5.1 Principal score method under strong monotonicity
+      - 26.5.2 Extensions
+    - 26.6 Other methods
+    - 26.7 Homework problems
+  - **[27 Mediation Analysis: Natural Direct and Indirect Effects](./en/27_Mediation_Analysis__Natural_Direct_and_Indirect_Effects.md)**
+    - 27.1 Motivating Examples
+    - 27.2 Nested Potential Outcomes
+      - 27.2.1 Natural Direct and Indirect Effects
+      - 27.2.2 Metaphysics or Science
+    - 27.3 The Mediation Formula
+    - 27.4 The Mediation Formula Under Linear Models
+      - 27.4.1 The Baron-Kenny Method
+      - 27.4.2 An Example
+    - 27.5 Sensitivity analysis
+    - 27.6 Homework problems
+  - **[28 Controlled Direct Effect](./en/28_Controlled_Direct_Effect.md)**
+    - 28.1 Identification and estimation of the controlled direct effect
+    - 28.2 Discussion
+    - 28.3 Homework problems
+  - **[29 Time-Varying Treatment and Confounding](./en/29_Time-Varying_Treatment_and_Confounding.md)**
+    - 29.1 Basic setup and sequential ignorability
+    - 29.2 g-formula and outcome modeling
+      - 29.2.1 Plug-in estimation based on outcome modeling
+      - 29.2.2 Recursive estimation based on outcome modeling
+    - 29.3 Inverse propensity score weighting
+    - 29.4 Multiple time points
+      - 29.4.1 Marginal structural model
+      - 29.4.2 Structural nested model
+    - 29.5 Homework problems
+- **VII Appendices**
+  - **[A1 Probability and Statistics](./en/30_A1_Probability_and_Statistics.md)**
+    - A1.1 Probability
+      - A1.1.1 Tower property and variance decomposition
+      - A1.1.2 Limiting theorems
+      - A1.1.3 Delta method
+    - A1.2 Statistical inference
+      - A1.2.1 Point estimation
+      - A1.2.2 Confidence interval
+      - A1.2.3 Hypothesis testing
+      - A1.2.4 Wald-type confidence interval and test
+      - A1.2.5 Duality between constructing confidence sets and testing null hypotheses
+    - A1.3 Inference with 2 × 2 tables
+      - A1.3.1 Fisher's exact test
+      - A1.3.2 Estimation with 2 × 2 tables
+    - A1.4 Two famous problems in statistics
+      - A1.4.1 Behrens–Fisher problem
+      - A1.4.2 Fieller–Creasy problem
+    - A1.5 Bootstrap
+    - A1.6 Homework problems
+  - **[A2 Linear and Logistic Regressions](./en/31_A2_Linear_and_Logistic_Regressions.md)**
+    - A2.1 Population ordinary least squares
+    - A2.2 Sample OLS
+    - A2.3 Frisch-Waugh-Lovell Theorem
+    - A2.4 Linear model
+    - A2.5 Weighted least squares
+    - A2.6 Logistic regression
+      - A2.6.1 Model
+      - A2.6.2 Maximum likelihood estimate
+      - A2.6.3 Extension to the case-control study
+      - A2.6.4 Logistic regression with weights
+    - A2.7 Homework problems
+  - **[A3 Some Useful Lemmas for Simple Random Sampling](./en/32_A3_Some_Useful_Lemmas_for_Simple_Random_Sampling.md)**
+    - A3.1 Lemmas
+    - A3.2 Proofs
+    - A3.3 Comments on the literature
+    - A3.4 Homework Problems

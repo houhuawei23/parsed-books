@@ -1,0 +1,61 @@
+- [1 随机对照试验（Randomized Controlled Trials）](./en_trans/01_Chapter_1_Randomized_Controlled_Trials_trans.md)
+  - 1.1 均值差估计（Difference-in-means estimation）
+  - 1.2 随机试验中的回归调整（Regression adjustments in randomized trials）
+  - 1.3 文献注释（Bibliographic notes）
+- [2 无混杂性（Unconfoundedness）与倾向得分（Propensity Score）](./en_trans/02_Chapter_2_Unconfoundedness_and_the_Propensity_Score_trans.md)
+  - 2.1 分层估计（Stratified estimation）
+  - 2.2 逆倾向加权（Inverse-propensity weighting）
+  - 2.3 文献注释
+- [3 双重稳健方法（Doubly Robust Methods）](./en_trans/03_Chapter_3_Doubly_Robust_Methods_trans.md)
+  - 3.1 双重机器学习（Double machine learning）
+  - 3.2 无混杂性下的有效估计（Efficient estimation under uncounfoundedness）
+  - 3.3 文献注释
+- [4 异质性处理效应估计（Estimating Heterogeneous Treatment Effects）](./en_trans/04_Chapter_4_Estimating_Heterogeneous_Treatment_Effects_trans.md)
+  - 4.1 半参数建模（Semiparametric modeling）
+  - 4.2 处理异质性的损失函数（A loss function for treatment heterogeneity）
+  - 4.3 文献注释
+- [5 策略学习（Policy Learning）](./en_trans/05_Chapter_5_Policy_Learning_trans.md)
+  - 5.1 策略评估（Policy evaluation）
+  - 5.2 经验福利最大化（Empirical-welfare maximization）
+  - 5.3 文献注释
+- [6 自适应实验（Adaptive Experiments）](./en_trans/06_Chapter_6_Adaptive_Experiments_trans.md)
+  - 6.1 低遗憾数据收集（Low-regret data collection）
+  - 6.2 自适应数据收集后的推断（Inference after adaptive data collection）
+  - 6.3 文献注释
+- [7 平衡估计量（Balancing Estimators）](./en_trans/07_Chapter_7_Balancing_Estimators_trans.md)
+  - 7.1 协变量平衡倾向得分（Covariate-balancing propensity scores）
+  - 7.2 近似平衡与增强估计量（Approximate balance and augmented estimators）
+  - 7.3 文献注释
+- [8 断点回归设计（Regression Discontinuity Designs）](./en_trans/08_Chapter_8_Regression_Discontinuity_Designs_trans.md)
+  - 8.1 局部线性回归（Local linear regression）
+  - 8.2 优化估计与偏差感知推断（Optimized estimation and bias-aware inference）
+  - 8.3 文献注释
+- [9 内生处理下的因果推断（Causal Inference with Endogenous Treatments）](./en_trans/09_Chapter_9_Causal_Inference_with_Endogenous_Treatments_trans.md)
+  - 9.1 结构方程模型与 do-演算（Structural equation models and do-calculus）
+  - 9.2 工具变量回归（Instrumental variables regression）
+  - 9.3 文献注释
+- [10 局部平均处理效应（Local Average Treatment Effects）](./en_trans/10_Chapter_10_Local_Average_Treatment_Effects_trans.md)
+  - 10.1 随机试验中的不依从性（Non-compliance in randomized trials）
+  - 10.2 潜在选择模型（Latent choice models）
+  - 10.3 文献注释
+- [11 溢出效应与干扰（Spillovers and Interference）](./en_trans/11_Chapter_11_Spillovers_and_Interference_trans.md)
+  - 11.1 暴露映射（Exposure mappings）
+  - 11.2 置换检验（Permutation tests）
+  - 11.3 文献注释
+- [12 干扰下的处理效应估计（Estimating Treatment Effects under Interference）](./en_trans/12_Chapter_12_Estimating_Treatment_Effects_under_Interference_trans.md)
+  - 12.1 有限总体方法（Finite-population methods）
+  - 12.2 暴露效应的置信区间（Confidence intervals for exposure effects）
+  - 12.3 文献注释
+- [13 事件研究设计（Event-Study Designs）](./en_trans/13_Chapter_13_Event-Study_Designs_trans.md)
+  - 13.1 双重差分（Difference in differences）
+  - 13.2 合成控制方法（Synthetic-control methods）
+  - 13.3 文献注释
+- [14 动态策略评估（Evaluating Dynamic Policies）](./en_trans/14_Chapter_14_Evaluating_Dynamic_Policies_trans.md)
+  - 14.1 序列无混杂性（Sequential unconfoundedness）
+  - 14.2 双重稳健估计（Doubly robust estimation）
+  - 14.3 文献注释
+- [15 马尔可夫决策过程（Markov Decision Processes）](./en_trans/15_Chapter_15_Markov_Decision_Processes_trans.md)
+  - 15.1 长期平均值（The long-run average value）
+  - 15.2 翻转实验（Switchback experiments）
+  - 15.3 文献注释
+- [16 习题（Exercises）](./en_trans/16_Chapter_16_Exercises_trans.md)

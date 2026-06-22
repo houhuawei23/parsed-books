@@ -1,0 +1,338 @@
+- **前言（Preface）**
+- **缩略语（Acronyms）**
+- **I 引言（Introduction）**
+  - **[1 相关性、关联性与尤尔-辛普森悖论（Correlation, Association, and the Yule–Simpson Paradox）](./en_trans/01_Correlation,_Association,_and_the_Yule–Simpson_Paradox_trans.md)**
+    - 1.1 统计学的传统观点（Traditional view of statistics）
+    - 1.2 一些常用的关联性度量（Some commonly-used measures of association）
+      - 1.2.1 相关与回归（Correlation and regression）
+      - 1.2.2 列联表（Contingency tables）
+    - 1.3 尤尔-辛普森悖论的一个例子（An example of the Yule–Simpson Paradox）
+      - 1.3.1 数据（Data）
+      - 1.3.2 解释（Explanation）
+      - 1.3.3 尤尔-辛普森悖论的几何解释（Geometry of the Yule–Simpson Paradox）
+    - 1.4 伯克利研究生院录取数据（The Berkeley graduate school admission data）
+    - 1.5 课后习题（Homework Problems）
+  - **[2 潜在结果（Potential Outcomes）](./en_trans/02_Potential_Outcomes_trans.md)**
+    - 2.1 实验学家对因果推断的观点（Experimentalists' view of causal inference）
+    - 2.2 潜在结果的形式化符号（Formal notation of potential outcomes）
+      - 2.2.1 因果效应、子组与尤尔-辛普森悖论的不存在性（Causal effects, subgroups, and the non-existence of Yule–Simpson Paradox）
+      - 2.2.2 实验单元的微妙性（Subtlety of experimental unit）
+    - 2.3 处理分配机制（Treatment assignment mechanism）
+    - 2.4 课后习题（Homework Problems）
+- **II 随机化实验（Randomized experiments）**
+  - **[3 完全随机化实验与费希尔随机化检验（The Completely Randomized Experiment and the Fisher Randomization Test）](./en_trans/03_The_Completely_Randomized_Experiment_and_the_Fisher_Randomization_Test_trans.md)**
+    - 3.1 完全随机化实验（CRE）
+    - 3.2 费希尔随机化检验（FRT）
+    - 3.3 检验统计量的典型选择（Canonical choices of the test statistic）
+    - 3.4 LaLonde 实验数据的案例研究（A case study of the LaLonde experimental data）
+    - 3.5 随机化实验与费希尔随机化检验的一些历史（Some history of randomized experiments and FRT）
+      - 3.5.1 James Lind 的实验（James Lind's experiment）
+      - 3.5.2 品茶女士（Lady tasting tea）
+      - 3.5.3 实验的两个费希尔原则（Two Fisherian principles for experiments）
+    - 3.6 讨论（Discussion）
+      - 3.6.1 其他尖锐零假设与置信区间（Other sharp null hypotheses and confidence intervals）
+      - 3.6.2 其他检验统计量（Other test statistics）
+      - 3.6.3 结语（Final remarks）
+    - 3.7 课后习题（Homework Problems）
+  - **[4 完全随机化实验中的奈曼重复抽样推断（Neymanian Repeated Sampling Inference in Completely Randomized Experiments）](./en_trans/04_Neymanian_Repeated_Sampling_Inference_in_Completely_Randomized_Experiments_trans.md)**
+    - 4.1 有限总体量（Finite population quantities）
+    - 4.2 奈曼（1923）定理（Neyman (1923)'s theorem）
+    - 4.3 证明（Proofs）
+    - 4.4 完全随机化实验的回归分析（Regression analysis of the CRE）
+    - 4.5 示例（Examples）
+      - 4.5.1 模拟（Simulation）
+      - 4.5.2 重尾结果与正态近似的失效（Heavy-tailed outcome and failure of Normal approximations）
+      - 4.5.3 应用（Application）
+    - 4.6 课后习题（Homework Problems）
+  - **[5 随机化实验中的分层与事后分层（Stratification and Post-Stratification in Randomized Experiments）](./en_trans/05_Stratification_and_Post-Stratification_in_Randomized_Experiments_trans.md)**
+    - 5.1 分层（Stratification）
+    - 5.2 费希尔随机化检验（FRT）
+      - 5.2.1 理论（Theory）
+      - 5.2.2 一个应用（An application）
+    - 5.3 奈曼推断（Neymanian inference）
+      - 5.3.1 点估计与区间估计（Point and interval estimation）
+      - 5.3.2 数值示例（Numerical examples）
+      - 5.3.3 比较分层随机化实验与完全随机化实验（Comparing the SRE and the CRE）
+    - 5.4 完全随机化实验中的事后分层（Post-stratification in a CRE）
+      - 5.4.1 Meinert 等人（1970）的例子（Meinert et al. (1970)'s Example）
+      - 5.4.2 Chong 等人（2016）的例子（Chong et al. (2016)'s Example）
+    - 5.5 实践问题（Practical questions）
+    - 5.6 课后习题（Homework Problems）
+  - **[6 重随机化与回归调整（Rerandomization and Regression Adjustment）](./en_trans/06_Rerandomization_and_Regression_Adjustment_trans.md)**
+    - 6.1 重随机化（Rerandomization）
+      - 6.1.1 实验设计（Experimental design）
+      - 6.1.2 统计推断（Statistical inference）
+    - 6.2 回归调整（Regression adjustment）
+      - 6.2.1 协变量调整的费希尔随机化检验（Covariate-adjusted FRT）
+      - 6.2.2 协方差分析及其扩展（Analysis of covariance and extensions）
+        - 6.2.2.1 Lin（2013）结果的一些启发式解释（Some heuristics for Lin (2013)'s results）
+        - 6.2.2.2 通过预测潜在结果理解 Lin（2013）的估计量（Understanding Lin (2013)'s estimator via predicting the potential outcomes）
+        - 6.2.2.3 通过调整协变量不平衡理解 Lin（2013）的估计量（Understanding Lin (2013)'s estimator via adjusting for covariate imbalance）
+      - 6.2.3 关于回归调整的一些补充说明（Some additional remarks on regression adjustment）
+        - 6.2.3.1 重随机化与回归调整的对偶性（Duality between ReM and regression adjustment）
+        - 6.2.3.2 回归调整与事后分层的等价性（Equivalence of regression adjustment and post-stratification）
+        - 6.2.3.3 双重差分作为协变量调整的特例（Difference-in-difference as a special case of covariate adjustment）
+      - 6.2.4 扩展到分层随机化实验（Extension to the SRE）
+    - 6.3 统一、结合与比较（Unification, combination, and comparison）
+    - 6.4 模拟（Simulation）
+    - 6.5 结语（Final remarks）
+    - 6.6 课后习题（Homework Problems）
+  - **[7 配对实验（Matched-Pairs Experiment）](./en_trans/07_Matched-Pairs_Experiment_trans.md)**
+    - 7.1 实验设计与潜在结果（Design of the experiment and potential outcomes）
+    - 7.2 费希尔随机化检验（FRT）
+    - 7.3 奈曼推断（Neymanian inference）
+    - 7.4 协变量调整（Covariate adjustment）
+      - 7.4.1 费希尔随机化检验（FRT）
+      - 7.4.2 回归调整（Regression adjustment）
+    - 7.5 示例（Examples）
+      - 7.5.1 达尔文关于异花受精与自花受精对玉米高度影响的数据（Darwin's data comparing cross-fertilizing and self-fertilizing on the height of corns）
+      - 7.5.2 儿童电视工作室实验数据（Children's television workshop experiment data）
+    - 7.6 比较配对实验与完全随机化实验（Comparing the MPE and CRE）
+    - 7.7 扩展到一般匹配实验（Extension to the general matched experiment）
+      - 7.7.1 费希尔随机化检验（FRT）
+      - 7.7.2 估计层内效应的平均值（Estimating the average of the within-strata effects）
+      - 7.7.3 一个更一般的因果估计目标（A more general causal estimand）
+    - 7.8 课后习题（Homework Problems）
+  - **[8 随机化实验中费希尔推断与奈曼推断的统一（Unification of the Fisherian and Neymanian Inferences in Randomized Experiments）](./en_trans/08_Unification_of_the_Fisherian_and_Neymanian_Inferences_in_Randomized_Experiments_trans.md)**
+    - 8.1 在完全随机化实验中检验强零假设与弱零假设（Testing strong and weak null hypotheses in the CRE）
+    - 8.2 完全随机化实验中的协变量调整费希尔随机化检验（Covariate-adjusted FRTs in the CRE）
+    - 8.3 一般性建议（General recommendations）
+    - 8.4 案例研究（A case study）
+    - 8.5 课后习题（Homework Problems）
+  - **[9 连接有限总体与超总体因果推断（Bridging Finite and Super Population Causal Inference）](./en_trans/09_Bridging_Finite_and_Super_Population_Causal_Inference_trans.md)**
+    - 9.1 完全随机化实验（CRE）
+    - 9.2 分层随机化实验（SRE）
+    - 9.3 课后习题（Homework Problems）
+- **III 观察性研究（Observational studies）**
+  - **[10 观察性研究、选择偏差与因果效应的非参数识别（Observational Studies, Selection Bias, and Nonparametric Identification of Causal Effects）](./en_trans/10_Observational_Studies,_Selection_Bias,_and_Nonparametric_Identification_of_Causal_Effects_trans.md)**
+    - 10.1 启发性示例（Motivating Examples）
+    - 10.2 潜在结果框架下的因果效应与选择偏差（Causal effects and selection bias under the potential outcomes framework）
+    - 10.3 非参数识别的充分条件（Sufficient conditions for nonparametric identification）
+      - 10.3.1 识别（Identification）
+      - 10.3.2 假设的合理性（Plausibility of the assumption）
+    - 10.4 两种简单的估计策略及其局限性（Two simple estimation strategies and their limitations）
+      - 10.4.1 基于离散协变量的分层或标准化（Stratification or standardization based on discrete covariates）
+      - 10.4.2 结果回归（Outcome regression）
+    - 10.5 课后习题（Homework Problems）
+  - **[11 倾向得分在观察性研究因果效应中的核心作用（The Central Role of the Propensity Score in Observational Studies for Causal Effects）](./en_trans/11_The_Central_Role_of_the_Propensity_Score_in_Observational_Studies_for_Causal_Effects_trans.md)**
+    - 11.1 作为降维工具的倾向得分（The propensity score as a dimension reduction tool）
+      - 11.1.1 理论（Theory）
+      - 11.1.2 倾向得分分层（Propensity score stratification）
+      - 11.1.3 应用（Application）
+    - 11.2 倾向得分加权（Propensity score weighting）
+      - 11.2.1 理论（Theory）
+      - 11.2.2 逆倾向得分加权估计量（Inverse propensity score weighting estimators）
+      - 11.2.3 加权的一个问题与因果推断的一个基本问题（A problem of weighting and a fundamental problem of causal inference）
+      - 11.2.4 应用（Application）
+    - 11.3 作为平衡得分的倾向得分（The propensity score as a balancing score）
+      - 11.3.1 理论（Theory）
+      - 11.3.2 协变量平衡检验（Covariate balance check）
+    - 11.4 课后习题（Homework Problems）
+  - **[12 用于平均因果效应的双重稳健或增强型逆倾向得分加权估计量（The Doubly Robust or the Augmented Inverse Propensity Score Weighting Estimator for the Average Causal Effect）](./en_trans/12_The_Doubly_Robust_or_the_Augmented_Inverse_Propensity_Score_Weighting_Estimator_for_the_Average_Caus_trans.md)**
+    - 12.1 双重稳健估计量（The doubly robust estimator）
+      - 12.1.1 总体版本（Population version）
+      - 12.1.2 样本版本（Sample version）
+    - 12.2 关于双重稳健估计量的更多直觉与理论（More intuition and theory for the doubly robust estimator）
+      - 12.2.1 降低逆倾向得分加权估计量的方差（Reducing the variance of the IPW estimator）
+      - 12.2.2 降低结果回归估计量的偏差（Reducing the bias of the outcome regression estimator）
+    - 12.3 示例（Examples）
+      - 12.3.1 一些典型估计量 $\tau$ 的总结（Summary of some canonical estimators for τ）
+      - 12.3.2 模拟（Simulation）
+      - 12.3.3 应用（Applications）
+    - 12.4 进一步讨论（Some further discussion）
+    - 12.5 课后习题（Homework problems）
+  - **[13 处理单元上的平均因果效应及其他估计目标（The Average Causal Effect on the Treated Units and Other Estimands）](./en_trans/13_The_Average_Causal_Effect_on_the_Treated_Units_and_Other_Estimands_trans.md)**
+    - 13.1 $\tau_{\text{T}}$ 的非参数识别（Nonparametric identification of τ<sub>T</sub>）
+    - 13.2 $\tau_{\text{T}}$ 的逆倾向得分加权与双重稳健估计（Inverse propensity score weighting and doubly robust estimation of τ<sub>T</sub>）
+    - 13.3 一个例子（An example）
+    - 13.4 其他估计目标（Other estimands）
+    - 13.5 课后习题（Homework Problems）
+  - **[14 在回归中使用倾向得分估计因果效应（Using the Propensity Score in Regressions for Causal Effects）](./en_trans/14_Using_the_Propensity_Score_in_Regressions_for_Causal_Effects_trans.md)**
+    - 14.1 以倾向得分为协变量的回归（Regressions with the propensity score as a covariate）
+    - 14.2 以倾向得分倒数为权重的回归（Regressions weighted by the inverse of the propensity score）
+      - 14.2.1 平均因果效应（Average causal effect）
+      - 14.2.2 处理单元上的平均因果效应（Average causal effect on the treated units）
+    - 14.3 课后习题（Homework problems）
+  - **[15 观察性研究中的匹配（Matching in Observational Studies）](./en_trans/15_Matching_in_Observational_Studies_trans.md)**
+    - 15.1 简单的起点：更多的对照单元（A simple starting point: many more control units）
+    - 15.2 更复杂但现实的场景（A more complicated but realistic scenario）
+    - 15.3 平均因果效应的匹配估计量（Matching estimator for the average causal effect）
+      - 15.3.1 点估计与偏差校正（Point estimation and bias correction）
+      - 15.3.2 与双重稳健估计量的联系（Connection with the doubly robust estimators）
+    - 15.4 处理单元上平均因果效应的匹配估计量（Matching estimator for the average causal effect on the treated）
+    - 15.5 案例研究（A case study）
+      - 15.5.1 实验数据（Experimental data）
+      - 15.5.2 观察性数据（Observational data）
+      - 15.5.3 协变量平衡检验（Covariate balance checks）
+    - 15.6 讨论（Discussion）
+    - 15.7 课后习题（Homework Problems）
+- **IV 观察性研究的困难与挑战（Difficulties and challenges of observational studies）**
+  - **[16 观察性研究因果效应中不可忽略性的困难（Difficulties of Unconfoundedness in Observational Studies for Causal Effects）](./en_trans/16_Difficulties_of_Unconfoundedness_in_Observational_Studies_for_Causal_Effects_trans.md)**
+    - 16.1 因果图的一些基础知识（Some basics of the causal diagram）
+    - 16.2 评估可忽略性（Assessing ignorability）
+      - 16.2.1 使用阴性结果（Using negative outcomes）
+      - 16.2.2 使用阴性暴露（Using negative exposures）
+      - 16.2.3 总结（Summary）
+    - 16.3 过度调整的问题（Problems of over adjustment）
+      - 16.3.1 M-偏差（M-bias）
+      - 16.3.2 Z-偏差（Z-bias）
+      - 16.3.3 在观察性研究中我们应该调整哪些协变量？（What covariates should we adjust for in observational studies?）
+    - 16.4 课后习题（Homework Problems）
+  - **[17 E-值：存在未测量混杂的观察性研究中因果关系的证据（E-Value: Evidence for Causation in Observational Studies with Unmeasured Confounding）](./en_trans/17_E-Value__Evidence_for_Causation_in_Observational_Studies_with_Unmeasured_Confounding_trans.md)**
+    - 17.1 Cornfield 型敏感性分析（Cornfield-type sensitivity analysis）
+    - 17.2 E-值（E-value）
+    - 17.3 一个经典例子（A classic example）
+    - 17.4 扩展（Extensions）
+      - 17.4.1 E-值与 Bradford Hill 因果关系标准（E-value and Bradford Hill's criteria for causation）
+      - 17.4.2 逻辑回归后的 E-值（E-value after logistic regression）
+      - 17.4.3 非零真实因果效应（Non-zero true causal effect）
+    - 17.5 批评与回应（Critiques and responses）
+      - 17.5.1 E-值只是风险比的单调变换（E-value is just a monotone transformation of the risk ratio）
+      - 17.5.2 E-值的校准（Calibration of the E-value）
+      - 17.5.3 它最适合二元结果和风险比（It works the best for a binary outcome and the risk ratio）
+    - 17.6 课后习题（Homework Problems）
+  - **[18 存在未测量混杂时平均因果效应的敏感性分析（Sensitivity Analysis for the Average Causal Effect with Unmeasured Confounding）](./en_trans/18_Sensitivity_Analysis_for_the_Average_Causal_Effect_with_Unmeasured_Confounding_trans.md)**
+    - 18.1 引言（Introduction）
+    - 18.2 无假设下平均因果效应的 Manski 型最坏情况界（Manski-type worse-case bounds on the average causal effect without assumptions）
+    - 18.3 平均因果效应的敏感性分析（Sensitivity analysis for the average causal effect）
+      - 18.3.1 识别公式（Identification formulas）
+    - 18.4 示例（Example）
+    - 18.5 课后习题（Homework Problems）
+  - **[19 存在未测量混杂的匹配观察性研究的 Rosenbaum 型 p-值（Rosenbaum-Style p-Values for Matched Observational Studies with Unmeasured Confounding）](./en_trans/19_Rosenbaum-Style_p-Values_for_Matched_Observational_Studies_with_Unmeasured_Confounding_trans.md)**
+    - 19.1 匹配数据敏感性分析模型（The model for sensitivity analysis with matched data）
+    - 19.2 Rosenbaum 敏感性模型下的最坏情况 p-值（Worst-case p-values under Rosenbaum's sensitivity model）
+    - 19.3 重新审视 LaLonde 数据（Revisiting the LaLonde data）
+    - 19.4 课后习题（Homework Problems）
+  - **[20 观察性研究中的重叠：困难与机遇（Overlap in Observational Studies: Difficulties and Opportunities）](./en_trans/20_Overlap_in_Observational_Studies__Difficulties_and_Opportunities_trans.md)**
+    - 20.1 重叠的含义（Implications of overlap）
+      - 20.1.1 有限重叠情况下的修剪（Trimming in the presence of limited overlap）
+      - 20.1.2 有限重叠情况下的结果建模（Outcome modeling in the presence of limited overlap）
+    - 20.2 无重叠时的因果推断：断点回归（Causal inference with no overlap: regression discontinuity）
+      - 20.2.1 示例与图形诊断（Examples and graphical diagnostics）
+      - 20.2.2 断点回归的数学表述（A mathematical formulation of regression discontinuity）
+      - 20.2.3 边界附近的回归（Regressions near the boundary）
+      - 20.2.4 一个例子（An example）
+      - 20.2.5 断点回归的问题（Problems of regression discontinuity）
+    - 20.3 课后习题（Homework Problems）
+- **V 工具变量（Instrumental variables）**
+  - **[21 实验视角（An Experimental Perspective）](./en_trans/21_An_Experimental_Perspective_trans.md)**
+    - 21.1 鼓励设计与不依从（Encouragement Design and Noncompliance）
+    - 21.2 潜在依从状态与效应（Latent Compliance Status and Effects）
+      - 21.2.1 非参数识别（Nonparametric identification）
+      - 21.2.2 估计（Estimation）
+    - 21.3 协变量（Covariates）
+      - 21.3.1 完全随机化中的协变量调整（Covariate adjustment in complete randomization）
+      - 21.3.2 条件随机化或不可忽略的观察性研究中的协变量（Covariates in conditional randomization or unconfounded observational studies）
+    - 21.4 弱工具变量（Weak IV）
+    - 21.5 应用（Application）
+    - 21.6 解释依从者平均因果效应（Interpreting the Complier Average Causal Effect）
+    - 21.7 课后习题（Homework problems）
+  - **[22 解混混合分布与工具变量不等式（Disentangle Mixture Distributions and Instrumental Variable Inequalities）](./en_trans/22_Disentangle_Mixture_Distributions_and_Instrumental_Variable_Inequalities_trans.md)**
+    - 22.1 解混混合分布与工具变量不等式（Disentangle Mixture Distributions and Instrumental Variable Inequalities）
+    - 22.2 可检验的隐含条件（Testable implications）
+    - 22.3 示例（Examples）
+    - 22.4 课后习题（Homework problems）
+  - **[23 计量经济学视角（An Econometric Perspective）](./en_trans/23_An_Econometric_Perspective_trans.md)**
+    - 23.1 使用工具变量的研究示例（Examples of studies with IVs）
+    - 23.2 普通最小二乘法简要回顾（Brief Review of the Ordinary Least Squares）
+    - 23.3 线性工具变量模型（Linear Instrumental Variable Model）
+    - 23.4 恰好识别的情况（The Just-Identified Case）
+    - 23.5 过度识别的情况（The Over-Identified Case）
+    - 23.6 特例：单个内生处理的单个工具变量（A Special Case: A Single IV for a Single Endogenous Treatment）
+      - 23.6.1 两阶段最小二乘法（Two-stage least squares）
+      - 23.6.2 间接最小二乘法（Indirect least squares）
+      - 23.6.3 弱工具变量（Weak IV）
+    - 23.7 应用（Application）
+    - 23.8 课后习题（Homework）
+  - **[24 工具变量方法的应用：模糊断点回归（Application of the Instrumental Variable Method: Fuzzy Regression Discontinuity）](./en_trans/24_Application_of_the_Instrumental_Variable_Method__Fuzzy_Regression_Discontinuity_trans.md)**
+    - 24.1 启发性示例（Motivating examples）
+    - 24.2 数学表述（Mathematical formulation）
+    - 24.3 应用（Application）
+      - 24.3.1 重新分析 Asher 和 Novosad（2020）的数据（Re-analyzing Asher and Novosad (2020)'s data）
+      - 24.3.2 重新分析 Li 等人（2015）的数据（Re-analyzing Li et al. (2015)'s data）
+    - 24.4 讨论（Discussion）
+    - 24.5 课后习题（Homework Problems）
+  - **[25 工具变量方法的应用：孟德尔随机化（Application of the Instrumental Variable Method: Mendelian Randomization）](./en_trans/25_Application_of_the_Instrumental_Variable_Method__Mendelian_Randomization_trans.md)**
+    - 25.1 背景与动机（Background and motivation）
+    - 25.2 基于汇总统计量的孟德尔随机化（MR based on summary statistics）
+      - 25.2.1 固定效应估计量（Fixed-effect estimator）
+      - 25.2.2 Egger 回归（Egger regression）
+    - 25.3 一个例子（An example）
+    - 25.4 基于孟德尔随机化分析的批评（Critiques of the analysis based on Mendelian randomization）
+    - 25.5 课后习题（Homework Problems）
+- **VI 含处理后变量的因果机制（Causal Mechanisms with Post-Treatment Variables）**
+  - **[26 主分层（Principal Stratification）](./en_trans/26_Principal_Stratification_trans.md)**
+    - 26.1 启发性示例（Motivating Examples）
+    - 26.2 以处理后变量为条件的问题（The Problem of Conditioning on the Post-Treatment Variable）
+    - 26.3 以处理后变量的潜在值为条件（Conditioning on the Potential Values of the Post-Treatment Variable）
+    - 26.4 统计推断及其困难（Statistical Inference and Its Difficulty）
+      - 26.4.1 特例：二元结果下的因死亡截断（Special case: truncation by death with binary outcome）
+      - 26.4.2 一个应用（An application）
+      - 26.4.3 扩展（Extensions）
+    - 26.5 主得分方法（Principal score method）
+      - 26.5.1 强单调性下的主得分方法（Principal score method under strong monotonicity）
+      - 26.5.2 扩展（Extensions）
+    - 26.6 其他方法（Other methods）
+    - 26.7 课后习题（Homework problems）
+  - **[27 中介分析：自然直接效应与间接效应（Mediation Analysis: Natural Direct and Indirect Effects）](./en_trans/27_Mediation_Analysis__Natural_Direct_and_Indirect_Effects_trans.md)**
+    - 27.1 启发性示例（Motivating Examples）
+    - 27.2 嵌套潜在结果（Nested Potential Outcomes）
+      - 27.2.1 自然直接效应与间接效应（Natural Direct and Indirect Effects）
+      - 27.2.2 形而上学还是科学（Metaphysics or Science）
+    - 27.3 中介公式（The Mediation Formula）
+    - 27.4 线性模型下的中介公式（The Mediation Formula Under Linear Models）
+      - 27.4.1 Baron-Kenny 方法（The Baron-Kenny Method）
+      - 27.4.2 一个例子（An Example）
+    - 27.5 敏感性分析（Sensitivity analysis）
+    - 27.6 课后习题（Homework problems）
+  - **[28 受控直接效应（Controlled Direct Effect）](./en_trans/28_Controlled_Direct_Effect_trans.md)**
+    - 28.1 受控直接效应的识别与估计（Identification and estimation of the controlled direct effect）
+    - 28.2 讨论（Discussion）
+    - 28.3 课后习题（Homework problems）
+  - **[29 时变处理与混杂（Time-Varying Treatment and Confounding）](./en_trans/29_Time-Varying_Treatment_and_Confounding_trans.md)**
+    - 29.1 基本设定与序贯可忽略性（Basic setup and sequential ignorability）
+    - 29.2 g-公式与结果建模（g-formula and outcome modeling）
+      - 29.2.1 基于结果建模的插件估计（Plug-in estimation based on outcome modeling）
+      - 29.2.2 基于结果建模的递归估计（Recursive estimation based on outcome modeling）
+    - 29.3 逆倾向得分加权（Inverse propensity score weighting）
+    - 29.4 多个时间点（Multiple time points）
+      - 29.4.1 边际结构模型（Marginal structural model）
+      - 29.4.2 结构嵌套模型（Structural nested model）
+    - 29.5 课后习题（Homework problems）
+- **VII 附录（Appendices）**
+  - **[A1 概率论与数理统计（Probability and Statistics）](./en_trans/30_A1_Probability_and_Statistics_trans.md)**
+    - A1.1 概率论（Probability）
+      - A1.1.1 塔性质与方差分解（Tower property and variance decomposition）
+      - A1.1.2 极限定理（Limiting theorems）
+      - A1.1.3 Delta 方法（Delta method）
+    - A1.2 统计推断（Statistical inference）
+      - A1.2.1 点估计（Point estimation）
+      - A1.2.2 置信区间（Confidence interval）
+      - A1.2.3 假设检验（Hypothesis testing）
+      - A1.2.4 Wald 型置信区间与检验（Wald-type confidence interval and test）
+      - A1.2.5 构建置信集与检验零假设的对偶性（Duality between constructing confidence sets and testing null hypotheses）
+    - A1.3 $2 \times 2$ 表的推断（Inference with 2 × 2 tables）
+      - A1.3.1 费希尔精确检验（Fisher's exact test）
+      - A1.3.2 $2 \times 2$ 表的估计（Estimation with 2 × 2 tables）
+    - A1.4 统计学中的两个著名问题（Two famous problems in statistics）
+      - A1.4.1 Behrens-Fisher 问题（Behrens–Fisher problem）
+      - A1.4.2 Fieller-Creasy 问题（Fieller–Creasy problem）
+    - A1.5 自助法（Bootstrap）
+    - A1.6 课后习题（Homework problems）
+  - **[A2 线性回归与逻辑回归（Linear and Logistic Regressions）](./en_trans/31_A2_Linear_and_Logistic_Regressions_trans.md)**
+    - A2.1 总体普通最小二乘法（Population ordinary least squares）
+    - A2.2 样本普通最小二乘法（Sample OLS）
+    - A2.3 Frisch-Waugh-Lovell 定理（Frisch-Waugh-Lovell Theorem）
+    - A2.4 线性模型（Linear model）
+    - A2.5 加权最小二乘法（Weighted least squares）
+    - A2.6 逻辑回归（Logistic regression）
+      - A2.6.1 模型（Model）
+      - A2.6.2 最大似然估计（Maximum likelihood estimate）
+      - A2.6.3 扩展到病例对照研究（Extension to the case-control study）
+      - A2.6.4 带权重的逻辑回归（Logistic regression with weights）
+    - A2.7 课后习题（Homework problems）
+  - **[A3 简单随机抽样的一些有用引理（Some Useful Lemmas for Simple Random Sampling）](./en_trans/32_A3_Some_Useful_Lemmas_for_Simple_Random_Sampling_trans.md)**
+    - A3.1 引理（Lemmas）
+    - A3.2 证明（Proofs）
+    - A3.3 文献评论（Comments on the literature）
+    - A3.4 课后习题（Homework Problems）

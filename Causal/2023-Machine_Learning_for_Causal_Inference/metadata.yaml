@@ -1,0 +1,22 @@
+title: "Machine Learning for Causal Inference"
+author:
+  - Sheng Li
+  - Zhixuan Chu
+date: 2023-11-17
+keywords:
+  - causal inference
+  - machine learning
+  - treatment effect estimation
+  - causal graphs
+  - fairness
+  - explainable AI
+  - domain generalization
+  - recommender systems
+  - natural language processing
+abstract: |
+  An edited volume that surveys the convergence of machine learning and causal
+  inference. It reviews causal inference preliminaries and basic methodologies,
+  then examines recent progress in causal effect estimation on graphs, fair
+  machine learning, causal explainability, domain generalization, and
+  applications in natural language processing, recommendations, label noise,
+  time-series forecasting, and continual learning.

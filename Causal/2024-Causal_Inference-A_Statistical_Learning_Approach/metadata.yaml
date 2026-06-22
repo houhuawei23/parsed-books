@@ -1,0 +1,26 @@
+title: "Causal Inference"
+subtitle: "A Statistical Learning Approach"
+author:
+  - Stefan Wager
+date: 2024-09-06
+keywords:
+  - causal inference
+  - statistical learning
+  - randomized controlled trials
+  - unconfoundedness
+  - propensity score
+  - doubly robust estimation
+  - heterogeneous treatment effects
+  - policy learning
+  - adaptive experiments
+  - regression discontinuity
+  - instrumental variables
+  - interference
+  - event-study designs
+abstract: |
+  A draft textbook on causal inference from a statistical learning perspective.
+  It covers randomized controlled trials, unconfoundedness and propensity-score
+  methods, doubly robust and balancing estimators, heterogeneous treatment
+  effects, policy learning, adaptive experiments, regression discontinuity
+  designs, instrumental variables, spillovers and interference, event-study
+  designs, dynamic policy evaluation, and Markov decision processes.
